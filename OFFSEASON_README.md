@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Zymewire | Data Associate | Remote (Ontario) | <a href="https://www1.communitech.ca/companies/zymewire/jobs/54927252-data-associate-fall-winter-internship#content?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | Wabtec | Mechatronic Engineering Intern | London, ON | <a href="https://londontechjobs.ca/job.aspx?jid=edd8681d-7547-43d0-ac99-ecd366ff6860&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | Siemens | Agile Tester | Calgary, AB | <a href="https://jobs.siemens.com/careers/job/563156126166587?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | General Dynamics Land Systems | Cybersecurity Student | London, ON | <a href="https://londontechjobs.ca/job.aspx?jid=ba994da6-ec57-4787-9775-14a3d3f89f8a&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |

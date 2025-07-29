@@ -126,5 +126,21 @@
         "date_posted": 1753817009,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753817021,
+        "url": "https://www1.communitech.ca/companies/zymewire/jobs/54927252-data-associate-fall-winter-internship#content",
+        "locations": [
+            "Remote (Ontario)"
+        ],
+        "active": true,
+        "company_name": "Zymewire",
+        "title": "Data Associate",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "5f46aba5-2628-45fb-a127-36284b800e3c",
+        "date_posted": 1753817021,
+        "company_url": "",
+        "is_visible": true
     }
 ]
