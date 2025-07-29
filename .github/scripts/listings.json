@@ -94,5 +94,21 @@
         "date_posted": 1753816900,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753816972,
+        "url": "https://londontechjobs.ca/job.aspx?jid=edd8681d-7547-43d0-ac99-ecd366ff6860",
+        "locations": [
+            "London, ON"
+        ],
+        "active": true,
+        "company_name": "Wabtec",
+        "title": "Mechatronic Engineering Intern",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "e2a5ac13-04ce-4515-babc-734a41eefabd",
+        "date_posted": 1753816972,
+        "company_url": "",
+        "is_visible": true
     }
 ]

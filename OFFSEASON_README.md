@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Wabtec | Mechatronic Engineering Intern | London, ON | <a href="https://londontechjobs.ca/job.aspx?jid=edd8681d-7547-43d0-ac99-ecd366ff6860&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | Siemens | Agile Tester | Calgary, AB | <a href="https://jobs.siemens.com/careers/job/563156126166587?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | General Dynamics Land Systems | Cybersecurity Student | London, ON | <a href="https://londontechjobs.ca/job.aspx?jid=ba994da6-ec57-4787-9775-14a3d3f89f8a&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | Definity | Technology Solutions | Toronto, ON | <a href="https://careers.definityfinancial.com/jobs/16076675-technology-solutions-fall-2025-co-op-slash-intern?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
