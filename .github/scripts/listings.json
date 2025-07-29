@@ -14,5 +14,21 @@
         "date_posted": 1744270686,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753811443,
+        "url": "https://careers.abb/global/en/job/ABB1GLOBALJR00005435EXTERNALENGLOBAL/Information-Technology-IT-Intern-Fall-2025",
+        "locations": [
+            "Dorval, Quebec"
+        ],
+        "active": false,
+        "company_name": "ABB",
+        "title": "Information Technology (IT) Intern",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "b7fced84-a487-486f-8f0f-c2295b43ae6f",
+        "date_posted": 1753811443,
+        "company_url": "",
+        "is_visible": true
     }
 ]

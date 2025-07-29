@@ -19,4 +19,5 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Tesla | Software Controls Engineer Intern, Optimus - Fall | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/241053?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 10 |
+| ABB | Information Technology (IT) Intern | Dorval, Quebec | 🔒 | Jul 29 |
 
