@@ -46,5 +46,21 @@
         "date_posted": 1753812520,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753816733,
+        "url": "https://londontechjobs.ca/job.aspx?jid=ba994da6-ec57-4787-9775-14a3d3f89f8a",
+        "locations": [
+            "London, ON"
+        ],
+        "active": true,
+        "company_name": "General Dynamics Land Systems",
+        "title": "Cybersecurity Student",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "8e7f28de-2c88-4a34-84a6-2f9582724145",
+        "date_posted": 1753816733,
+        "company_url": "",
+        "is_visible": true
     }
 ]
