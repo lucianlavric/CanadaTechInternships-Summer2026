@@ -24,6 +24,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 | Company | Role | Location | Application | Age |
+| ------- | ---- | -------- | ----------- | --- |
 | Ciena | Embedded Software Engineer | Ottawa, ON | <a href="https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Embedded-Software-Engineer---Co-op--Fall-2025---4-16-Months-_R028459?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | July 18 |
 | MDA Space | Engineering Student, Software | Kanata, ON | <a href="https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=c6fc26ff-0ef4-411d-9534-35094a072c86?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | July 21 |
 | Siemens | Agile Tester | Calgary, AB | <a href="https://jobs.siemens.com/careers/job/563156126166587?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | N/A |
