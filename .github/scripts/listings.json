@@ -142,5 +142,21 @@
         "date_posted": 1753817021,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753817030,
+        "url": "https://www1.communitech.ca/companies/ansys/jobs/55306354-spring-2026-electronics-intern-bs#content",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "ANSYS",
+        "title": "Spring 2026 Electronics Intern (BS)",
+        "season": "Spring",
+        "source": "lucianlavric",
+        "id": "5d0913d2-3b93-4ad9-96d1-c94abd37c512",
+        "date_posted": 1753817030,
+        "company_url": "",
+        "is_visible": true
     }
 ]
