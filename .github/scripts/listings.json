@@ -238,5 +238,21 @@
         "date_posted": 1753817099,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753817394,
+        "url": "https://www1.communitech.ca/companies/a-thinking-ape/jobs/53253417-software-engineer-co-op-intern-sep-dec-2025#content",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "A Thinking Ape",
+        "title": "Software Engineer Co-op/Intern",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "9c7beee1-93b5-4149-b97f-e6ddf51968e6",
+        "date_posted": 1753817394,
+        "company_url": "",
+        "is_visible": true
     }
 ]
