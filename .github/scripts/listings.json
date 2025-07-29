@@ -222,5 +222,21 @@
         "date_posted": 1753817079,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753817099,
+        "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7ccd60ea-aa86-42d3-a33a-04a5915d217e&ccId=19000101_000001&lang=en_CA&jobId=525627",
+        "locations": [
+            "North Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "Olympic Industries ULC",
+        "title": "Commodity Trader Intern/Co-op",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "7dae23a7-86c0-4d38-be56-e45083869458",
+        "date_posted": 1753817099,
+        "company_url": "",
+        "is_visible": true
     }
 ]
