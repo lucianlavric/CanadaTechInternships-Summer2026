@@ -13,9 +13,9 @@ LINES = {
     "title": 5,
     "locations": 7,
     "season": 9,
-    "active": 13,
-    "email": 15,
-    "email_is_edit": 17
+    "active": 11,
+    "email": 13,
+    "email_is_edit": 15
 }
 
 # Lines for close_internship form
