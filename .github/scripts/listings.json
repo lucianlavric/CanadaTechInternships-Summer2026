@@ -30,5 +30,21 @@
         "date_posted": 1753811576,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753812520,
+        "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Embedded-Software-Engineer---Co-op--Fall-2025---4-16-Months-_R028459",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Ciena",
+        "title": "Embedded Software Engineer",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "b595a797-628b-4c65-bea1-5a76e0ad17ba",
+        "date_posted": 1753812520,
+        "company_url": "",
+        "is_visible": true
     }
 ]

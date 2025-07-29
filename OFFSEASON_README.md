@@ -19,5 +19,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Siemens | Agile Tester | Calgary, AB | <a href="https://jobs.siemens.com/careers/job/563156126166587?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
+| Ciena | Embedded Software Engineer | Ottawa, ON | <a href="https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Embedded-Software-Engineer---Co-op--Fall-2025---4-16-Months-_R028459?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | ABB | Information Technology (IT) Intern | Dorval, Quebec | <a href="https://careers.abb/global/en/job/ABB1GLOBALJR00005435EXTERNALENGLOBAL/Information-Technology-IT-Intern-Fall-2025?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 
