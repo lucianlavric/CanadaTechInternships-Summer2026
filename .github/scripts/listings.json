@@ -190,5 +190,21 @@
         "date_posted": 1753817054,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753817065,
+        "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Technical-Analyst--Fall-2025--Co-op-Internship----8-months_R250019007",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "BMO",
+        "title": "Technical Analyst",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "48a1f112-b967-4001-aa47-3fb8c86ab2bc",
+        "date_posted": 1753817065,
+        "company_url": "",
+        "is_visible": true
     }
 ]
