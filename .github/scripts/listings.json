@@ -62,5 +62,21 @@
         "date_posted": 1753816733,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753816889,
+        "url": "https://careers.definityfinancial.com/jobs/16076675-technology-solutions-fall-2025-co-op-slash-intern",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Definity",
+        "title": "Technology Solutions",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "d05ea1c2-b44b-493c-8ba8-37327c9afb24",
+        "date_posted": 1753816889,
+        "company_url": "",
+        "is_visible": true
     }
 ]
