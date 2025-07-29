@@ -30,5 +30,21 @@
         "date_posted": 1753811443,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753811576,
+        "url": "https://jobs.siemens.com/careers/job/563156126166587",
+        "locations": [
+            "Calgary, AB"
+        ],
+        "active": true,
+        "company_name": "Siemens",
+        "title": "Agile Tester",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "a1aed649-866f-445d-bd79-f81f8f57ab46",
+        "date_posted": 1753811576,
+        "company_url": "",
+        "is_visible": true
     }
 ]
