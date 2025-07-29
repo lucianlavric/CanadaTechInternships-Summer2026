@@ -286,5 +286,21 @@
         "date_posted": 1753817654,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753818885,
+        "url": "https://jobs.sap.com/job/Montreal-SAP-CX-iXp-Intern-Software-Developer-Queb-H3B-0B3/1225690701",
+        "locations": [
+            "Montr\u00e9al, QC"
+        ],
+        "active": true,
+        "company_name": "SAP",
+        "title": "Software Developer",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "59e6da22-ba98-45f5-a4df-3eecac22c41c",
+        "date_posted": 1753818885,
+        "company_url": "",
+        "is_visible": true
     }
 ]
