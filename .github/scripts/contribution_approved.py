@@ -65,13 +65,6 @@ def getData(body, is_edit, is_close, username):
     if "no response" not in lines[ LINES["locations"] ].lower():
         data["locations"] = [line.strip() for line in lines[ LINES["locations"] ].split("|")]
 
-    # sponsorship handling
-    if "no response" not in lines[ LINES["sponsorship"] ].lower():
-        data["sponsorship"] = "Other"
-        for option in ["Offers Sponsorship", "Does Not Offer Sponsorship", "U.S. Citizenship is Required"]:
-            if option in lines[ LINES["sponsorship"] ]:
-                data["sponsorship"] = option
-
     # active handling
     if "none" not in lines[ LINES["active"] ].lower():
         data["active"] = "yes" in lines[ LINES["active"] ].lower()
@@ -142,8 +135,7 @@ def main():
 
     def get_commit_text(listing):
         closed_text = "" if listing["active"] else "(Closed)"
-        sponsorship_text = "" if listing["sponsorship"] == "Other" else ("(" + listing["sponsorship"] + ")")
-        listing_text = (listing["title"].strip() + " at " + listing["company_name"].strip() + " " + closed_text + " " + sponsorship_text).strip()
+        listing_text = (listing["title"].strip() + " at " + listing["company_name"].strip() + " " + closed_text)
         return listing_text
 
     with open(".github/scripts/listings.json", "r") as f:
