@@ -270,5 +270,21 @@
         "date_posted": 1753817495,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753817654,
+        "url": "https://www1.communitech.ca/companies/solink/jobs/54493914-qa-intern#content",
+        "locations": [
+            "Ottawa, ON (Remote)"
+        ],
+        "active": true,
+        "company_name": "Solink",
+        "title": "QA Intern",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "0a13e3b9-d9b5-4ef1-aec2-451739779463",
+        "date_posted": 1753817654,
+        "company_url": "",
+        "is_visible": true
     }
 ]
