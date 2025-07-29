@@ -318,5 +318,21 @@
         "date_posted": 1753822248,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753827186,
+        "url": "https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=c6fc26ff-0ef4-411d-9534-35094a072c86",
+        "locations": [
+            "Kanata Ontario"
+        ],
+        "active": true,
+        "company_name": "MDA Space",
+        "title": "Software Engineering Intern",
+        "season": "Fall",
+        "source": "AliElrafih",
+        "id": "a68028ca-bf28-43f8-b2f1-6ece108f46cc",
+        "date_posted": 1753827186,
+        "company_url": "",
+        "is_visible": true
     }
 ]
