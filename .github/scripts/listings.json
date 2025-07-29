@@ -174,5 +174,21 @@
         "date_posted": 1753817041,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753817054,
+        "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R00901",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Altera",
+        "title": "Software Engineer",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "f86692ad-eafb-4821-91af-89b7214693fe",
+        "date_posted": 1753817054,
+        "company_url": "",
+        "is_visible": true
     }
 ]
