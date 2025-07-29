@@ -254,5 +254,21 @@
         "date_posted": 1753817394,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753817495,
+        "url": "https://www1.communitech.ca/companies/conavi-medical/jobs/54227408-r-d-engineering-intern#content",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Conavi Medical",
+        "title": "R&D Engineering Intern",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "b4a43db8-2ddc-4a11-982d-3f26c04aac9b",
+        "date_posted": 1753817495,
+        "company_url": "",
+        "is_visible": true
     }
 ]
