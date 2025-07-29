@@ -23,4 +23,5 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| TimeSaved | Co-op Data Analyst | Toronto, ON (Remote) | <a href="https://www1.communitech.ca/companies/timesaved/jobs/54911234-co-op-data-analyst#content?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 
