@@ -21,3 +21,4 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Ansys | Spring 2026 Electronics Intern (BS) | Vancouver, British Columbia | <a href="https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2026-Summer-Analytics-and-Quantitative-Modeling-Internship---Cleveland_R-33875?utm_source=luka"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
