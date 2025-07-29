@@ -17,9 +17,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
  - 🔒 - Internship application is closed
 
 > For off-season internships, please see the [Off-Season README](./OFFSEASON_README.md).
-> For new-grad tech jobs, check out [New-Grad](https://github.com/cvrve/New-Grad).
-
-
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
 | Company | Role | Location | Application/Link | Date Posted |
