@@ -302,5 +302,21 @@
         "date_posted": 1753818885,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753822248,
+        "url": "https://www.konrad.com/careers/job/software-developer-intern-may-2026-4-months_6642169003",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Konrad",
+        "title": "Software Developer Intern",
+        "season": "Spring",
+        "source": "lucianlavric",
+        "id": "ae2e53ad-9fca-4e04-9606-fa9c34f86e4c",
+        "date_posted": 1753822248,
+        "company_url": "",
+        "is_visible": true
     }
 ]
