@@ -206,5 +206,21 @@
         "date_posted": 1753817065,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753817079,
+        "url": "https://careers.mckesson.com/en/job/-/-/733/84206044784",
+        "locations": [
+            "Saint-Laurent, QC"
+        ],
+        "active": true,
+        "company_name": "McKesson",
+        "title": "Level 1 Analyst Intern",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "a5b0b137-81aa-4b03-a969-1b503108870f",
+        "date_posted": 1753817079,
+        "company_url": "",
+        "is_visible": true
     }
 ]
