@@ -13,8 +13,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 ---
 
----
-
 ## The List 🚴🏔
 
 ### Legend
