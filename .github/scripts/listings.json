@@ -78,5 +78,21 @@
         "date_posted": 1753816889,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753816900,
+        "url": "https://jobsearch.alstom.com/job/Saint-Bruno-Verification-and-Test-in-Engineering-Intern-QC/1228636101",
+        "locations": [
+            "Saint-Bruno, QC"
+        ],
+        "active": true,
+        "company_name": "Alstom",
+        "title": "Verification and Test in Engineering Intern",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "1d2cf66a-2361-4f72-90e1-26959baa96bc",
+        "date_posted": 1753816900,
+        "company_url": "",
+        "is_visible": true
     }
 ]
