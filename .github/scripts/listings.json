@@ -463,5 +463,21 @@
         "date_posted": 1753893180,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753893521,
+        "url": "https://londontechjobs.ca/job.aspx?jid=ab1016a5-b062-4ebf-8d74-4f15ea62a4b3",
+        "locations": [
+            "London, ON"
+        ],
+        "active": true,
+        "company_name": "General Dynamics Land Systems",
+        "title": "Test Engineering",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "d031facd-6abe-40dd-a92a-3a55f3d5b496",
+        "date_posted": 1753893521,
+        "company_url": "",
+        "is_visible": true
     }
 ]
