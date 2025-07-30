@@ -383,5 +383,21 @@
         "date_posted": 1753892708,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753892882,
+        "url": "https://asana.com/jobs/apply/7078192",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "Asana",
+        "title": "Data Science Intern",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "e0aee1c9-dc7a-42e1-a12f-2383a762cc49",
+        "date_posted": 1753892882,
+        "company_url": "",
+        "is_visible": true
     }
 ]
