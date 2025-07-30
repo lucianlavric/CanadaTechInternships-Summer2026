@@ -415,5 +415,21 @@
         "date_posted": 1753892979,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753893048,
+        "url": "https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Cloud-ERP-Solution-Adoption-Data-Analyst-Brit-V6B-1A9/1229635401",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "SAP",
+        "title": "Data Analyst",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "60dbc04f-4fda-449e-a350-4a9a4b02f4a8",
+        "date_posted": 1753893048,
+        "company_url": "",
+        "is_visible": true
     }
 ]
