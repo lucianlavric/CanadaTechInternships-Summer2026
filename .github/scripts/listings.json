@@ -447,5 +447,21 @@
         "date_posted": 1753893123,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753893180,
+        "url": "https://jobs.bombardier.com/job/Dorval-Intern%2C-Business-Analyst%2C-Salesforce-Product-Owner-(Fall%2C-2025)-Qu%C3%A9b-H4S-1Y9/1227702001",
+        "locations": [
+            "Dorval, QC"
+        ],
+        "active": true,
+        "company_name": "Bombardier",
+        "title": "Intern, Business Analyst, Salesforce Product Owner (Project Management)",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "1c1e3043-34e2-4dc3-91c2-00effa99ab24",
+        "date_posted": 1753893180,
+        "company_url": "",
+        "is_visible": true
     }
 ]
