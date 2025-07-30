@@ -479,5 +479,21 @@
         "date_posted": 1753893521,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753917337,
+        "url": "https://job-boards.greenhouse.io/applovin/jobs/4568800006?gh_jid=4568800006&gh_src=cb2018976us&source=LinkedIn",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "AppLovin",
+        "title": "Backend Software Engineering Intern",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "f56214d4-7a09-4ae4-b7e5-db87dbe7d330",
+        "date_posted": 1753917337,
+        "company_url": "",
+        "is_visible": true
     }
 ]
