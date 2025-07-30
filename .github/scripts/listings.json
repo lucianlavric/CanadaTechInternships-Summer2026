@@ -431,5 +431,21 @@
         "date_posted": 1753893048,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753893123,
+        "url": "https://jobs.dayforcehcm.com/en-US/mydayforce/alljobs/jobs/86440",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Dayforce",
+        "title": "Application Advisory Innovation Intern (Project Management)",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "b050ddfa-885a-4853-bc8b-91795049877e",
+        "date_posted": 1753893123,
+        "company_url": "",
+        "is_visible": true
     }
 ]
