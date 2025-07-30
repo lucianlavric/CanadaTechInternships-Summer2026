@@ -367,5 +367,21 @@
         "date_posted": 1753878527,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753892708,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20099",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Full Stack Dev Cloud and ML Student",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "d0fa6f82-4f1a-46dd-b9e6-9acbfcab503d",
+        "date_posted": 1753892708,
+        "company_url": "",
+        "is_visible": true
     }
 ]
