@@ -399,5 +399,21 @@
         "date_posted": 1753892882,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753892979,
+        "url": "https://simon-kucher.csod.com/ux/ats/careersite/6/home/requisition/3651",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Simon Kucher",
+        "title": "Elevate Intern (Data Analyst)",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "b1dda5f2-424a-4594-a016-5c4b01d0cde2",
+        "date_posted": 1753892979,
+        "company_url": "",
+        "is_visible": true
     }
 ]
