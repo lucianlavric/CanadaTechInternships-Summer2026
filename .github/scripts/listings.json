@@ -334,5 +334,22 @@
         "date_posted": 1753827186,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753878455,
+        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=27578",
+        "locations": [
+            "Toronto, ON",
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "IBM",
+        "title": "Machine Learning Developer Intern - Advanced Analytics",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "2e3a5b2d-0089-4ee3-8cd2-c380a53374d3",
+        "date_posted": 1753878455,
+        "company_url": "",
+        "is_visible": true
     }
 ]
