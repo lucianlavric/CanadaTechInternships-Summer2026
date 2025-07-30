@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Nokia | Automation Engineer Co-op/Intern | Ottawa, ON | <a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20101?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
 | IBM | Machine Learning Developer Intern - Advanced Analytics | Toronto, ON</br>Montreal, QC | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=27578&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
 | Zymewire | Data Associate | Remote (Ontario) | <a href="https://www1.communitech.ca/companies/zymewire/jobs/54927252-data-associate-fall-winter-internship#content?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | Wabtec | Mechatronic Engineering Intern | London, ON | <a href="https://londontechjobs.ca/job.aspx?jid=edd8681d-7547-43d0-ac99-ecd366ff6860&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |

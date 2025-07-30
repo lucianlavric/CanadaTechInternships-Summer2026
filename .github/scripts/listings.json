@@ -351,5 +351,21 @@
         "date_posted": 1753878455,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753878527,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20101",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Automation Engineer Co-op/Intern",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "258ce3a2-7cf6-4367-a2d4-8a98b010fd63",
+        "date_posted": 1753878527,
+        "company_url": "",
+        "is_visible": true
     }
 ]
