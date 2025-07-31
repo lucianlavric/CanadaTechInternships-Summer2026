@@ -591,5 +591,21 @@
         "date_posted": 1753990582,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753990595,
+        "url": "https://wellfound.com/jobs/3343278-software-engineer-intern?autoOpenApplication=true",
+        "locations": [
+            "Toronto, ON (Remote)"
+        ],
+        "active": true,
+        "company_name": "RegCore.AI",
+        "title": "Software Engineer (Intern)",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "bf28c051-3151-4593-9108-7d4217b1043a",
+        "date_posted": 1753990595,
+        "company_url": "",
+        "is_visible": true
     }
 ]
