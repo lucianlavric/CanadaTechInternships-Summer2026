@@ -495,5 +495,21 @@
         "date_posted": 1753917337,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753963256,
+        "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-CA/crowdstrikecareers/job/USA---Remote/Frontend-Engineer-Intern---Fall-2025--Remote--CAN-_R24199",
+        "locations": [
+            "Canada (Remote)"
+        ],
+        "active": true,
+        "company_name": "Crowdstrike",
+        "title": "Frontend Engineer Intern",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "89263b5e-f0de-494b-8471-80a0e18af6ea",
+        "date_posted": 1753963256,
+        "company_url": "",
+        "is_visible": true
     }
 ]
