@@ -575,5 +575,21 @@
         "date_posted": 1753963447,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753990582,
+        "url": "https://chexy.applytojobs.ca/engineering/40275",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Chexy",
+        "title": "Full-Stack Engineer Intern",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "447f0d18-cdbf-459e-b3ee-7d0e6521d0c7",
+        "date_posted": 1753990582,
+        "company_url": "",
+        "is_visible": true
     }
 ]
