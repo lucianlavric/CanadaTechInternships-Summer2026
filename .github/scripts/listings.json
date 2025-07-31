@@ -527,5 +527,21 @@
         "date_posted": 1753963294,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753963332,
+        "url": "https://job-boards.greenhouse.io/leagueinc/jobs/5600417004",
+        "locations": [
+            "Canada (Remote)"
+        ],
+        "active": true,
+        "company_name": "League",
+        "title": "Data Engineer",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "f240c95d-aa8a-4c12-89f2-4ca9ea3511d1",
+        "date_posted": 1753963332,
+        "company_url": "",
+        "is_visible": true
     }
 ]
