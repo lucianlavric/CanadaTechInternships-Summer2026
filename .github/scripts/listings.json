@@ -559,5 +559,21 @@
         "date_posted": 1753963369,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753963447,
+        "url": "https://jobs.sap.com/job/Montreal-SAP-iXp-Intern-Project-Management-Assistant-Queb-H3B-0B3/1230650701",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "SAP",
+        "title": "Project Management Assistant",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "40c31bd5-b3d0-4bca-885f-9bd16c558c97",
+        "date_posted": 1753963447,
+        "company_url": "",
+        "is_visible": true
     }
 ]
