@@ -543,5 +543,21 @@
         "date_posted": 1753963332,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753963369,
+        "url": "https://job-boards.greenhouse.io/leagueinc/jobs/5600409004",
+        "locations": [
+            "Canada (Remote)"
+        ],
+        "active": true,
+        "company_name": "League",
+        "title": "Cloud Platform Engineer",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "bf67df5d-05ba-486a-a1ab-d8305baa0a4b",
+        "date_posted": 1753963369,
+        "company_url": "",
+        "is_visible": true
     }
 ]
