@@ -511,5 +511,21 @@
         "date_posted": 1753963256,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753963294,
+        "url": "https://job-boards.greenhouse.io/leagueinc/jobs/5600391004",
+        "locations": [
+            "Canada (Remote)"
+        ],
+        "active": true,
+        "company_name": "League",
+        "title": "Backend Engineer",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "3201cde3-774a-4647-9bfe-318a77f8d683",
+        "date_posted": 1753963294,
+        "company_url": "",
+        "is_visible": true
     }
 ]

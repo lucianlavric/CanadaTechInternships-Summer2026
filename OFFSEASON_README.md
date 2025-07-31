@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| League | Backend Engineer | Canada (Remote) | <a href="https://job-boards.greenhouse.io/leagueinc/jobs/5600391004?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | Crowdstrike | Frontend Engineer Intern | Canada (Remote) | <a href="https://crowdstrike.wd5.myworkdayjobs.com/en-CA/crowdstrikecareers/job/USA---Remote/Frontend-Engineer-Intern---Fall-2025--Remote--CAN-_R24199?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | Nokia | Full Stack Dev Cloud and ML Student | Ottawa, ON | <a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20099?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
 | ↳ | Automation Engineer Co-op/Intern | Ottawa, ON | <a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20101?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
