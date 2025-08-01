@@ -738,5 +738,21 @@
         "date_posted": 1754046643,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754062805,
+        "url": "https://jobs.lever.co/magnetforensics/8e0e7fc8-c676-48d5-981e-361ca36e7ac4",
+        "locations": [
+            "Waterloo / Ottawa / Ontario"
+        ],
+        "active": true,
+        "company_name": "Magnet Forensics",
+        "title": "Software Developer Co-op",
+        "season": "Fall",
+        "source": "AliElrafih",
+        "id": "b9049cde-23f1-449a-8202-2e1d933e2452",
+        "date_posted": 1754062805,
+        "company_url": "",
+        "is_visible": true
     }
 ]
