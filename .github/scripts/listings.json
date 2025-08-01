@@ -607,5 +607,21 @@
         "date_posted": 1753990595,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754044461,
+        "url": "https://jobs.ashbyhq.com/GPTZero/d7e6f3ee-8446-4ac4-b1f8-e79c9876c31a",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "GPTZero",
+        "title": "Machine Learning Intern",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "6bb7f342-a65f-4664-8cf8-6f1efbe98f25",
+        "date_posted": 1754044461,
+        "company_url": "",
+        "is_visible": true
     }
 ]

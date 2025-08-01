@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| GPTZero | Machine Learning Intern | Toronto, ON | <a href="https://jobs.ashbyhq.com/GPTZero/d7e6f3ee-8446-4ac4-b1f8-e79c9876c31a?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 01 |
 | SAP | Project Management Assistant | Montreal, QC | <a href="https://jobs.sap.com/job/Montreal-SAP-iXp-Intern-Project-Management-Assistant-Queb-H3B-0B3/1230650701?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | RegCore.AI | Software Engineer (Intern) | Toronto, ON (Remote) | <a href="https://wellfound.com/jobs/3343278-software-engineer-intern?autoOpenApplication=true&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | League | Cloud Platform Engineer | Canada (Remote) | <a href="https://job-boards.greenhouse.io/leagueinc/jobs/5600409004?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
