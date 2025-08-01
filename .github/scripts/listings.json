@@ -639,5 +639,22 @@
         "date_posted": 1754044541,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754045240,
+        "url": "https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Toronto-Ontario-Canada/Data-Scientist-Co-op_R25_00382",
+        "locations": [
+            "Toronto, ON",
+            "Sault Ste. Marie, ON"
+        ],
+        "active": true,
+        "company_name": "OLG",
+        "title": "Data Scientist Co-op",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "f06ec82b-8cb4-4301-a0d7-b017e740c26a",
+        "date_posted": 1754045240,
+        "company_url": "",
+        "is_visible": true
     }
 ]
