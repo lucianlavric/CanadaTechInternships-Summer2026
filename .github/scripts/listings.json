@@ -722,5 +722,21 @@
         "date_posted": 1754046584,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754046643,
+        "url": "https://foresters.wd3.myworkdayjobs.com/en-US/ForestersFinancialCareers/job/Toronto/Student--Casual-_R-1966?source=LinkedIn",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Foresters Financial",
+        "title": "Software Engineer Co-op Student",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "9362af06-c455-4ffd-ab93-e836128b50e6",
+        "date_posted": 1754046643,
+        "company_url": "",
+        "is_visible": true
     }
 ]
