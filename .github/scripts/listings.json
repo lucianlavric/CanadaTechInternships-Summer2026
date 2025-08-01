@@ -706,5 +706,21 @@
         "date_posted": 1754046220,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754046584,
+        "url": "https://foresters.wd3.myworkdayjobs.com/ForestersFinancialCareers/job/Toronto/Quality-Assurance-Engineer-Co-op-Student_R-1968?source=LinkedIn",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Foresters Financial",
+        "title": "Quality Assurance Engineer Co-op Student",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "8b6d7ab1-4fd6-4078-ab15-dfaacc8a8947",
+        "date_posted": 1754046584,
+        "company_url": "",
+        "is_visible": true
     }
 ]
