@@ -19,6 +19,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | OLG | Data Scientist Co-op | Toronto, ON</br>Sault Ste. Marie, ON | <a href="https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Toronto-Ontario-Canada/Data-Scientist-Co-op_R25_00382?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 01 |
+| IBM | Consulting Intern | Toronto, ON</br>Montreal, QC</br>Ottawa, ON | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=50167&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 01 |
 | GPTZero | Software Engineering Intern | Toronto, ON | <a href="https://jobs.ashbyhq.com/GPTZero/e1f12af2-d017-4fca-a9af-99431d989d53?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 01 |
 | ↳ | Machine Learning Intern | Toronto, ON | <a href="https://jobs.ashbyhq.com/GPTZero/d7e6f3ee-8446-4ac4-b1f8-e79c9876c31a?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 01 |
 | SAP | Project Management Assistant | Montreal, QC | <a href="https://jobs.sap.com/job/Montreal-SAP-iXp-Intern-Project-Management-Assistant-Queb-H3B-0B3/1230650701?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |

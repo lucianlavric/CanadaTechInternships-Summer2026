@@ -656,5 +656,23 @@
         "date_posted": 1754045240,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754045352,
+        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=50167",
+        "locations": [
+            "Toronto, ON",
+            "Montreal, QC",
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "IBM",
+        "title": "Consulting Intern",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "d08e11b9-75e5-42db-8893-2d006795bd63",
+        "date_posted": 1754045352,
+        "company_url": "",
+        "is_visible": true
     }
 ]
