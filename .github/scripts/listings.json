@@ -623,5 +623,21 @@
         "date_posted": 1754044461,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754044541,
+        "url": "https://jobs.ashbyhq.com/GPTZero/e1f12af2-d017-4fca-a9af-99431d989d53",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "GPTZero",
+        "title": "Software Engineering Intern",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "1fb77837-e1f7-41a4-be2f-4d1d35986426",
+        "date_posted": 1754044541,
+        "company_url": "",
+        "is_visible": true
     }
 ]
