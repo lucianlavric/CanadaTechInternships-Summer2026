@@ -690,5 +690,21 @@
         "date_posted": 1754045366,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754046220,
+        "url": "https://www.coveo.com/en/company/careers/open-positions/research-and-development/fullstack-developer-intern-fall-2025/8039777002",
+        "locations": [
+            "Quebec City, QC"
+        ],
+        "active": true,
+        "company_name": "Coveo",
+        "title": "Fullstack Developer Intern",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "03eee46c-6d46-451c-b0ee-b8c73a59f627",
+        "date_posted": 1754046220,
+        "company_url": "",
+        "is_visible": true
     }
 ]
