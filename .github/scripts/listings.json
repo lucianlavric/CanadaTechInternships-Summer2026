@@ -674,5 +674,21 @@
         "date_posted": 1754045352,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754045366,
+        "url": "https://huaweicanada.recruitee.com/o/intern-assistant-engineer-large-language-models",
+        "locations": [
+            "Waterloo, ON"
+        ],
+        "active": true,
+        "company_name": "Huawei",
+        "title": "Intern Assistant Engineer \u2013 Large Language Models",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "f7b91695-8138-4ce0-9693-63399abc5a6a",
+        "date_posted": 1754045366,
+        "company_url": "",
+        "is_visible": true
     }
 ]
