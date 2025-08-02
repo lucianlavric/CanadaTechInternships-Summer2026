@@ -802,5 +802,21 @@
         "date_posted": 1754108231,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754108474,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21010",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Silicon Photonics Design Intern",
+        "season": "Fall",
+        "source": "AliElrafih",
+        "id": "6423f650-0eab-4f7d-885d-41d1960e317a",
+        "date_posted": 1754108474,
+        "company_url": "",
+        "is_visible": true
     }
 ]
