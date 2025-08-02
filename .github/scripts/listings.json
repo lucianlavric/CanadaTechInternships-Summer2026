@@ -869,5 +869,21 @@
         "date_posted": 1754108862,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754108931,
+        "url": "https://careers.worksafebc.com/?offerid=4595&amp%3Blanguage=en&jobboardID=51fc022358b70066fae4a130",
+        "locations": [
+            "Richmond, BC"
+        ],
+        "active": true,
+        "company_name": "WorkSafeBC",
+        "title": "Technical Analyst (Express Solutions)",
+        "season": "Fall",
+        "source": "AliElrafih",
+        "id": "dfaf6b65-970a-496a-af48-c41c4c9a9b56",
+        "date_posted": 1754108931,
+        "company_url": "",
+        "is_visible": true
     }
 ]
