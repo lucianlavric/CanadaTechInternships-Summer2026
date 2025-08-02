@@ -786,5 +786,21 @@
         "date_posted": 1754108147,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754108231,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/22714",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Software Engineering Intern",
+        "season": "Fall",
+        "source": "AliElrafih",
+        "id": "2c95b543-8637-4b7a-8e13-bca996f898b1",
+        "date_posted": 1754108231,
+        "company_url": "",
+        "is_visible": true
     }
 ]
