@@ -834,5 +834,24 @@
         "date_posted": 1754108599,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754108749,
+        "url": "https://www.amazon.jobs/en/jobs/3050161/summer-2026-applied-science-internship-canada-phd-student-science-recruiting",
+        "locations": [
+            "Toronto, ON",
+            "Vancouver, BC",
+            "Pipe Meadows, BC",
+            "Burnaby, BC"
+        ],
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Applied Science Internship- PhD Student",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "c3368f0b-223f-4c8d-9ca1-57d16205ff9a",
+        "date_posted": 1754108749,
+        "company_url": "",
+        "is_visible": true
     }
 ]
