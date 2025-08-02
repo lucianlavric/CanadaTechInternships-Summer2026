@@ -901,5 +901,21 @@
         "date_posted": 1754108991,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754109062,
+        "url": "https://bb.wd3.myworkdayjobs.com/QNX/job/Ottawa-Ontario/QNX--Open-Source-Developer-Student--Sept-25-start--12-16-month-placement-_20250163-1",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "QNX",
+        "title": "Open Source Developer Student",
+        "season": "Fall",
+        "source": "AliElrafih",
+        "id": "b51cd48a-76aa-4ce5-985a-198598d30ce6",
+        "date_posted": 1754109062,
+        "company_url": "",
+        "is_visible": true
     }
 ]
