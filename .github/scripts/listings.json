@@ -770,5 +770,21 @@
         "date_posted": 1754108002,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754108147,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/19817",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Nokia",
+        "title": "NW Automation Practice Intern",
+        "season": "Fall",
+        "source": "AliElrafih",
+        "id": "93881fcb-3341-4d85-96e3-b22ecc04937b",
+        "date_posted": 1754108147,
+        "company_url": "",
+        "is_visible": true
     }
 ]
