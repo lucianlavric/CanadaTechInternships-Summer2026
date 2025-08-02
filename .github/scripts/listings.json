@@ -853,5 +853,21 @@
         "date_posted": 1754108749,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754108862,
+        "url": "https://huaweicanada.recruitee.com/o/intern-assistant-engineer-large-language-models-3",
+        "locations": [
+            "Markham, ON"
+        ],
+        "active": true,
+        "company_name": "Huawei",
+        "title": "Intern Assistant Engineer - Large Language Models",
+        "season": "Fall",
+        "source": "AliElrafih",
+        "id": "0622c22b-f646-41d0-8564-0042f73b1410",
+        "date_posted": 1754108862,
+        "company_url": "",
+        "is_visible": true
     }
 ]
