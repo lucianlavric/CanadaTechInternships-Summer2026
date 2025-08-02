@@ -11,6 +11,8 @@ This list is maintained collaboratively by Luka and Ali!
 
 This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJobs/Summer2024-Internships).
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flucianlavric%2FCanadaTechInternships-Summer2026&labelColor=%23697689&countColor=%23d9e3f0&style=flat-square&labelStyle=upper)
+
 ---
 
 ## The List 🚴🏔
