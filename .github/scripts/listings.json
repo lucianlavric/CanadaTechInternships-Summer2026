@@ -885,5 +885,21 @@
         "date_posted": 1754108931,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754108991,
+        "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Information-Security-Intern--8-12months-_R1010160",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Hitachi Rail",
+        "title": "Information Security Intern",
+        "season": "Fall",
+        "source": "AliElrafih",
+        "id": "7d515ff1-ff28-48c0-8be4-e6f29523dbab",
+        "date_posted": 1754108991,
+        "company_url": "",
+        "is_visible": true
     }
 ]
