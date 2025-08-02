@@ -917,5 +917,21 @@
         "date_posted": 1754109062,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754109167,
+        "url": "https://search.jobs.barclays/job/-/-/13015/84473426416",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Barclays",
+        "title": "Banking Analyst",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "7627bf53-6c9c-49f8-a5fd-3af4f3f894a1",
+        "date_posted": 1754109167,
+        "company_url": "",
+        "is_visible": true
     }
 ]
