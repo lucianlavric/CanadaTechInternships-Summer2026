@@ -1029,5 +1029,21 @@
         "date_posted": 1754358829,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754358869,
+        "url": "https://careers.trccompanies.com/jobs/23868",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "TRC",
+        "title": "Project Management Intern",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "b71694a7-c3d8-4ad3-a397-de31afa30787",
+        "date_posted": 1754358869,
+        "company_url": "",
+        "is_visible": true
     }
 ]
