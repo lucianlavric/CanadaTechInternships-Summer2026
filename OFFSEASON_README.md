@@ -18,7 +18,8 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| KPMG | Opportunities in Cyber Security | Toronto, ON | <a href="https://careers.kpmg.ca/jobs/28933?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 04 |
+| KPMG | Opportunities in Cyber Security | Toronto, ON | <a href="https://careers.kpmg.ca/jobs/28923?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 04 |
+| ↳ | Opportunities in Cyber Security | Toronto, ON | <a href="https://careers.kpmg.ca/jobs/28933?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 04 |
 | WorkSafeBC | Technical Analyst (Express Solutions) | Richmond, BC | <a href="https://careers.worksafebc.com/?offerid=4595&amp%3Blanguage=en&jobboardID=51fc022358b70066fae4a130&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 01 |
 | QNX | Open Source Developer Student | Ottawa, ON | <a href="https://bb.wd3.myworkdayjobs.com/QNX/job/Ottawa-Ontario/QNX--Open-Source-Developer-Student--Sept-25-start--12-16-month-placement-_20250163-1?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 01 |
 | OLG | Data Scientist Co-op | Toronto, ON</br>Sault Ste. Marie, ON | <a href="https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Toronto-Ontario-Canada/Data-Scientist-Co-op_R25_00382?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 01 |

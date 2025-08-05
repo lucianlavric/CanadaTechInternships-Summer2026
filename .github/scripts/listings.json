@@ -949,5 +949,21 @@
         "date_posted": 1754358517,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754358545,
+        "url": "https://careers.kpmg.ca/jobs/28923",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "KPMG",
+        "title": "Opportunities in Cyber Security",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "5054717b-8941-42b2-ad35-2bd09d3313b3",
+        "date_posted": 1754358545,
+        "company_url": "",
+        "is_visible": true
     }
 ]
