@@ -981,5 +981,21 @@
         "date_posted": 1754358586,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754358636,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23146",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Solutions Lab",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "626c70ee-a4aa-4326-8f85-ccae631b5ade",
+        "date_posted": 1754358636,
+        "company_url": "",
+        "is_visible": true
     }
 ]
