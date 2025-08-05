@@ -1013,5 +1013,21 @@
         "date_posted": 1754358687,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754358829,
+        "url": "https://apply.workable.com/valsoft-corp/j/79849B746F/",
+        "locations": [
+            "Remote"
+        ],
+        "active": true,
+        "company_name": "Exeevo",
+        "title": "Data Scientist Intern",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "fe6b7410-763d-496c-8030-aa67b08f47f5",
+        "date_posted": 1754358829,
+        "company_url": "",
+        "is_visible": true
     }
 ]
