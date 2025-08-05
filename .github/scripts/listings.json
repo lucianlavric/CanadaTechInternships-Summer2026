@@ -997,5 +997,21 @@
         "date_posted": 1754358636,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754358687,
+        "url": "https://jobs.lever.co/metergysolutions/20146288-0070-414c-b828-0ddf0fdbea68",
+        "locations": [
+            "Markham, ON"
+        ],
+        "active": true,
+        "company_name": "Metergy Solutions",
+        "title": "Software Developer",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "960e0f59-bd39-43c9-9015-f0fa065e92b8",
+        "date_posted": 1754358687,
+        "company_url": "",
+        "is_visible": true
     }
 ]

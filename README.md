@@ -25,6 +25,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Metergy Solutions | Software Developer | Markham, ON | <a href="https://jobs.lever.co/metergysolutions/20146288-0070-414c-b828-0ddf0fdbea68?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 04 |
 | Sentry | Software Engineer Intern | Toronto, ON | <a href="https://jobs.ashbyhq.com/sentry/d2e3391f-9401-410a-b8a6-de3bf5f762b7?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 01 |
 | Amazon | Applied Science Internship- PhD Student | <details><summary>**4 locations**</summary>Toronto, ON</br>Vancouver, BC</br>Pipe Meadows, BC</br>Burnaby, BC</details> | <a href="https://www.amazon.jobs/en/jobs/3050161/summer-2026-applied-science-internship-canada-phd-student-science-recruiting?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 01 |
 | Simon Kucher | Elevate Intern (Data Analyst) | Toronto, ON | <a href="https://simon-kucher.csod.com/ux/ats/careersite/6/home/requisition/3651?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
