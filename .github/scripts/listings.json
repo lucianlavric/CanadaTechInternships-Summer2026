@@ -1045,5 +1045,21 @@
         "date_posted": 1754358869,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754359270,
+        "url": "https://www1.communitech.ca/companies/arctic-wolf/jobs/55695282-network-technology-operations-analyst-co-op#content",
+        "locations": [
+            "Waterloo, ON"
+        ],
+        "active": true,
+        "company_name": "Arctic Wolf",
+        "title": "Network & Technology Operations Analyst",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "0712f7a6-e241-42cf-8f1c-07a92300bfd5",
+        "date_posted": 1754359270,
+        "company_url": "",
+        "is_visible": true
     }
 ]
