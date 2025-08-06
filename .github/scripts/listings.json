@@ -1173,5 +1173,21 @@
         "date_posted": 1754488961,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754490000,
+        "url": "https://iata.csod.com/ux/ats/careersite/1/home/requisition/3006?c=iata&sq=req3006",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "IATA",
+        "title": "Intern Aviation Cybersecurity",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "fb460b52-9522-4a1c-8aa8-7de1ae8cda45",
+        "date_posted": 1754490000,
+        "company_url": "",
+        "is_visible": true
     }
 ]
