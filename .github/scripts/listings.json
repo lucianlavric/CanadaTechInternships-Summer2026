@@ -1205,5 +1205,21 @@
         "date_posted": 1754490093,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754490227,
+        "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-CA/crowdstrikecareers/job/USA---Remote/Security-Research-Launch-Intern---Data-Ops---Fall-2025--Remote-_R22785",
+        "locations": [
+            "Remote"
+        ],
+        "active": true,
+        "company_name": "Crowdstrike",
+        "title": "Security Research Launch Intern - Data Ops",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "31fe3a46-7d36-4989-9603-dbed7c261172",
+        "date_posted": 1754490227,
+        "company_url": "",
+        "is_visible": true
     }
 ]
