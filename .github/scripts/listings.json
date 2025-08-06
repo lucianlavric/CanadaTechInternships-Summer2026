@@ -1125,5 +1125,21 @@
         "date_posted": 1754483765,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754483939,
+        "url": "https://jobs.ericsson.com/careers/job/563121764101043",
+        "locations": [
+            "Ottawa,ON"
+        ],
+        "active": true,
+        "company_name": "Ericsson",
+        "title": "Baseband Technology Co-Op (AI research)",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "1b16762b-6d14-4dbf-9ab4-053c9df5c64f",
+        "date_posted": 1754483939,
+        "company_url": "",
+        "is_visible": true
     }
 ]
