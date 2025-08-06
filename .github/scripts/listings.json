@@ -1093,5 +1093,21 @@
         "date_posted": 1754483573,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754483721,
+        "url": "https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-SAP-Analytics-Cloud-Security-Engineer-Vancouver-Brit-V6B-1A9/1233120401",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "SAP",
+        "title": "Analytics Cloud Security Engineer",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "8e1418f9-f55f-48db-b2b7-220638245e17",
+        "date_posted": 1754483721,
+        "company_url": "",
+        "is_visible": true
     }
 ]
