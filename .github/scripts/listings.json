@@ -1141,5 +1141,21 @@
         "date_posted": 1754483939,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754484069,
+        "url": "https://jobs.ashbyhq.com/solink/639334a4-d734-45a7-9a00-118517555294",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Solink",
+        "title": "Embedded Developer Intern",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "87afea6a-5dd6-4a8d-be8a-336b59514a12",
+        "date_posted": 1754484069,
+        "company_url": "",
+        "is_visible": true
     }
 ]

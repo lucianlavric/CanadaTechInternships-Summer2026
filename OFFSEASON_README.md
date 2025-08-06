@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Solink | Embedded Developer Intern | Ottawa, ON | <a href="https://jobs.ashbyhq.com/solink/639334a4-d734-45a7-9a00-118517555294?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 06 |
 | SAP | Cloud Platform Services, Applications & Products Software Developer | Vancouver, BC | <a href="https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Cloud-Platform-Services%2C-Applications-&-Products-Software-Developer-Vancouver-Brit-V6B-1A9/1233109601?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 06 |
 | ↳ | Analytics Cloud Security Engineer | Vancouver, BC | <a href="https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-SAP-Analytics-Cloud-Security-Engineer-Vancouver-Brit-V6B-1A9/1233120401?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 06 |
 | Ericsson | Baseband Technology Co-Op (AI research) | Ottawa,ON | <a href="https://jobs.ericsson.com/careers/job/563121764101043?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 06 |
