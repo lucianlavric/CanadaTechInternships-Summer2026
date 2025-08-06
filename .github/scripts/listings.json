@@ -1221,5 +1221,21 @@
         "date_posted": 1754490227,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754490774,
+        "url": "https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Project-Coordinator-for-Translation-Vancouver-Brit-V6B-1A9/1233108401",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "SAP",
+        "title": "Project Coordinator for Translation",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "98669fdc-7f6e-4be7-94ff-048c44b89bb4",
+        "date_posted": 1754490774,
+        "company_url": "",
+        "is_visible": true
     }
 ]
