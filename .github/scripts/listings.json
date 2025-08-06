@@ -1189,5 +1189,21 @@
         "date_posted": 1754490000,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754490093,
+        "url": "https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-DevOps-Engineer-Vancouver-Brit-V6B-1A9/1233153601",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "SAP",
+        "title": "DevOps Engineer",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "6420b5b8-ed17-48a4-a463-8a927cc2771a",
+        "date_posted": 1754490093,
+        "company_url": "",
+        "is_visible": true
     }
 ]
