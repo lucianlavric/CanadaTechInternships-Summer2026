@@ -1061,5 +1061,21 @@
         "date_posted": 1754359270,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754483487,
+        "url": "https://careers.kpmg.ca/jobs/28942",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "KPMG",
+        "title": "Opportunities in Governance, Risk and Compliance Services (GRCS) \u2013 Analytics",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "842c3ecf-a5c0-470e-ada2-1177a2079129",
+        "date_posted": 1754483487,
+        "company_url": "",
+        "is_visible": true
     }
 ]
