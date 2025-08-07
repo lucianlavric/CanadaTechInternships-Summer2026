@@ -1237,5 +1237,21 @@
         "date_posted": 1754490774,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754540229,
+        "url": "https://jobs.sap.com/job/Montreal-SAP-iXp-Intern-Customer-Innovation-Services-Software-Developer-Queb-H3B-0B3/1234028201",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "SAP",
+        "title": "Customer Innovation Services - Software Developer",
+        "season": "Fall",
+        "source": "AliElrafih",
+        "id": "ce5bdce2-e7f2-4fe4-b609-3c1e5afae76d",
+        "date_posted": 1754540229,
+        "company_url": "",
+        "is_visible": true
     }
 ]
