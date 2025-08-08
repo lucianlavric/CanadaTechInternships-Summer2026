@@ -1253,5 +1253,21 @@
         "date_posted": 1754540229,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754655887,
+        "url": "https://holmanautogroup.wd1.myworkdayjobs.com/HolmanEnterprisesCareers/job/Mississauga-ON-CAN/Developer-Co-Op_R0050520",
+        "locations": [
+            "Mississauga, ON"
+        ],
+        "active": true,
+        "company_name": "Holman",
+        "title": "Developer Co-Op",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "db9d4cc8-0f7c-4ec3-8f90-fb1b7c42ffa1",
+        "date_posted": 1754655887,
+        "company_url": "",
+        "is_visible": true
     }
 ]

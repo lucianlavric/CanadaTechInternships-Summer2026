@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Holman | Developer Co-Op | Mississauga, ON | <a href="https://holmanautogroup.wd1.myworkdayjobs.com/HolmanEnterprisesCareers/job/Mississauga-ON-CAN/Developer-Co-Op_R0050520?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 08 |
 | Solink | Embedded Developer Intern | Ottawa, ON | <a href="https://jobs.ashbyhq.com/solink/639334a4-d734-45a7-9a00-118517555294?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 06 |
 | SAP | Customer Innovation Services - Software Developer | Montreal, QC | <a href="https://jobs.sap.com/job/Montreal-SAP-iXp-Intern-Customer-Innovation-Services-Software-Developer-Queb-H3B-0B3/1234028201?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 06 |
 | ↳ | Project Coordinator for Translation | Vancouver, BC | <a href="https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Project-Coordinator-for-Translation-Vancouver-Brit-V6B-1A9/1233108401?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 06 |
