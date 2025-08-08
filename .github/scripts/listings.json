@@ -1269,5 +1269,21 @@
         "date_posted": 1754655887,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754655934,
+        "url": "https://job-boards.greenhouse.io/synthesishealth/jobs/4594883005",
+        "locations": [
+            "Vancouver, Remote"
+        ],
+        "active": true,
+        "company_name": "Synthesis Health",
+        "title": "Machine Learning Scientist Intern",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "53278439-bce5-4831-9a0b-1abcb5933c4b",
+        "date_posted": 1754655934,
+        "company_url": "",
+        "is_visible": true
     }
 ]
