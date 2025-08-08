@@ -1285,5 +1285,21 @@
         "date_posted": 1754655934,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754655963,
+        "url": "https://huaweicanada.recruitee.com/o/intern-engineer-software-development-human-computer-interaction",
+        "locations": [
+            "Markham, ON"
+        ],
+        "active": true,
+        "company_name": "Huawei",
+        "title": "Intern Engineer - Software Development",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "deccec61-ee9b-483a-9416-3a7ea061a2c9",
+        "date_posted": 1754655963,
+        "company_url": "",
+        "is_visible": true
     }
 ]
