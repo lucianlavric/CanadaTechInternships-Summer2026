@@ -1301,5 +1301,26 @@
         "date_posted": 1754655963,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754716275,
+        "url": "https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/British-Columbia-Canada/Software-Developer--Co-op-Intern_R0031202-2",
+        "locations": [
+            "BC",
+            "Alberta(remote)",
+            "Nova Scotia",
+            "New Brunswick(remote)",
+            "PEI(remote)",
+            "Manitoba(remote)"
+        ],
+        "active": true,
+        "company_name": "Harris",
+        "title": "Software Developer",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "8022d42c-9fd8-49fe-b339-8f2b1d63b04f",
+        "date_posted": 1754716275,
+        "company_url": "",
+        "is_visible": true
     }
 ]
