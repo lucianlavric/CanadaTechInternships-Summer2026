@@ -1386,5 +1386,21 @@
         "date_posted": 1754716697,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754716787,
+        "url": "https://careers.manulife.com/global/en/job/MFZMFIUSJR25080404EXTERNALENGLOBAL/Actuarial-Co-op-Program-2026-Montr-al",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "Manulife",
+        "title": "Actuarial Co-op Program",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "75c7ae6b-06e3-4938-be4c-8a0ec989e10a",
+        "date_posted": 1754716787,
+        "company_url": "",
+        "is_visible": true
     }
 ]
