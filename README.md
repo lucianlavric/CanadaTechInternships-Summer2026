@@ -25,6 +25,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| TD | Actuarial Intern | Toronto, ON | <a href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/TDI-Actuarial-Intern-Co-op--Summer-2026-_R_1437864?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 08 |
 | Manulife | Actuarial Co-op Program | Montreal, QC | <a href="https://careers.manulife.com/global/en/job/MFZMFIUSJR25080404EXTERNALENGLOBAL/Actuarial-Co-op-Program-2026-Montr-al?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 08 |
 | Harris | Software Developer | <details><summary>**6 locations**</summary>BC</br>Alberta(remote)</br>Nova Scotia</br>New Brunswick(remote)</br>PEI(remote)</br>Manitoba(remote)</details> | <a href="https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/British-Columbia-Canada/Software-Developer--Co-op-Intern_R0031202-2?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 08 |
 | KPMG | Opportunities in Governance, Risk and Compliance Services (GRCS) – Analytics | Toronto, ON | <a href="https://careers.kpmg.ca/jobs/28942?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 06 |
