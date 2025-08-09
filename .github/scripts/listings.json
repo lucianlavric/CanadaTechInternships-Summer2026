@@ -1354,5 +1354,21 @@
         "date_posted": 1754716433,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754716578,
+        "url": "https://careers.stryker.com/fr/software-test-engineer-co-op/job/2ABD3503644364C669EFD0F2521D8843",
+        "locations": [
+            "Burnaby, BC"
+        ],
+        "active": true,
+        "company_name": "Stryker",
+        "title": "Software Test Engineer",
+        "season": "Fall",
+        "source": "AliElrafih",
+        "id": "eccaf935-12bd-4236-8c10-5b9c68f52fef",
+        "date_posted": 1754716578,
+        "company_url": "",
+        "is_visible": true
     }
 ]
