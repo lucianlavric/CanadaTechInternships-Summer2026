@@ -1370,5 +1370,21 @@
         "date_posted": 1754716578,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754716697,
+        "url": "https://imcoinvest.wd3.myworkdayjobs.com/IMCO/job/Toronto---16-York-St/Intern--Business-Systems-Analyst--Fall-2025-_R25-116-1",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "IMCO",
+        "title": "Business Systems Analyst",
+        "season": "Fall",
+        "source": "AliElrafih",
+        "id": "b9b838c3-e9fa-431c-ac89-a0ff99d69f0b",
+        "date_posted": 1754716697,
+        "company_url": "",
+        "is_visible": true
     }
 ]
