@@ -1338,5 +1338,21 @@
         "date_posted": 1754716343,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754716433,
+        "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/en-US/perseus-careers/job/Markham-Ontario---CAN/Front-End-Intern_R46426",
+        "locations": [
+            "Markham, ON"
+        ],
+        "active": true,
+        "company_name": "Perseus Group",
+        "title": "Front End Intern",
+        "season": "Fall",
+        "source": "AliElrafih",
+        "id": "6991804e-e2f1-4a9f-b0a5-1fa65a69bc52",
+        "date_posted": 1754716433,
+        "company_url": "",
+        "is_visible": true
     }
 ]
