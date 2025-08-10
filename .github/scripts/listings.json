@@ -1418,5 +1418,21 @@
         "date_posted": 1754716829,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754846191,
+        "url": "https://jobs.veralto.com/global/en/job/DANVGTGLOBALR10262255EXTERNALENGLOBAL/Aquatic-Informatics-Machine-Learning-Co-Op-Intern",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "Veralto",
+        "title": "Aquatic Informatics - Machine Learning Co-Op (Intern)",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "89557aff-cdc1-470f-a860-028b18fe2e80",
+        "date_posted": 1754846191,
+        "company_url": "",
+        "is_visible": true
     }
 ]

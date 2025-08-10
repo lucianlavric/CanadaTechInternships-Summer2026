@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Veralto | Aquatic Informatics - Machine Learning Co-Op (Intern) | Vancouver, BC | <a href="https://jobs.veralto.com/global/en/job/DANVGTGLOBALR10262255EXTERNALENGLOBAL/Aquatic-Informatics-Machine-Learning-Co-Op-Intern?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 10 |
 | Synthesis Health | Machine Learning Scientist Intern | Vancouver, Remote | <a href="https://job-boards.greenhouse.io/synthesishealth/jobs/4594883005?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 08 |
 | Stryker | Software Test Engineer | Burnaby, BC | <a href="https://careers.stryker.com/fr/software-test-engineer-co-op/job/2ABD3503644364C669EFD0F2521D8843?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 08 |
 | Perseus Group | Front End Intern | Markham, ON | <a href="https://talentmanagementsolution.wd3.myworkdayjobs.com/en-US/perseus-careers/job/Markham-Ontario---CAN/Front-End-Intern_R46426?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 08 |
