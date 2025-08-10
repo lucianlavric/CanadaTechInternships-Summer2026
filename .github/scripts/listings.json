@@ -1434,5 +1434,21 @@
         "date_posted": 1754846191,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754849964,
+        "url": "https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-UA-Content-Designer-Vancouver-Brit-V6B-1A9/1222357601",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "SAP",
+        "title": "SAP iXp Intern - UA Content Designer",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "3621aab3-cf6f-4fe7-bf00-60099d825699",
+        "date_posted": 1754849964,
+        "company_url": "",
+        "is_visible": true
     }
 ]
