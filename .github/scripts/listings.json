@@ -1450,5 +1450,21 @@
         "date_posted": 1754849964,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754917816,
+        "url": "https://bb.wd3.myworkdayjobs.com/BlackBerry/job/Ottawa-Ontario/QNX--Open-Source-Developer-Student--Sept-25-start--12-16-month-placement-_20250163-3",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "BlackBerry",
+        "title": "QNX developer",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "f58a234b-201f-4f64-8e85-0d7846b9de07",
+        "date_posted": 1754917816,
+        "company_url": "",
+        "is_visible": true
     }
 ]
