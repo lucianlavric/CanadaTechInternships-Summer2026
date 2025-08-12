@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Multiverse Computing | Machine Learning Engineer Intern | Toronto, ON | <a href="https://multiversecomputing.teamtailor.com/jobs/6292402-machine-learning-engineer-intern?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 11 |
 | BlackBerry | QNX developer | Ottawa, ON | <a href="https://bb.wd3.myworkdayjobs.com/BlackBerry/job/Ottawa-Ontario/QNX--Open-Source-Developer-Student--Sept-25-start--12-16-month-placement-_20250163-3?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 11 |
 | Veralto | Aquatic Informatics - Machine Learning Co-Op (Intern) | Vancouver, BC | <a href="https://jobs.veralto.com/global/en/job/DANVGTGLOBALR10262255EXTERNALENGLOBAL/Aquatic-Informatics-Machine-Learning-Co-Op-Intern?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 10 |
 | SAP | SAP iXp Intern - UA Content Designer | Vancouver, BC | <a href="https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-UA-Content-Designer-Vancouver-Brit-V6B-1A9/1222357601?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 10 |

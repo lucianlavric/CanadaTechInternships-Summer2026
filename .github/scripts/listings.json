@@ -1466,5 +1466,21 @@
         "date_posted": 1754917816,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754973103,
+        "url": "https://multiversecomputing.teamtailor.com/jobs/6292402-machine-learning-engineer-intern",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Multiverse Computing",
+        "title": "Machine Learning Engineer Intern",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "80a83715-7067-40b9-8c0e-383fa827dc0e",
+        "date_posted": 1754973103,
+        "company_url": "",
+        "is_visible": true
     }
 ]
