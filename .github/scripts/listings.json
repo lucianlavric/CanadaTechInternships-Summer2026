@@ -1498,5 +1498,21 @@
         "date_posted": 1754973163,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754973263,
+        "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Toronto-Ontario-CA/Robotics-Co-Op-Student_R00203410",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Magna",
+        "title": "Robotics COOP (PEY)",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "333d812b-3736-4679-a73e-0119c9475564",
+        "date_posted": 1754973263,
+        "company_url": "",
+        "is_visible": true
     }
 ]
