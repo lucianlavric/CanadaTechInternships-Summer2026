@@ -1594,5 +1594,21 @@
         "date_posted": 1754973459,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754973493,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/22947",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Optical Testing Automation Student",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "086f28c2-6e37-44ef-a49e-a66232a4283e",
+        "date_posted": 1754973493,
+        "company_url": "",
+        "is_visible": true
     }
 ]
