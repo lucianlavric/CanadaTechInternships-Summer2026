@@ -1642,5 +1642,21 @@
         "date_posted": 1754973577,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754974140,
+        "url": "https://londontechjobs.ca/job.aspx?jid=e2a5d58f-8007-445a-ac79-b10d1df82129",
+        "locations": [
+            "St. Thomas, ON"
+        ],
+        "active": true,
+        "company_name": "PowerCo",
+        "title": "Student - Facilities Design",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "00322be1-dab0-4ed0-9b52-9726176dbfb4",
+        "date_posted": 1754974140,
+        "company_url": "",
+        "is_visible": true
     }
 ]
