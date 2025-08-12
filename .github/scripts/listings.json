@@ -1546,5 +1546,21 @@
         "date_posted": 1754973354,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754973385,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/22852",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Optical Systems Co-op/Intern",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "5d811e58-d344-4d1e-839e-6db73f1957ad",
+        "date_posted": 1754973385,
+        "company_url": "",
+        "is_visible": true
     }
 ]
