@@ -1562,5 +1562,21 @@
         "date_posted": 1754973385,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754973415,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/22972",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Coherent Optical Systems Co-op/Intern",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "0d6b8aee-ccf3-44b3-9790-e98041f5d3a8",
+        "date_posted": 1754973415,
+        "company_url": "",
+        "is_visible": true
     }
 ]
