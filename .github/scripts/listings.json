@@ -1482,5 +1482,21 @@
         "date_posted": 1754973103,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754973163,
+        "url": "https://xylem.wd5.myworkdayjobs.com/en-CA/xylem-careers/job/Mississauga/Data-Engineer-Intern_R43581",
+        "locations": [
+            "Mississauga, ON"
+        ],
+        "active": true,
+        "company_name": "Xylem",
+        "title": "Data Engineer Intern",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "9e8a5f2b-d78d-45e6-8eca-ce106ef00eb1",
+        "date_posted": 1754973163,
+        "company_url": "",
+        "is_visible": true
     }
 ]
