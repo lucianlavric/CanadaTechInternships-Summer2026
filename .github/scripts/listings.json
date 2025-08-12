@@ -1530,5 +1530,21 @@
         "date_posted": 1754973317,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754973354,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/22974",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Firmware Engineering Co-op/Intern",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "e96faa90-ad41-4a4c-9aba-fa3bd53d89d3",
+        "date_posted": 1754973354,
+        "company_url": "",
+        "is_visible": true
     }
 ]
