@@ -1610,5 +1610,21 @@
         "date_posted": 1754973493,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754973522,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23141",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Mechanical Test Co-op/Intern",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "172f73ba-6374-4140-b390-a1030ab258f3",
+        "date_posted": 1754973522,
+        "company_url": "",
+        "is_visible": true
     }
 ]
