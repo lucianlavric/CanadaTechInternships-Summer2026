@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Sielo Robotics | Full Stack SW | Ottawa, ON | <a href="https://www.linkedin.com/jobs/view/4283408108/?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 12 |
 | Xylem | Data Engineer Intern | Mississauga, ON | <a href="https://xylem.wd5.myworkdayjobs.com/en-CA/xylem-careers/job/Mississauga/Data-Engineer-Intern_R43581?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 11 |
 | Saputo | Business Intelligence Intern | Montreal, QC | <a href="https://saputo.wd5.myworkdayjobs.com/Saputo_External_Careers/job/Montral-QC/Business-Intelligence-Intern_JR57400?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 11 |
 | PowerCo | Student - Facilities Design | St. Thomas, ON | <a href="https://londontechjobs.ca/job.aspx?jid=e2a5d58f-8007-445a-ac79-b10d1df82129&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 11 |

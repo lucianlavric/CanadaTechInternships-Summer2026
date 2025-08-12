@@ -1658,5 +1658,21 @@
         "date_posted": 1754974140,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755022783,
+        "url": "https://www.linkedin.com/jobs/view/4283408108/",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Sielo Robotics",
+        "title": "Full Stack SW",
+        "season": "Fall",
+        "source": "AliElrafih",
+        "id": "8a097012-8831-4020-a3e9-64b8e14599d9",
+        "date_posted": 1755022783,
+        "company_url": "",
+        "is_visible": true
     }
 ]
