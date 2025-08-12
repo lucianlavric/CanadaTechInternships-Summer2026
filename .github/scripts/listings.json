@@ -1514,5 +1514,21 @@
         "date_posted": 1754973263,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754973317,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23040",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Test Automation Developer Co-op/Intern",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "b87761e3-5b21-4675-9442-97b2ce9669b5",
+        "date_posted": 1754973317,
+        "company_url": "",
+        "is_visible": true
     }
 ]
