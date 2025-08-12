@@ -1578,5 +1578,21 @@
         "date_posted": 1754973415,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754973459,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/22973",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Digital Optical Integration Co-op/Intern",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "d797835b-639c-4e52-b124-d32bff5aff5a",
+        "date_posted": 1754973459,
+        "company_url": "",
+        "is_visible": true
     }
 ]
