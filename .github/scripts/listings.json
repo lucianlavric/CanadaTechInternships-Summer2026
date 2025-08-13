@@ -1738,5 +1738,21 @@
         "date_posted": 1755072300,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755072389,
+        "url": "https://jobs.lever.co/bhvr/eff92e55-8bbc-452b-8078-4258f653917c",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "Behaviour Interactive",
+        "title": "Game Designer",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "202ce8be-78ef-4528-8a3b-6014ced72c30",
+        "date_posted": 1755072389,
+        "company_url": "",
+        "is_visible": true
     }
 ]
