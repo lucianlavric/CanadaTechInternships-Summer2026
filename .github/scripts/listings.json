@@ -1771,5 +1771,22 @@
         "date_posted": 1755072459,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755072503,
+        "url": "https://job-boards.greenhouse.io/sagardcareers/jobs/4596033005",
+        "locations": [
+            "Toronto, On",
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "Sagard",
+        "title": "Investment Intern, Sagard Private Equity",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "117f6038-da59-4762-8ecf-53e2f4049bc8",
+        "date_posted": 1755072503,
+        "company_url": "",
+        "is_visible": true
     }
 ]
