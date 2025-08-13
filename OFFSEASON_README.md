@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| TD | Global Markets Intern/Co-op - Quantitative Engineering Development | Toronto, ON | <a href="https://td.wd3.myworkdayjobs.com/fr-CA/TD_Bank_Careers/job/Toronto-Ontario/Global-Markets-Intern-Co-op---Quantitative-Engineering-Development_R_1438567?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
 | SAP | SAP iXp Intern - Software Developer [Vancouver] | Vancouver, BC | <a href="https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Software-Developer-Vancouver-Brit-V6B-1A9/1235595501?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
 | Sagard | Investment Intern | Toronto, ON</br>Montreal, QC | <a href="https://job-boards.greenhouse.io/sagardcareers/jobs/4596028005?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
 | Motorola | Student Test Automation Developer Co-Op | Gatineau, QC | <a href="https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Gatineau-Canada/Student-Test-Automation-Developer-Co-Op_R56887?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
