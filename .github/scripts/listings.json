@@ -1754,5 +1754,22 @@
         "date_posted": 1755072389,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755072459,
+        "url": "https://job-boards.greenhouse.io/sagardcareers/jobs/4596028005",
+        "locations": [
+            "Toronto, ON",
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "Sagard",
+        "title": "Investment Intern",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "ef5ca30d-71ec-4193-813b-5a18258a6401",
+        "date_posted": 1755072459,
+        "company_url": "",
+        "is_visible": true
     }
 ]
