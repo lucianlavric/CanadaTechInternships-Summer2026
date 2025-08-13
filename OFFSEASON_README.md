@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| SAP | SAP iXp Intern - Software Developer [Vancouver] | Vancouver, BC | <a href="https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Software-Developer-Vancouver-Brit-V6B-1A9/1235595501?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
 | Motorola | Student Test Automation Developer Co-Op | Gatineau, QC | <a href="https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Gatineau-Canada/Student-Test-Automation-Developer-Co-Op_R56887?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
 | Sielo Robotics | Full Stack SW | Ottawa, ON | <a href="https://www.linkedin.com/jobs/view/4283408108/?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 12 |
 | Xylem | Data Engineer Intern | Mississauga, ON | <a href="https://xylem.wd5.myworkdayjobs.com/en-CA/xylem-careers/job/Mississauga/Data-Engineer-Intern_R43581?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 11 |

@@ -1690,5 +1690,21 @@
         "date_posted": 1755072186,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755072220,
+        "url": "https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Software-Developer-Vancouver-Brit-V6B-1A9/1235595501",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "SAP",
+        "title": "SAP iXp Intern - Software Developer [Vancouver]",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "09199c85-b1b9-481e-84ed-994f780850fa",
+        "date_posted": 1755072220,
+        "company_url": "",
+        "is_visible": true
     }
 ]
