@@ -1674,5 +1674,21 @@
         "date_posted": 1755022783,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755072186,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Gatineau-Canada/Student-Test-Automation-Developer-Co-Op_R56887",
+        "locations": [
+            "Gatineau, QC"
+        ],
+        "active": true,
+        "company_name": "Motorola",
+        "title": "Student Test Automation Developer Co-Op",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "f2818612-591e-43f5-8c20-920842b05206",
+        "date_posted": 1755072186,
+        "company_url": "",
+        "is_visible": true
     }
 ]
