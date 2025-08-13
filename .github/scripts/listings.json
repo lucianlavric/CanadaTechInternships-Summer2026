@@ -1706,5 +1706,21 @@
         "date_posted": 1755072220,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755072266,
+        "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/PMO-Analyst-and-Business-Intelligence-Intern_R1010308",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Hitachi Rail",
+        "title": "PMO Analyst and Business Intelligence Intern",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "a493cd45-584e-494b-b835-a5097d2aa8d4",
+        "date_posted": 1755072266,
+        "company_url": "",
+        "is_visible": true
     }
 ]
