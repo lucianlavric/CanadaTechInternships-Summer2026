@@ -1868,5 +1868,21 @@
         "date_posted": 1755141330,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755143662,
+        "url": "https://mfs.wd1.myworkdayjobs.com/MFS-Careers/job/Toronto/Equity-Research-Associate-Intern--Winter-2026-Intern-_MFS-231316",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "MFS",
+        "title": "Equity Research Associate Intern (Winter 2026 Intern)",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "f65ac2c4-effa-4320-8d10-c1dd507c8d66",
+        "date_posted": 1755143662,
+        "company_url": "",
+        "is_visible": true
     }
 ]
