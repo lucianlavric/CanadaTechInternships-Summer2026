@@ -1804,5 +1804,21 @@
         "date_posted": 1755072545,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755141161,
+        "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Waveserver-Platform-Software-Developer-Co-op--Fall-2025-_R028647",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Ciena",
+        "title": "Waveserver Platform Software Developer Co-op (Fall 2025)",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "49d3499b-9fbf-4e25-9d54-e9bf9362b3d1",
+        "date_posted": 1755141161,
+        "company_url": "",
+        "is_visible": true
     }
 ]
