@@ -1820,5 +1820,21 @@
         "date_posted": 1755141161,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755141270,
+        "url": "https://trench.csod.com/ux/ats/careersite/1/home/requisition/1338?c=trench&sq=req1338",
+        "locations": [
+            "Scarborough, ON"
+        ],
+        "active": true,
+        "company_name": "Trench",
+        "title": "AI/ML Intern \u2013 Front-End Developer",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "7298e228-2f0c-4a45-892f-39b24c1670dd",
+        "date_posted": 1755141270,
+        "company_url": "",
+        "is_visible": true
     }
 ]
