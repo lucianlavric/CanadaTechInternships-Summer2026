@@ -1852,5 +1852,21 @@
         "date_posted": 1755141307,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755141330,
+        "url": "https://trench.csod.com/ux/ats/careersite/1/home/requisition/1335",
+        "locations": [
+            "Scarborough, ON"
+        ],
+        "active": true,
+        "company_name": "Trench",
+        "title": "AI/ML Intern \u2013 Full-Stack Developer",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "e75a4ea6-de69-46a0-a1d5-7e2fb941d493",
+        "date_posted": 1755141330,
+        "company_url": "",
+        "is_visible": true
     }
 ]

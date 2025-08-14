@@ -18,7 +18,8 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Trench | AI/ML Intern – Data Engineer | Scarborough, ON | <a href="https://trench.csod.com/ux/ats/careersite/1/home/requisition/1336?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
+| Trench | AI/ML Intern – Full-Stack Developer | Scarborough, ON | <a href="https://trench.csod.com/ux/ats/careersite/1/home/requisition/1335?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
+| ↳ | AI/ML Intern – Data Engineer | Scarborough, ON | <a href="https://trench.csod.com/ux/ats/careersite/1/home/requisition/1336?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
 | ↳ | AI/ML Intern – Front-End Developer | Scarborough, ON | <a href="https://trench.csod.com/ux/ats/careersite/1/home/requisition/1338?c=trench&sq=req1338&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
 | TD | Global Markets Intern/Co-op - Quantitative Engineering Development | Toronto, ON | <a href="https://td.wd3.myworkdayjobs.com/fr-CA/TD_Bank_Careers/job/Toronto-Ontario/Global-Markets-Intern-Co-op---Quantitative-Engineering-Development_R_1438567?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
 | SAP | SAP iXp Intern - Software Developer [Vancouver] | Vancouver, BC | <a href="https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Software-Developer-Vancouver-Brit-V6B-1A9/1235595501?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
