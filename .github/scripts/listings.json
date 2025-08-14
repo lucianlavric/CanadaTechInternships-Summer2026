@@ -1836,5 +1836,21 @@
         "date_posted": 1755141270,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755141307,
+        "url": "https://trench.csod.com/ux/ats/careersite/1/home/requisition/1336",
+        "locations": [
+            "Scarborough, ON"
+        ],
+        "active": true,
+        "company_name": "Trench",
+        "title": "AI/ML Intern \u2013 Data Engineer",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "34ec908d-8d76-4a9a-8430-b1778bfd8206",
+        "date_posted": 1755141307,
+        "company_url": "",
+        "is_visible": true
     }
 ]
