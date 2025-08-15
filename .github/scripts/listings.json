@@ -1916,5 +1916,21 @@
         "date_posted": 1755239918,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755240068,
+        "url": "https://careers.abb/global/en/job/ABB1GLOBALJR00007776EXTERNALENGLOBAL/Intern-IT-Programming-and-Projects",
+        "locations": [
+            "Point-Claire, QC"
+        ],
+        "active": true,
+        "company_name": "ABB",
+        "title": "IT Programming and Projects",
+        "season": "Fall",
+        "source": "AliElrafih",
+        "id": "14c6b9af-2ddc-463c-a4c7-8768d8298e4a",
+        "date_posted": 1755240068,
+        "company_url": "",
+        "is_visible": true
     }
 ]
