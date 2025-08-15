@@ -1996,5 +1996,21 @@
         "date_posted": 1755240263,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755240336,
+        "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareCanada/job/Remote-Canada-ON/Product-Intern_R46468-1",
+        "locations": [
+            "Remote"
+        ],
+        "active": true,
+        "company_name": "Jonas",
+        "title": "Product Intern",
+        "season": "Fall",
+        "source": "AliElrafih",
+        "id": "594d1493-6a8e-47a5-ad34-5473b3bc9896",
+        "date_posted": 1755240336,
+        "company_url": "",
+        "is_visible": true
     }
 ]
