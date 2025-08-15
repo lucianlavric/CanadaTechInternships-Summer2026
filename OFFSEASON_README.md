@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| SAP | Data Visualization and Business Reporting | Vancouver, BC | <a href="https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Data-Visualization-&-Business-Reporting-Brit-V6B-1A9/1236427101?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
 | RBC | Cyber Security Analyst | Vancouver, BC | <a href="https://jobs.rbc.com/ca/en/job/RBCAA0088R0000137127EXTERNALENCA/2026-Winter-Student-Opportunities-Technology-Operations-Cyber-Security-Analyst-Vancouver-4-8-Months?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
 | Huawei | Strategic Researcher - Efficient AI Computing | Markham, ON | <a href="https://huaweicanada.recruitee.com/o/intern-strategic-researcher-efficient-ai-computing?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
 | COVE | Software Development Intern | Dartmouth, NS | <a href="https://coveocean.bamboohr.com/careers/112?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |

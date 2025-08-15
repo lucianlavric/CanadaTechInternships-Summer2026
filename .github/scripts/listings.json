@@ -1964,5 +1964,21 @@
         "date_posted": 1755240173,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755240214,
+        "url": "https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Data-Visualization-&-Business-Reporting-Brit-V6B-1A9/1236427101",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "SAP",
+        "title": "Data Visualization and Business Reporting",
+        "season": "Fall",
+        "source": "AliElrafih",
+        "id": "ac1aedaf-fbd3-40a6-a499-3f4cfe79201e",
+        "date_posted": 1755240214,
+        "company_url": "",
+        "is_visible": true
     }
 ]
