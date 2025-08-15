@@ -1980,5 +1980,21 @@
         "date_posted": 1755240214,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755240263,
+        "url": "https://jobs.rbc.com/ca/en/job/RBCAA0088R0000137286EXTERNALENCA/2026-Winter-Student-Opportunities-Technology-Operations-Data-Specialists-Calgary-8-Months",
+        "locations": [
+            "Calgary, AB"
+        ],
+        "active": true,
+        "company_name": "RBC",
+        "title": "Data Specialist",
+        "season": "Fall",
+        "source": "AliElrafih",
+        "id": "28e6bb6a-4e38-475c-a528-0e2868f2766c",
+        "date_posted": 1755240263,
+        "company_url": "",
+        "is_visible": true
     }
 ]
