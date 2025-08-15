@@ -1900,5 +1900,21 @@
         "date_posted": 1755143732,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755239918,
+        "url": "https://jobs.rbc.com/ca/en/job/RBCAA0088R0000137127EXTERNALENCA/2026-Winter-Student-Opportunities-Technology-Operations-Cyber-Security-Analyst-Vancouver-4-8-Months",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "RBC",
+        "title": "Cyber Security Analyst",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "3f4cba89-3575-43f4-aa47-cc502a23face",
+        "date_posted": 1755239918,
+        "company_url": "",
+        "is_visible": true
     }
 ]

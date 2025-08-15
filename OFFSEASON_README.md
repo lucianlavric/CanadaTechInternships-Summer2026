@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| RBC | Cyber Security Analyst | Vancouver, BC | <a href="https://jobs.rbc.com/ca/en/job/RBCAA0088R0000137127EXTERNALENCA/2026-Winter-Student-Opportunities-Technology-Operations-Cyber-Security-Analyst-Vancouver-4-8-Months?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
 | Trench | AI/ML Intern – Full-Stack Developer | Scarborough, ON | <a href="https://trench.csod.com/ux/ats/careersite/1/home/requisition/1335?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
 | ↳ | AI/ML Intern – Data Engineer | Scarborough, ON | <a href="https://trench.csod.com/ux/ats/careersite/1/home/requisition/1336?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
 | ↳ | AI/ML Intern – Front-End Developer | Scarborough, ON | <a href="https://trench.csod.com/ux/ats/careersite/1/home/requisition/1338?c=trench&sq=req1338&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
