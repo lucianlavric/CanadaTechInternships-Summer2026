@@ -2012,5 +2012,21 @@
         "date_posted": 1755240336,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755240381,
+        "url": "https://www.tesla.com/careers/search/job/248247",
+        "locations": [
+            "Markham, ON"
+        ],
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Technical Program Management, Cell Engineering",
+        "season": "Spring",
+        "source": "AliElrafih",
+        "id": "e0868828-945e-4860-96e6-88c9ff587d91",
+        "date_posted": 1755240381,
+        "company_url": "",
+        "is_visible": true
     }
 ]
