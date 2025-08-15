@@ -1948,5 +1948,21 @@
         "date_posted": 1755240127,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755240173,
+        "url": "https://coveocean.bamboohr.com/careers/112",
+        "locations": [
+            "Dartmouth, NS"
+        ],
+        "active": true,
+        "company_name": "COVE",
+        "title": "Software Development Intern",
+        "season": "Fall",
+        "source": "AliElrafih",
+        "id": "fae891c5-0fa7-4935-b91f-c22f73698197",
+        "date_posted": 1755240173,
+        "company_url": "",
+        "is_visible": true
     }
 ]
