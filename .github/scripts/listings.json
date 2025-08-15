@@ -1932,5 +1932,21 @@
         "date_posted": 1755240068,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755240127,
+        "url": "https://huaweicanada.recruitee.com/o/intern-strategic-researcher-efficient-ai-computing",
+        "locations": [
+            "Markham, ON"
+        ],
+        "active": true,
+        "company_name": "Huawei",
+        "title": "Strategic Researcher - Efficient AI Computing",
+        "season": "Fall",
+        "source": "AliElrafih",
+        "id": "5915885f-fe7a-4090-aa4f-c6924926c116",
+        "date_posted": 1755240127,
+        "company_url": "",
+        "is_visible": true
     }
 ]
