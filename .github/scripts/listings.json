@@ -2124,5 +2124,21 @@
         "date_posted": 1755314432,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755314469,
+        "url": "https://jobs.rbc.com/ca/en/job/RBCAA0088R0000137541EXTERNALENCA/2026-Winter-Student-Opportunities-RBC-Borealis-Machine-Learning-Software-Engineer-4-Months",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "RBC",
+        "title": "2026 Winter Student Opportunities RBC Borealis -Machine Learning Software Engineer",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "f8ecb017-81c7-49b4-bab3-ca6f9472cbbf",
+        "date_posted": 1755314469,
+        "company_url": "",
+        "is_visible": true
     }
 ]
