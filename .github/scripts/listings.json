@@ -2380,5 +2380,21 @@
         "date_posted": 1755346075,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755346135,
+        "url": "https://jobs.rbc.com/ca/en/job/RBCAA0088R0000137352EXTERNALENCA/2026-Winter-CAO-Analyst-Data-Stewardship-Intern-4-Months",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "RBC",
+        "title": "2026 Winter - CAO, Analyst - Data Stewardship Intern (4 Months)",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "49a36f0b-e283-483c-b81c-801aee71652a",
+        "date_posted": 1755346135,
+        "company_url": "",
+        "is_visible": true
     }
 ]
