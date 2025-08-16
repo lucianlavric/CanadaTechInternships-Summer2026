@@ -2188,5 +2188,21 @@
         "date_posted": 1755314565,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755314611,
+        "url": "https://careers.roche.com/global/en/job/ROCHGLOBAL202507117687EXTERNALENGLOBAL/DevSecOps-Intern",
+        "locations": [
+            "Mississauga, ON"
+        ],
+        "active": true,
+        "company_name": "Roche",
+        "title": "DevSecOps Intern",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "24a6d3c0-512d-4db4-a96d-d93d7c7259b4",
+        "date_posted": 1755314611,
+        "company_url": "",
+        "is_visible": true
     }
 ]
