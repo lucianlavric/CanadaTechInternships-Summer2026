@@ -2252,5 +2252,21 @@
         "date_posted": 1755314695,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755314736,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer-2026_R223364",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Capital Onn",
+        "title": "Associate, Software Engineer 2026",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "e756bb70-43a7-4466-9f8e-6ba13f699fbe",
+        "date_posted": 1755314736,
+        "company_url": "",
+        "is_visible": true
     }
 ]
