@@ -2140,5 +2140,21 @@
         "date_posted": 1755314469,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755314494,
+        "url": "https://jobs.rbc.com/ca/en/job/RBCAA0088R0000137159EXTERNALENCA/2026-Winter-Student-Opportunities-Technology-Operations-Software-Developer-Vancouver-8-Months",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "RBC",
+        "title": "2026 Winter Student Opportunities Technology & Operations - Software Developer (Vancouver)",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "8688f3d6-7421-499f-8e03-9ffd7ca0120e",
+        "date_posted": 1755314494,
+        "company_url": "",
+        "is_visible": true
     }
 ]
