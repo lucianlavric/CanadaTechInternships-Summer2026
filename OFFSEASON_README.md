@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| SAP | SAP iXp Intern - Software Developer | Montreal, QC | <a href="https://jobs.sap.com/job/Montreal-SAP-iXp-Intern-Software-Developer-Queb-H3B-0B3/1236849501?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | Roche | DevOps Software Engineer Intern | Mississauga, ON | <a href="https://careers.roche.com/global/en/job/ROCHGLOBAL202507118560EXTERNALENGLOBAL/DevOps-Software-Engineer-Intern?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | ↳ | DevSecOps Intern - Cloud Foundations | Mississauga, ON | <a href="https://careers.roche.com/global/en/job/ROCHGLOBAL202507119072EXTERNALENGLOBAL/DevSecOps-Intern-Cloud-Foundations?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | ↳ | DevSecOps Intern | Mississauga, ON | <a href="https://careers.roche.com/global/en/job/ROCHGLOBAL202507117687EXTERNALENGLOBAL/DevSecOps-Intern?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
