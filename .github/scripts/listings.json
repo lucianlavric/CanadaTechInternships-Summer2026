@@ -2220,5 +2220,21 @@
         "date_posted": 1755314634,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755314662,
+        "url": "https://careers.roche.com/global/en/job/ROCHGLOBAL202507118560EXTERNALENGLOBAL/DevOps-Software-Engineer-Intern",
+        "locations": [
+            "Mississauga, ON"
+        ],
+        "active": true,
+        "company_name": "Roche",
+        "title": "DevOps Software Engineer Intern",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "1641921a-b3f7-4e1f-9a65-025fff057817",
+        "date_posted": 1755314662,
+        "company_url": "",
+        "is_visible": true
     }
 ]
