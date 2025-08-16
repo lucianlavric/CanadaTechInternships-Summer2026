@@ -2396,5 +2396,21 @@
         "date_posted": 1755346209,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755346469,
+        "url": "https://higher.gs.com/roles/152632",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Goldman Sachs",
+        "title": "Engineering Summer Analyst",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "2c1df189-bd61-4782-97e2-73439f0dd337",
+        "date_posted": 1755346469,
+        "company_url": "",
+        "is_visible": true
     }
 ]
