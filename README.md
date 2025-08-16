@@ -25,6 +25,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Ontario Teacher's Pension Plan | Intern - DevOps | Toronto, ON | <a href="https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---DevOps--May-2026---16-months-_6587?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | Sagard | Investment Intern, Sagard Private Equity | Toronto, On</br>Montreal, QC | <a href="https://job-boards.greenhouse.io/sagardcareers/jobs/4596033005?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
 | Hitachi Rail | Business Intelligence Intern (4-8months) | Toronto, ON | <a href="https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Business-Intelligence-Intern--4-8months-_R1010206?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
 | TD | Actuarial Intern | Toronto, ON | <a href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/TDI-Actuarial-Intern-Co-op--Summer-2026-_R_1437864?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 08 |
