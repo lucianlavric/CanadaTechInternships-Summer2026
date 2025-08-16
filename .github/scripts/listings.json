@@ -2060,5 +2060,21 @@
         "date_posted": 1755314225,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755314261,
+        "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---EOD--End-User-Technology--January-2026---4-months-_6591",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Ontario Teacher's Pension Plan",
+        "title": "Intern - EOD, End-User Technology",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "2bbb903f-9830-4782-8be8-e90c08ec95bb",
+        "date_posted": 1755314262,
+        "company_url": "",
+        "is_visible": true
     }
 ]

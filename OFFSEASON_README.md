@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Ontario Teacher's Pension Plan | Intern - EOD, End-User Technology | Toronto, ON | <a href="https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---EOD--End-User-Technology--January-2026---4-months-_6591?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | Tesla | Technical Program Management, Cell Engineering | Markham, ON | <a href="https://www.tesla.com/careers/search/job/248247?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
 | SAP | Data Visualization and Business Reporting | Vancouver, BC | <a href="https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Data-Visualization-&-Business-Reporting-Brit-V6B-1A9/1236427101?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
 | RBC | Data Specialist | Calgary, AB | <a href="https://jobs.rbc.com/ca/en/job/RBCAA0088R0000137286EXTERNALENCA/2026-Winter-Student-Opportunities-Technology-Operations-Data-Specialists-Calgary-8-Months?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
