@@ -2092,5 +2092,21 @@
         "date_posted": 1755314306,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755314353,
+        "url": "https://jobs.rbc.com/ca/en/job/RBCAA0088R0000137118EXTERNALENCA/2026-Winter-Student-Opportunities-Technology-Operations-Quality-Engineering-Automation-8-Months",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "RBC",
+        "title": "2026 Winter Student Opportunities Technology & Operations - Quality Engineering & Automation",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "eccb9c9b-add5-47dc-911e-34d169303054",
+        "date_posted": 1755314353,
+        "company_url": "",
+        "is_visible": true
     }
 ]
