@@ -2412,5 +2412,21 @@
         "date_posted": 1755346469,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755348117,
+        "url": "https://www1.communitech.ca/companies/teachworks/jobs/56578609-product-intern#content",
+        "locations": [
+            "Remote \ud83e\udd70"
+        ],
+        "active": true,
+        "company_name": "TeachWorks",
+        "title": "Product Intern",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "f7cc1abe-cb08-47e1-82d6-d83d65e5a1fd",
+        "date_posted": 1755348117,
+        "company_url": "",
+        "is_visible": true
     }
 ]
