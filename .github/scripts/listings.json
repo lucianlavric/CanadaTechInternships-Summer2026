@@ -2172,5 +2172,21 @@
         "date_posted": 1755314527,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755314565,
+        "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Systems-Design-Intern_R1010344",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Hitachi",
+        "title": "Systems Design Intern",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "4b594427-ab7d-43a0-a95f-5bd0fae0cc57",
+        "date_posted": 1755314565,
+        "company_url": "",
+        "is_visible": true
     }
 ]
