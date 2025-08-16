@@ -2364,5 +2364,21 @@
         "date_posted": 1755346046,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755346075,
+        "url": "https://jobs.rbc.com/ca/en/job/RBCAA0088R0000137287EXTERNALENCA/2026-Winter-Student-Opportunities-Technology-Operations-Data-Specialists-Halifax-4-8-Months",
+        "locations": [
+            "Halifax, NS"
+        ],
+        "active": true,
+        "company_name": "RBC",
+        "title": "2026 Winter Student Opportunities Technology & Operations - Data Specialists (Halifax), 4-8 Months",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "aeb00e62-1fc3-466c-b61b-91dc7af5c1dd",
+        "date_posted": 1755346075,
+        "company_url": "",
+        "is_visible": true
     }
 ]
