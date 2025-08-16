@@ -2236,5 +2236,21 @@
         "date_posted": 1755314662,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755314695,
+        "url": "https://careers.kpmg.ca/jobs/29225",
+        "locations": [
+            "Quebec"
+        ],
+        "active": true,
+        "company_name": "KPMG",
+        "title": "GMA - Intern Cyber Security - 2026",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "ad829580-5b70-49ee-88c8-1b4b576edb8b",
+        "date_posted": 1755314695,
+        "company_url": "",
+        "is_visible": true
     }
 ]
