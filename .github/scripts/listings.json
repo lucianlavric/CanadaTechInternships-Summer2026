@@ -2108,5 +2108,21 @@
         "date_posted": 1755314353,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755314432,
+        "url": "https://jobs.rbc.com/ca/en/job/RBCAA0088R0000137155EXTERNALENCA/2026-Winter-Student-Opportunities-Technology-Operations-Software-Developer-Calgary-8-Months",
+        "locations": [
+            "Calgary, AB"
+        ],
+        "active": true,
+        "company_name": "RBC",
+        "title": "2026 Winter Student Opportunities Technology & Operations - Software Developer (Calgary)",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "080982ff-fcd2-406c-898d-72fd2fedd874",
+        "date_posted": 1755314432,
+        "company_url": "",
+        "is_visible": true
     }
 ]
