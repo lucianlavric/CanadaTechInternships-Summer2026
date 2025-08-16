@@ -2204,5 +2204,21 @@
         "date_posted": 1755314611,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755314634,
+        "url": "https://careers.roche.com/global/en/job/ROCHGLOBAL202507119072EXTERNALENGLOBAL/DevSecOps-Intern-Cloud-Foundations",
+        "locations": [
+            "Mississauga, ON"
+        ],
+        "active": true,
+        "company_name": "Roche",
+        "title": "DevSecOps Intern - Cloud Foundations",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "5296b2b6-c830-4577-9966-acf10c048f5d",
+        "date_posted": 1755314634,
+        "company_url": "",
+        "is_visible": true
     }
 ]
