@@ -2156,5 +2156,21 @@
         "date_posted": 1755314494,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755314527,
+        "url": "https://jobs.rbc.com/ca/en/job/RBCAA0088R0000137035EXTERNALENCA/2026-Winter-Student-Opportunities-Capital-Markets-QTS-Software-Developer-4-12-Months",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "RBC",
+        "title": "2026 Winter Student Opportunities Capital Markets, QTS - Software Developer",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "350f95e1-109f-4c05-a611-1bb634176e3f",
+        "date_posted": 1755314527,
+        "company_url": "",
+        "is_visible": true
     }
 ]
