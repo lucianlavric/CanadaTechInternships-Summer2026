@@ -2284,5 +2284,21 @@
         "date_posted": 1755314772,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755345874,
+        "url": "https://higher.gs.com/roles/152632",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Goldman Sachs",
+        "title": "2026 | Americas | Toronto | Engineering | Summer Analyst",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "573be80d-0d42-49ee-9fca-86ab2e9a7855",
+        "date_posted": 1755345874,
+        "company_url": "",
+        "is_visible": true
     }
 ]
