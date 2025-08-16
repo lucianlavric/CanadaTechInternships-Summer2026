@@ -2332,5 +2332,21 @@
         "date_posted": 1755345974,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755346010,
+        "url": "https://jobs.rbc.com/ca/en/job/RBCAA0088R0000137107EXTERNALENCA/2026-WInter-Student-Opportunities-Technology-Operations-Data-Specialists-4-Months",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "RBC",
+        "title": "2026 WInter Student Opportunities Technology & Operations - Data Specialists, 4 Months",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "52d254b3-4ae4-4539-8162-c25f824a5cfe",
+        "date_posted": 1755346010,
+        "company_url": "",
+        "is_visible": true
     }
 ]
