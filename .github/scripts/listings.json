@@ -2476,5 +2476,21 @@
         "date_posted": 1755526470,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755526515,
+        "url": "https://nakisa.com/career-opportunities/?gh_jid=4590663101&gh_src=7927d0b2teu",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "Nakisa",
+        "title": "Software Developer Intern",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "645970cf-a40c-4e3b-a0f4-67569badb543",
+        "date_posted": 1755526515,
+        "company_url": "",
+        "is_visible": true
     }
 ]
