@@ -2492,5 +2492,21 @@
         "date_posted": 1755526515,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755526647,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Process-Management---Summer-2026_R223122",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Capital One",
+        "title": "Process Management, Intern",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "4735b951-5f57-4a77-84be-8e5b0cdb00ef",
+        "date_posted": 1755526647,
+        "company_url": "",
+        "is_visible": true
     }
 ]
