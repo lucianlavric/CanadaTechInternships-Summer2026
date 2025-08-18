@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| SAP | Agile Developer, Business Data Cloud | Vancouver, BC | <a href="https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Agile-Developer%2C-Business-Data-Cloud-Brit-V6B-1A9/1237194001/?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 18 |
 | TeachWorks | Product Intern | Remote 🥰 | <a href="https://www1.communitech.ca/companies/teachworks/jobs/56578609-product-intern#content?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 16 |
 | Roche | Data Quality Intern | Mississauga, ON | <a href="https://careers.roche.com/global/en/job/ROCHGLOBAL202507117846EXTERNALENGLOBAL/Data-Quality-Intern?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 16 |
 | RBC | 2026 Winter - CAO, Analyst - Data Stewardship Intern (4 Months) | Toronto, ON | <a href="https://jobs.rbc.com/ca/en/job/RBCAA0088R0000137352EXTERNALENCA/2026-Winter-CAO-Analyst-Data-Stewardship-Intern-4-Months?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 16 |

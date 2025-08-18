@@ -2444,5 +2444,21 @@
         "date_posted": 1755526373,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755526433,
+        "url": "https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Agile-Developer%2C-Business-Data-Cloud-Brit-V6B-1A9/1237194001/",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "SAP",
+        "title": "Agile Developer, Business Data Cloud",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "6b1ff452-19e8-4e01-b673-3822ec00c50a",
+        "date_posted": 1755526433,
+        "company_url": "",
+        "is_visible": true
     }
 ]
