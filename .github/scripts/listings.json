@@ -2428,5 +2428,21 @@
         "date_posted": 1755348117,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755526373,
+        "url": "https://tower-research.com/open-positions/?gh_jid=6653745",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "Tower",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "6c63987d-6df4-4b45-97c7-7ac07e0ac2f9",
+        "date_posted": 1755526373,
+        "company_url": "",
+        "is_visible": true
     }
 ]
