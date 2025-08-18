@@ -2460,5 +2460,21 @@
         "date_posted": 1755526433,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755526470,
+        "url": "https://careers.ansys.com/job/Vancouver-Spring-2026-Electronics-Software-Development-Intern-(MS)-Brit-V6E2M6/1293260700/",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "Ansys",
+        "title": "Spring 2026 Electronics Software Development Intern (MS)",
+        "season": "Spring",
+        "source": "lucianlavric",
+        "id": "20bd370d-01cd-466f-b805-c6f7fdfc8026",
+        "date_posted": 1755526470,
+        "company_url": "",
+        "is_visible": true
     }
 ]
