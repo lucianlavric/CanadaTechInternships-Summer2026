@@ -2508,5 +2508,24 @@
         "date_posted": 1755526647,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755565301,
+        "url": "https://www.shopify.com/careers/canada-engineering-internships-winter-2026_04cf2b87-6660-45c7-95f2-e734b7844612",
+        "locations": [
+            "Remote",
+            "Toronto, ON",
+            "Ottawa, ON",
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "Shopify",
+        "title": "Canada Engineering",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "33fb7353-59dc-42f6-b22e-90d6e3e023f8",
+        "date_posted": 1755565301,
+        "company_url": "",
+        "is_visible": true
     }
 ]
