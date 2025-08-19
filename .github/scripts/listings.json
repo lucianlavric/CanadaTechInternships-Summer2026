@@ -2561,5 +2561,21 @@
         "date_posted": 1755598304,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755598355,
+        "url": "https://environicsanalytics.bamboohr.com/careers/198",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Environics Analytics",
+        "title": "AI Intern",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "54d38c09-8938-4714-ae12-c2875975ce0b",
+        "date_posted": 1755598355,
+        "company_url": "",
+        "is_visible": true
     }
 ]
