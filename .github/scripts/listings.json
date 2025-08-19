@@ -2527,5 +2527,23 @@
         "date_posted": 1755565301,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755565344,
+        "url": "https://www.shopify.com/careers/data-internships-2026-canada_7333e368-be63-4224-b8e1-0b4a77140cb7",
+        "locations": [
+            "Remote",
+            "Toronto, ON",
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Shopify",
+        "title": "Data Internships",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "e50e9f78-d816-420b-80ce-73fdb7d45383",
+        "date_posted": 1755565344,
+        "company_url": "",
+        "is_visible": true
     }
 ]
