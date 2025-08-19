@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| ZS | DECISION ANALYTICS ASSOCIATE - PEY INTERN | Toronto, ON | <a href="https://jobs.zs.com/jobs/23376?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
 | SS&C | Technical Intern | Toronto, ON | <a href="https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/Ontario-Toronto/Intern---Technical_R25895?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
 | Environics Analytics | AI Intern | Toronto, ON | <a href="https://environicsanalytics.bamboohr.com/careers/198?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
 | Shopify | Data Internships | Remote</br>Toronto, ON</br>Ottawa, ON | <a href="https://www.shopify.com/careers/data-internships-2026-canada_7333e368-be63-4224-b8e1-0b4a77140cb7?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 18 |

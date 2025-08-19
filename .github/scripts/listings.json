@@ -2577,5 +2577,21 @@
         "date_posted": 1755598355,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755598694,
+        "url": "https://jobs.zs.com/jobs/23376",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "ZS",
+        "title": "DECISION ANALYTICS ASSOCIATE - PEY INTERN",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "4707c01e-9469-4725-a92a-7bc11faf400a",
+        "date_posted": 1755598694,
+        "company_url": "",
+        "is_visible": true
     }
 ]
