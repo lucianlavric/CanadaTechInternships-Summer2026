@@ -2641,5 +2641,21 @@
         "date_posted": 1755659850,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755659988,
+        "url": "https://ats.rippling.com/en-CA/loop-careers/jobs/4e13473e-9666-4194-9aff-2facfb11ecd2",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Loop",
+        "title": "Full Stack Developer Co-op",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "b5bb9acf-b3cd-4897-88a8-94ae7c4ebd4e",
+        "date_posted": 1755659988,
+        "company_url": "",
+        "is_visible": true
     }
 ]
