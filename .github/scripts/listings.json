@@ -2689,5 +2689,21 @@
         "date_posted": 1755660119,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755660157,
+        "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/WaveServer-Software-Developer---Fall-2025---4-months_R028692",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Ciena",
+        "title": "WaveServer Software Developer - Fall 2025 - 4 months",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "8019d23e-cbcc-4d8e-8f40-23f9721e90b4",
+        "date_posted": 1755660157,
+        "company_url": "",
+        "is_visible": true
     }
 ]
