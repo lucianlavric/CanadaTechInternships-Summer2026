@@ -2593,5 +2593,21 @@
         "date_posted": 1755598694,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755659673,
+        "url": "https://career17.sapsf.com/career?career_ns=job_listing&company=investorsgP&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13640",
+        "locations": [
+            "Manitoba"
+        ],
+        "active": true,
+        "company_name": "IGM Financial",
+        "title": "Analytics & Reporting Intern",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "f078d27b-49da-4e70-babe-d72a80978c7f",
+        "date_posted": 1755659673,
+        "company_url": "",
+        "is_visible": true
     }
 ]
