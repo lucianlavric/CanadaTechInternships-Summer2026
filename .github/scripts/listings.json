@@ -2705,5 +2705,21 @@
         "date_posted": 1755660157,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755660205,
+        "url": "https://ats.rippling.com/en-CA/ampliwork-inc/jobs/614277a1-b612-4757-a73e-43fedaccc04f",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "Ampliwork",
+        "title": "Applied AI Intern",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "3d3afbbf-9193-4128-983f-f8173c07b1c9",
+        "date_posted": 1755660205,
+        "company_url": "",
+        "is_visible": true
     }
 ]
