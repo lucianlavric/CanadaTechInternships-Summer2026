@@ -2609,5 +2609,21 @@
         "date_posted": 1755659673,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755659746,
+        "url": "https://career17.sapsf.com/career?career_ns=job_listing&company=investorsgP&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13641",
+        "locations": [
+            "Manitoba"
+        ],
+        "active": true,
+        "company_name": "IGM financial",
+        "title": "Data Science Department Intern",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "dd908d2f-24f2-44ec-9539-d6c7772ad54a",
+        "date_posted": 1755659746,
+        "company_url": "",
+        "is_visible": true
     }
 ]
