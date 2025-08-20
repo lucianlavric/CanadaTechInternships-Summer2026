@@ -2625,5 +2625,21 @@
         "date_posted": 1755659746,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755659850,
+        "url": "https://ats.rippling.com/en-CA/ampliwork-inc/jobs/19d43dc6-b039-4362-9e83-a2d6e683ff83",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "Ampliwork",
+        "title": "AI Associate Product Manager Intern",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "11ed4b14-10c2-4f00-b969-cee084f34a15",
+        "date_posted": 1755659850,
+        "company_url": "",
+        "is_visible": true
     }
 ]
