@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| RBC | GRM, Data Analyst Intern (8 Months) | Toronto, ON | <a href="https://jobs.rbc.com/ca/en/job/RBCAA0088R0000138061EXTERNALENCA/2026-Winter-GRM-Data-Analyst-Intern-8-Months?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
 | IGM Financial | Winter 2026 - Technology Engineering Intern | Manitoba | <a href="https://career17.sapsf.com/career?career_ns=job_listing&company=investorsgP&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13644&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
 | GeoComply | Program Manager Intern, Hub | Vancouver, BC | <a href="https://jobs.lever.co/geocomply-2/29ceb776-56f6-4aeb-9a5e-b451eac84b39?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
 | Capital One | Intern, Full Stack Software Engineer - Team Sprout - Winter 2026 | Toronto, ON | <a href="https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Sprout---Winter-2026_R223395?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
