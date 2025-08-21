@@ -2769,5 +2769,21 @@
         "date_posted": 1755791942,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755791980,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Planet-Express---Winter-2026_R223398",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Capital One",
+        "title": "Intern, Backend Software Engineer - Team Planet Express - Winter 2026",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "b44b77fa-fac4-460e-97ff-3f3da57fe819",
+        "date_posted": 1755791980,
+        "company_url": "",
+        "is_visible": true
     }
 ]
