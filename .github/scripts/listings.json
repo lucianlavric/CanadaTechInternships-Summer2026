@@ -2737,5 +2737,21 @@
         "date_posted": 1755660309,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755791895,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Mobile-Software-Engineer---Blue-Jays---Winter-2026_R223402",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Capital One",
+        "title": "Intern, Mobile Software Engineer - Capital One Travel - Winter 2026",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "2193f967-1d3b-41c5-87a4-6340f5307ef8",
+        "date_posted": 1755791895,
+        "company_url": "",
+        "is_visible": true
     }
 ]
