@@ -2817,5 +2817,21 @@
         "date_posted": 1755793537,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755793767,
+        "url": "https://career17.sapsf.com/career?career_ns=job_listing&company=investorsgP&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13644",
+        "locations": [
+            "Manitoba"
+        ],
+        "active": true,
+        "company_name": "IGM Financial",
+        "title": "Winter 2026 - Technology Engineering Intern",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "cb9b7877-1e17-487c-9bdf-5d866f1bb34a",
+        "date_posted": 1755793767,
+        "company_url": "",
+        "is_visible": true
     }
 ]
