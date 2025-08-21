@@ -1,7 +1,7 @@
 # Canada-Tech-Internships-Summer-2026
 The torch has been passed. Use this repo to share and keep track of software, tech, CS, PM, quant internships for **Summer 2026**. 
 
-(For off-season internships, please see the [Off-Season README](./OFFSEASON_README.md).) 
+## (For off-season internships, please see the [Off-Season README](./OFFSEASON_README.md).) 
 
 This list is maintained collaboratively by Luka and Ali!
 
