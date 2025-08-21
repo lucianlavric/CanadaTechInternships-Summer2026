@@ -2897,5 +2897,21 @@
         "date_posted": 1755806505,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755806522,
+        "url": "https://giatecscientific.bamboohr.com/careers/275",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Giatec",
+        "title": "AI & Automation Intern (Data Science / Software / Engineering)",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "6e4c82cb-c629-4925-8671-5ba33e785c9a",
+        "date_posted": 1755806522,
+        "company_url": "",
+        "is_visible": true
     }
 ]
