@@ -2881,5 +2881,21 @@
         "date_posted": 1755806461,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755806505,
+        "url": "https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Platform-Engineering-Vancouver-Brit-V6B-1A9/1238399601",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "SAP",
+        "title": "Platform Engineering",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "af7cadc9-a1c7-48fa-8153-a587fc0fb716",
+        "date_posted": 1755806505,
+        "company_url": "",
+        "is_visible": true
     }
 ]
