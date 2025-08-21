@@ -2865,5 +2865,21 @@
         "date_posted": 1755806440,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755806461,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23665",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Service Router QA Co-op/Intern",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "cf8c0f2b-03a0-4f1f-8f2c-9e2502d6c74a",
+        "date_posted": 1755806461,
+        "company_url": "",
+        "is_visible": true
     }
 ]
