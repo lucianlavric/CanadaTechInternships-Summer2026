@@ -2801,5 +2801,21 @@
         "date_posted": 1755792614,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755793537,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Sprout---Winter-2026_R223395",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Capital One",
+        "title": "Intern, Full Stack Software Engineer - Team Sprout - Winter 2026",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "a89b80b2-b2e7-477e-b6df-9f4017a31f7d",
+        "date_posted": 1755793537,
+        "company_url": "",
+        "is_visible": true
     }
 ]
