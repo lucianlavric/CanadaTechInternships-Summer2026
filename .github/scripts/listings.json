@@ -2833,5 +2833,21 @@
         "date_posted": 1755793767,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755794740,
+        "url": "https://jobs.lever.co/geocomply-2/29ceb776-56f6-4aeb-9a5e-b451eac84b39",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "GeoComply",
+        "title": "Program Manager Intern, Hub",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "fd702ad7-1d86-43bf-b498-a4abdeb69060",
+        "date_posted": 1755794740,
+        "company_url": "",
+        "is_visible": true
     }
 ]
