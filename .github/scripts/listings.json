@@ -2785,5 +2785,21 @@
         "date_posted": 1755791980,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755792614,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Integrated-Storefront---Winter-2025_R223399",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Capital One",
+        "title": "Intern, Full Stack Software Engineer - Integrated Storefront - Winter 2025",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "1a271d1f-0b12-46a1-8826-2cb52bf46afc",
+        "date_posted": 1755792614,
+        "company_url": "",
+        "is_visible": true
     }
 ]
