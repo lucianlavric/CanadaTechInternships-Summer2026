@@ -3025,5 +3025,21 @@
         "date_posted": 1755860172,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755860235,
+        "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000077455500-firmware-engineer-intern",
+        "locations": [
+            "Saint-Laurent, QC"
+        ],
+        "active": true,
+        "company_name": "Veolia",
+        "title": "Firmware Engineer Intern",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "b64bf497-22e3-4646-b92f-8d2575c86987",
+        "date_posted": 1755860235,
+        "company_url": "",
+        "is_visible": true
     }
 ]
