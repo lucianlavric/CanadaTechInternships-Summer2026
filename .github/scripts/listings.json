@@ -3009,5 +3009,21 @@
         "date_posted": 1755860077,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755860172,
+        "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Canada--Ottawa--383-Terry-Fox--Bldg-C/Hardware--PCBA--Design-and-Verification-Co-op--Fall-2025-_R028061",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Ciena",
+        "title": "Hardware (PCBA) Design and Verification Co-op (Fall 2025)",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "83396598-eb1c-40e7-8204-0d85348a729b",
+        "date_posted": 1755860172,
+        "company_url": "",
+        "is_visible": true
     }
 ]
