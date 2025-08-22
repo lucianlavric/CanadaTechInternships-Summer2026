@@ -3041,5 +3041,22 @@
         "date_posted": 1755860235,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755860308,
+        "url": "https://careers.bankofcanada.ca/job/Various-locations-2026-Winter-Student-Work-Placement-IT-and-Cyber/595054117",
+        "locations": [
+            "Remote",
+            "\"Various locations in Canada\""
+        ],
+        "active": true,
+        "company_name": "Bank of Canada",
+        "title": "2026 Winter - Student Work Placement - IT and Cyber",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "89ae35d0-4ac4-4e28-8fc0-e3adb6c8fadb",
+        "date_posted": 1755860308,
+        "company_url": "",
+        "is_visible": true
     }
 ]
