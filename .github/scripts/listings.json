@@ -3058,5 +3058,21 @@
         "date_posted": 1755860308,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755860347,
+        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54156",
+        "locations": [
+            "Markham, ON"
+        ],
+        "active": true,
+        "company_name": "IBM",
+        "title": "Data Scientist Intern (16 months, September 2026)",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "9caef7e2-1ef0-469e-a290-f4e87911f56c",
+        "date_posted": 1755860347,
+        "company_url": "",
+        "is_visible": true
     }
 ]
