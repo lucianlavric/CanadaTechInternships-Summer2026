@@ -2977,5 +2977,21 @@
         "date_posted": 1755860008,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755860039,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23734",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Embedded C/C++ Software Dev Student",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "bd2117b5-0f24-4744-bebe-aa119ad6aceb",
+        "date_posted": 1755860039,
+        "company_url": "",
+        "is_visible": true
     }
 ]
