@@ -3090,5 +3090,21 @@
         "date_posted": 1755860409,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755860435,
+        "url": "https://jobs.rbc.com/ca/en/job/RBCAA0088R0000137901EXTERNALENCA/2026-CAE-Winter-Delivery-Excellence-Business-Analyst-Co-op-4-Months",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "RBC",
+        "title": "2026 CAE, Winter Delivery Excellence Business Analyst Co-op (4 Months)",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "f46e8810-c7f8-426d-8714-483049be9ad8",
+        "date_posted": 1755860435,
+        "company_url": "",
+        "is_visible": true
     }
 ]
