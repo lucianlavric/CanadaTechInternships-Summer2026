@@ -2929,5 +2929,21 @@
         "date_posted": 1755859617,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755859896,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23793",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Business Ops Analyst Co-op/Intern",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "82aaa0df-7fc9-47b0-a3f1-ca70fbca4646",
+        "date_posted": 1755859896,
+        "company_url": "",
+        "is_visible": true
     }
 ]
