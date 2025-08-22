@@ -2913,5 +2913,21 @@
         "date_posted": 1755806522,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755859617,
+        "url": "https://www.konrad.com/careers/job/6642169003?gh_jid=6642169003",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Konrad",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "Kanik-a",
+        "id": "1c1ad48c-c82c-4c44-b9f5-9f537f001bbe",
+        "date_posted": 1755859617,
+        "company_url": "",
+        "is_visible": true
     }
 ]
