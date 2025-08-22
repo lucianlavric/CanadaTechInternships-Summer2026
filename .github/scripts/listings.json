@@ -3074,5 +3074,21 @@
         "date_posted": 1755860347,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755860409,
+        "url": "https://jobs.rbc.com/ca/en/job/RBCAA0088R0000137434EXTERNALENCA/2026-CFO-Winter-Data-and-AI-Intern-8-Months",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "RBC",
+        "title": "2026 CFO, Winter Data and AI Intern (8 Months)",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "9aa7e612-d451-4027-8611-263b2bc11e30",
+        "date_posted": 1755860409,
+        "company_url": "",
+        "is_visible": true
     }
 ]
