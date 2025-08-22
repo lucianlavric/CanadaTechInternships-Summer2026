@@ -2945,5 +2945,21 @@
         "date_posted": 1755859896,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755859936,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23930",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Embedded BSP SW Dev EE/CompE Student",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "d81c8713-bfc0-4830-b8b1-9cc8173085b7",
+        "date_posted": 1755859936,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -18,7 +18,8 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Nokia | Business Ops Analyst Co-op/Intern | Ottawa, ON | <a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23793?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 22 |
+| Nokia | Embedded BSP SW Dev EE/CompE Student | Ottawa, ON | <a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23930?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 22 |
+| ↳ | Business Ops Analyst Co-op/Intern | Ottawa, ON | <a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23793?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 22 |
 | SAP | Platform Engineering | Vancouver, BC | <a href="https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Platform-Engineering-Vancouver-Brit-V6B-1A9/1238399601?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
 | RBC | GRM, Data Analyst Intern (8 Months) | Toronto, ON | <a href="https://jobs.rbc.com/ca/en/job/RBCAA0088R0000138061EXTERNALENCA/2026-Winter-GRM-Data-Analyst-Intern-8-Months?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
 | Nokia | Service Router QA Co-op/Intern | Ottawa, ON | <a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23665?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
