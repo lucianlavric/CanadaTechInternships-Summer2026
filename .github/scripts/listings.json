@@ -2961,5 +2961,21 @@
         "date_posted": 1755859936,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755860008,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23622",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Nokia",
+        "title": "DDoS Mitigation Solutions QA Student",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "10c8b457-5c04-4de0-99ab-88febf8afe86",
+        "date_posted": 1755860008,
+        "company_url": "",
+        "is_visible": true
     }
 ]
