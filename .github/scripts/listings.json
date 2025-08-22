@@ -2993,5 +2993,21 @@
         "date_posted": 1755860039,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755860077,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23792",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Nokia",
+        "title": "NW Automation Practice Co-op/Intern",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "2f4b3c95-1fa0-40e8-95f2-c69686f0ff6a",
+        "date_posted": 1755860077,
+        "company_url": "",
+        "is_visible": true
     }
 ]
