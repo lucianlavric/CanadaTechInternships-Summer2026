@@ -26,6 +26,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Motorila | Software Development 2025 Co-Op | Orangeville, ON | <a href="https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Software-Development-2025-Co-Op_R57097?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
 | L3Harris | R & A Systems Engineering Co op | Waterdown, ON | <a href="https://careers.l3harris.com/en/job/-/-/4832/85274073600?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
 | ↳ | Integrated Systems Engineering Coop | Waterdown, ON | <a href="https://careers.l3harris.com/en/job/-/-/4832/85274073792?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
 | ↳ | Test and Evaluation, Systems Engineering Co-op | Waterdown, ON | <a href="https://careers.l3harris.com/en/job/-/-/4832/85274073808?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |

@@ -3250,5 +3250,21 @@
         "date_posted": 1755946310,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755946446,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Software-Development-2025-Co-Op_R57097",
+        "locations": [
+            "Orangeville, ON"
+        ],
+        "active": true,
+        "company_name": "Motorila",
+        "title": "Software Development 2025 Co-Op",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "05aecb39-076d-413b-b291-3be87e30d8a1",
+        "date_posted": 1755946446,
+        "company_url": "",
+        "is_visible": true
     }
 ]
