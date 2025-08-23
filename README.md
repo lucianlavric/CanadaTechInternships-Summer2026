@@ -26,7 +26,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| L3Harris | Integrated Systems Engineering Coop | Waterdown, ON | <a href="https://careers.l3harris.com/en/job/-/-/4832/85274073792?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
+| L3Harris | R & A Systems Engineering Co op | Waterdown, ON | <a href="https://careers.l3harris.com/en/job/-/-/4832/85274073600?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
+| ↳ | Integrated Systems Engineering Coop | Waterdown, ON | <a href="https://careers.l3harris.com/en/job/-/-/4832/85274073792?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
 | ↳ | Test and Evaluation, Systems Engineering Co-op | Waterdown, ON | <a href="https://careers.l3harris.com/en/job/-/-/4832/85274073808?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
 | ↳ | Specialty Engineering Coop | Waterdown, ON | <a href="https://careers.l3harris.com/en/job/-/-/4832/85274073840?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
 | ↳ | Full Stack Developer Co-op | Remote :) | <a href="https://careers.l3harris.com/en/job/-/-/4832/85274073920?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |

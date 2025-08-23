@@ -3234,5 +3234,21 @@
         "date_posted": 1755946275,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755946310,
+        "url": "https://careers.l3harris.com/en/job/-/-/4832/85274073600",
+        "locations": [
+            "Waterdown, ON"
+        ],
+        "active": true,
+        "company_name": "L3Harris",
+        "title": "R & A Systems Engineering Co op",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "84ecb579-f5d1-4b8a-b712-a5742d792720",
+        "date_posted": 1755946310,
+        "company_url": "",
+        "is_visible": true
     }
 ]
