@@ -26,7 +26,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| L3Harris | Embedded Software Developer Co-op 1 | Waterdown, ON | <a href="https://careers.l3harris.com/en/job/-/-/4832/85274073744?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
+| L3Harris | Full Stack Developer Co-op | Remote :) | <a href="https://careers.l3harris.com/en/job/-/-/4832/85274073920?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
+| ↳ | Embedded Software Developer Co-op 1 | Waterdown, ON | <a href="https://careers.l3harris.com/en/job/-/-/4832/85274073744?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
 | ↳ | Applied Systems Engineering Coop | Waterdown, ON | <a href="https://careers.l3harris.com/en/cookie-management?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
 | Konrad | Software Developer Intern | Toronto, ON | <a href="https://www.konrad.com/careers/job/6642169003?gh_jid=6642169003&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 22 |
 | Tower | Software Developer Intern | Montreal, QC | <a href="https://tower-research.com/open-positions/?gh_jid=6653745&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 18 |

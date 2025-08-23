@@ -3170,5 +3170,21 @@
         "date_posted": 1755946095,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755946155,
+        "url": "https://careers.l3harris.com/en/job/-/-/4832/85274073920",
+        "locations": [
+            "Remote :)"
+        ],
+        "active": true,
+        "company_name": "L3Harris",
+        "title": "Full Stack Developer Co-op",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "1a819227-fb67-4fd8-adda-eb0b3b867ba5",
+        "date_posted": 1755946155,
+        "company_url": "",
+        "is_visible": true
     }
 ]
