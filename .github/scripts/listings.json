@@ -3218,5 +3218,21 @@
         "date_posted": 1755946230,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755946275,
+        "url": "https://careers.l3harris.com/en/job/-/-/4832/85274073792",
+        "locations": [
+            "Waterdown, ON"
+        ],
+        "active": true,
+        "company_name": "L3Harris",
+        "title": "Integrated Systems Engineering Coop",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "914bb0f3-c6c2-4eb7-9cd3-f3bdb5b5c88e",
+        "date_posted": 1755946275,
+        "company_url": "",
+        "is_visible": true
     }
 ]
