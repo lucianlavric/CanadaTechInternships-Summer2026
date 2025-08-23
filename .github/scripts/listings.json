@@ -3186,5 +3186,21 @@
         "date_posted": 1755946155,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755946188,
+        "url": "https://careers.l3harris.com/en/job/-/-/4832/85274073840",
+        "locations": [
+            "Waterdown, ON"
+        ],
+        "active": true,
+        "company_name": "L3Harris",
+        "title": "Specialty Engineering Coop",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "1142c9b7-f877-49d3-874d-c74cfa468578",
+        "date_posted": 1755946188,
+        "company_url": "",
+        "is_visible": true
     }
 ]
