@@ -3202,5 +3202,21 @@
         "date_posted": 1755946188,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755946230,
+        "url": "https://careers.l3harris.com/en/job/-/-/4832/85274073808",
+        "locations": [
+            "Waterdown, ON"
+        ],
+        "active": true,
+        "company_name": "L3Harris",
+        "title": "Test and Evaluation, Systems Engineering Co-op",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "968f7010-2044-4098-b791-85886a7e48be",
+        "date_posted": 1755946230,
+        "company_url": "",
+        "is_visible": true
     }
 ]
