@@ -3138,5 +3138,21 @@
         "date_posted": 1755860506,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755946043,
+        "url": "https://careers.l3harris.com/en/cookie-management",
+        "locations": [
+            "Waterdown, ON"
+        ],
+        "active": true,
+        "company_name": "L3Harris",
+        "title": "Applied Systems Engineering Coop",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "ae1968fc-45b5-4462-88f3-ba8260dc075d",
+        "date_posted": 1755946043,
+        "company_url": "",
+        "is_visible": true
     }
 ]
