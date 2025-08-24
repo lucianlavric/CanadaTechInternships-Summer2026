@@ -3266,5 +3266,21 @@
         "date_posted": 1755946446,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756041085,
+        "url": "https://careers.intactfc.com/data-scientist-i-4-month-co-op-internship-winter-2026/job/R148040",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "Intact",
+        "title": "Data Scientist I\u2013 4 Month Co-op/Internship (Winter 2026)",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "c3880837-f398-48e8-994f-0173962e7ec5",
+        "date_posted": 1756041085,
+        "company_url": "",
+        "is_visible": true
     }
 ]
