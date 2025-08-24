@@ -3314,5 +3314,21 @@
         "date_posted": 1756041272,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756041333,
+        "url": "https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=17176",
+        "locations": [
+            "Calgary, AB"
+        ],
+        "active": true,
+        "company_name": "Macquarie",
+        "title": "Commodities and Global Markets Summer Internship Program",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "0701abf8-0059-4114-92a6-45a6f63c92db",
+        "date_posted": 1756041333,
+        "company_url": "",
+        "is_visible": true
     }
 ]
