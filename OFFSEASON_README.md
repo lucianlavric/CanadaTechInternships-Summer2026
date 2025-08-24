@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| SAP | UX Researcher | Montreal, QC | <a href="https://jobs.sap.com/job/Montreal-SAP-iXp-Intern-UX-Researcher-Queb-H3B-0B3/1240019701?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 24 |
 | Intact | Data Scientist I– 4 Month Co-op/Internship (Winter 2026) | Vancouver, BC | <a href="https://careers.intactfc.com/data-scientist-i-4-month-co-op-internship-winter-2026/job/R148040?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 24 |
 | Veolia | Firmware Engineer Intern | Saint-Laurent, QC | <a href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000077455500-firmware-engineer-intern?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 22 |
 | RBC | 2026 CAE, Winter Delivery Excellence Business Analyst Co-op (4 Months) | Toronto, ON | <a href="https://jobs.rbc.com/ca/en/job/RBCAA0088R0000137901EXTERNALENCA/2026-CAE-Winter-Delivery-Excellence-Business-Analyst-Co-op-4-Months?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 22 |

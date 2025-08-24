@@ -3298,5 +3298,21 @@
         "date_posted": 1756041185,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756041272,
+        "url": "https://jobs.sap.com/job/Montreal-SAP-iXp-Intern-UX-Researcher-Queb-H3B-0B3/1240019701",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "SAP",
+        "title": "UX Researcher",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "d8b455d5-6385-4131-90bd-6707554857ce",
+        "date_posted": 1756041272,
+        "company_url": "",
+        "is_visible": true
     }
 ]
