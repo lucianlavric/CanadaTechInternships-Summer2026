@@ -3282,5 +3282,21 @@
         "date_posted": 1756041085,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756041185,
+        "url": "https://careers.intactfc.com/actuarial-analyst-4-month-co-op-internship-summer-fall-2026/job/R148574",
+        "locations": [
+            "Calgary, AB"
+        ],
+        "active": true,
+        "company_name": "Intact",
+        "title": "Actuarial Analyst - 4 Month Co-Op/Internship (Summer/Fall 2026)",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "1aedada4-450d-4808-85cb-f48a02debdce",
+        "date_posted": 1756041185,
+        "company_url": "",
+        "is_visible": true
     }
 ]
