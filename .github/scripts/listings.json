@@ -3410,5 +3410,23 @@
         "date_posted": 1756123590,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756141654,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/139918130284503750-software-developer-intern-bs-summer-2026",
+        "locations": [
+            "Waterloo, ON",
+            "Montreal, QC",
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Google",
+        "title": "Software Developer Intern, BS, Summer 2026",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "8d387c8a-ad1b-4860-9bb2-b263daa79801",
+        "date_posted": 1756141654,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -26,6 +26,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Google | Software Developer Intern, BS, Summer 2026 | Waterloo, ON</br>Montreal, QC</br>Toronto, ON | <a href="https://www.google.com/about/careers/applications/jobs/results/139918130284503750-software-developer-intern-bs-summer-2026?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | Intact | Actuarial Analyst - 4 Month Co-Op/Internship (Summer/Fall 2026) | Calgary, AB | <a href="https://careers.intactfc.com/actuarial-analyst-4-month-co-op-internship-summer-fall-2026/job/R148574?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 24 |
 | Motorila | Software Development 2025 Co-Op | Orangeville, ON | <a href="https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Software-Development-2025-Co-Op_R57097?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
 | L3Harris | R & A Systems Engineering Co op | Waterdown, ON | <a href="https://careers.l3harris.com/en/job/-/-/4832/85274073600?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
