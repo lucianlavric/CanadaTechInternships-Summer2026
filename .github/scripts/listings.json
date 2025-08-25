@@ -3330,5 +3330,21 @@
         "date_posted": 1756041333,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756122881,
+        "url": "https://job-boards.greenhouse.io/bitgointernships/jobs/8134206002",
+        "locations": [
+            "Waterloo, ON"
+        ],
+        "active": true,
+        "company_name": "BitGo",
+        "title": "Software Engineer Intern - Access & Notifications (Winter 2026)",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "1ae9ca26-5300-40c9-b3a3-8308169d7a28",
+        "date_posted": 1756122881,
+        "company_url": "",
+        "is_visible": true
     }
 ]
