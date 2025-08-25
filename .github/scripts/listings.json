@@ -3394,5 +3394,21 @@
         "date_posted": 1756122983,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756123590,
+        "url": "https://www1.communitech.ca/companies/cohere-2-9ccb8fa7-ab53-4f10-9eff-0788c149f4e6/jobs/57173697-ai-data-trainer-english-language#content",
+        "locations": [
+            "Remote"
+        ],
+        "active": true,
+        "company_name": "Cohere",
+        "title": "AI Data Trainer, English Language",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "6c6f9a0f-7f02-4eea-b531-ee78786a4d9b",
+        "date_posted": 1756123590,
+        "company_url": "",
+        "is_visible": true
     }
 ]
