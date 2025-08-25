@@ -3346,5 +3346,21 @@
         "date_posted": 1756122881,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756122921,
+        "url": "https://job-boards.greenhouse.io/bitgointernships/jobs/8133823002",
+        "locations": [
+            "Waterloo, ON"
+        ],
+        "active": true,
+        "company_name": "BitGo",
+        "title": "Winter 2026 Internship - Crypto as a Service & Staking",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "52be92a1-b83e-4c91-80eb-d3ac6402deb8",
+        "date_posted": 1756122921,
+        "company_url": "",
+        "is_visible": true
     }
 ]
