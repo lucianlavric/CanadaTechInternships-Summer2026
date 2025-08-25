@@ -3378,5 +3378,21 @@
         "date_posted": 1756122955,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756122983,
+        "url": "https://job-boards.greenhouse.io/bitgointernships/jobs/8133819002",
+        "locations": [
+            "Waterloo, ON"
+        ],
+        "active": true,
+        "company_name": "BitGo",
+        "title": "Winter 2026 Internship - Wallet Core",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "6559b925-6c4b-4da6-8dd3-a88a3d6877c7",
+        "date_posted": 1756122983,
+        "company_url": "",
+        "is_visible": true
     }
 ]
