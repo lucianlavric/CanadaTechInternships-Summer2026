@@ -3428,5 +3428,23 @@
         "date_posted": 1756141654,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756141690,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/96684624142312134-student-researcher-bsms-fall-2025",
+        "locations": [
+            "Waterloo, ON",
+            "Montreal, QC",
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Google",
+        "title": "Student Researcher, BS/MS, Fall 2025",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "8e594aed-fbe4-412c-b2c5-11e6df49c326",
+        "date_posted": 1756141690,
+        "company_url": "",
+        "is_visible": true
     }
 ]

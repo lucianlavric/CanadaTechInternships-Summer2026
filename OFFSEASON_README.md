@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Google | Student Researcher, BS/MS, Fall 2025 | Waterloo, ON</br>Montreal, QC</br>Toronto, ON | <a href="https://www.google.com/about/careers/applications/jobs/results/96684624142312134-student-researcher-bsms-fall-2025?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | Cohere | AI Data Trainer, English Language | Remote | <a href="https://www1.communitech.ca/companies/cohere-2-9ccb8fa7-ab53-4f10-9eff-0788c149f4e6/jobs/57173697-ai-data-trainer-english-language#content?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | BitGo | Winter 2026 Internship - Wallet Core | Waterloo, ON | <a href="https://job-boards.greenhouse.io/bitgointernships/jobs/8133819002?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | ↳ | Winter 2026 Internship - HSM Team | Waterloo, ON | <a href="https://job-boards.greenhouse.io/bitgointernships/jobs/8133783002?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
