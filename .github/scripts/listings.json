@@ -3362,5 +3362,21 @@
         "date_posted": 1756122921,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756122955,
+        "url": "https://job-boards.greenhouse.io/bitgointernships/jobs/8133783002",
+        "locations": [
+            "Waterloo, ON"
+        ],
+        "active": true,
+        "company_name": "BitGo",
+        "title": "Winter 2026 Internship - HSM Team",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "44493ffa-44bf-4162-9037-cd6407aa8cdd",
+        "date_posted": 1756122955,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -18,7 +18,8 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| BitGo | Winter 2026 Internship - Crypto as a Service & Staking | Waterloo, ON | <a href="https://job-boards.greenhouse.io/bitgointernships/jobs/8133823002?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
+| BitGo | Winter 2026 Internship - HSM Team | Waterloo, ON | <a href="https://job-boards.greenhouse.io/bitgointernships/jobs/8133783002?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
+| ↳ | Winter 2026 Internship - Crypto as a Service & Staking | Waterloo, ON | <a href="https://job-boards.greenhouse.io/bitgointernships/jobs/8133823002?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | ↳ | Software Engineer Intern - Access & Notifications (Winter 2026) | Waterloo, ON | <a href="https://job-boards.greenhouse.io/bitgointernships/jobs/8134206002?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | SAP | UX Researcher | Montreal, QC | <a href="https://jobs.sap.com/job/Montreal-SAP-iXp-Intern-UX-Researcher-Queb-H3B-0B3/1240019701?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 24 |
 | Macquarie | Commodities and Global Markets Summer Internship Program | Calgary, AB | <a href="https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=17176&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 24 |
