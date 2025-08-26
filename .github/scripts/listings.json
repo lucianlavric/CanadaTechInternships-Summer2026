@@ -3494,5 +3494,21 @@
         "date_posted": 1756208319,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756208375,
+        "url": "https://jobs.smartrecruiters.com/CPPInvestmentsInvestissementsRPC/744000077969785-technology-data-internship-program",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "CPP Investments",
+        "title": "Technology & Data Internship Program",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "cc211c1b-7c39-447d-8ade-20291f794a2d",
+        "date_posted": 1756208375,
+        "company_url": "",
+        "is_visible": true
     }
 ]
