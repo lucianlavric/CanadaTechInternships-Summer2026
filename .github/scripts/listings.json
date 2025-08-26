@@ -3478,5 +3478,21 @@
         "date_posted": 1756208268,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756208319,
+        "url": "https://jobs.dayforcehcm.com/en-CA/kardium/CANDIDATEPORTAL/jobs/2824",
+        "locations": [
+            "Burnaby, BC"
+        ],
+        "active": true,
+        "company_name": "Kardium",
+        "title": "Biomedical Algorithms Engineering Co-op (Hybrid) - January 2026",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "59c86a4b-19b3-4447-9c4e-44b04a19241b",
+        "date_posted": 1756208319,
+        "company_url": "",
+        "is_visible": true
     }
 ]
