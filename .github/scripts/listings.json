@@ -3446,5 +3446,21 @@
         "date_posted": 1756141690,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756208228,
+        "url": "https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Agile-Test-Developer-Vancouver-Brit-V6B-1A9/1240433601",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "SAP",
+        "title": "Agile Test Developer [Vancouver]",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "395833ef-8388-4d09-bba1-4f3b84dce48f",
+        "date_posted": 1756208228,
+        "company_url": "",
+        "is_visible": true
     }
 ]
