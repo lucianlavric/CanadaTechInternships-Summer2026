@@ -3510,5 +3510,21 @@
         "date_posted": 1756208375,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756208410,
+        "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Circuit-Software-Development-Engineer-Co-op_R028722",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Ciena",
+        "title": "Circuit/Software Development Engineer Co-op",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "5ec5f10a-8863-472c-b814-548f7c5030c7",
+        "date_posted": 1756208410,
+        "company_url": "",
+        "is_visible": true
     }
 ]
