@@ -3638,5 +3638,21 @@
         "date_posted": 1756272771,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756272905,
+        "url": "https://jobs.ashbyhq.com/netgear/fa20acc3-8362-41d0-8491-05878be04aa3",
+        "locations": [
+            "Richmond, BC"
+        ],
+        "active": true,
+        "company_name": "Netgear",
+        "title": "Orbi SW Test Engineer",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "f6f2e533-f010-43b5-bd5a-87c1b800e0e0",
+        "date_posted": 1756272905,
+        "company_url": "",
+        "is_visible": true
     }
 ]
