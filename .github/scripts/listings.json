@@ -3590,5 +3590,21 @@
         "date_posted": 1756272632,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756272680,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24069",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Optical Systems Intern",
+        "season": "Fall",
+        "source": "AliElrafih",
+        "id": "9f4604bd-5c3c-476b-b17f-1b357af380d5",
+        "date_posted": 1756272680,
+        "company_url": "",
+        "is_visible": true
     }
 ]
