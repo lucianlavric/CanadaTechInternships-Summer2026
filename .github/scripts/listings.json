@@ -3721,5 +3721,21 @@
         "date_posted": 1756274609,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756274655,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23739",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Data Science Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "fe9ba40d-1d1a-4d8f-80e2-de7e88c3ad4d",
+        "date_posted": 1756274655,
+        "company_url": "",
+        "is_visible": true
     }
 ]
