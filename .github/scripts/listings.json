@@ -3542,5 +3542,21 @@
         "date_posted": 1756272379,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756272477,
+        "url": "https://jobs.dayforcehcm.com/en-CA/kardium/CANDIDATEPORTAL/jobs/2885",
+        "locations": [
+            "Burnaby, BC"
+        ],
+        "active": true,
+        "company_name": "Kardium",
+        "title": "Research Engineer",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "5b58a6d5-d690-4d18-8bf8-849ac446c0fc",
+        "date_posted": 1756272477,
+        "company_url": "",
+        "is_visible": true
     }
 ]
