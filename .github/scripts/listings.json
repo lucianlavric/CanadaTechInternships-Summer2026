@@ -3737,5 +3737,22 @@
         "date_posted": 1756274655,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756274743,
+        "url": "https://careers.manulife.com/global/en/job/MFZMFIUSJR25081342EXTERNALENGLOBAL/Actuarial-Co-op-Program-2026",
+        "locations": [
+            "Toronto, ON",
+            "Waterloo, ON"
+        ],
+        "active": true,
+        "company_name": "Manulife",
+        "title": "Actuarial Co-op",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "7ce994a0-517d-4cfa-b20d-5e2d689536a3",
+        "date_posted": 1756274743,
+        "company_url": "",
+        "is_visible": true
     }
 ]

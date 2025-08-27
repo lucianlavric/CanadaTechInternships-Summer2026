@@ -26,6 +26,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Manulife | Actuarial Co-op | Toronto, ON</br>Waterloo, ON | <a href="https://careers.manulife.com/global/en/job/MFZMFIUSJR25081342EXTERNALENGLOBAL/Actuarial-Co-op-Program-2026?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 26 |
 | Intact | Actuarial Analyst | Montreal, QC</br>Quebec City, QC</br>St-Hyacinthe, QC | <a href="https://careers.intactfc.com/actuarial-analyst-co-op-internship-4-months-2026-summer-winter-fall/job/R148561?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 26 |
 | DropBox | Software Engineer Intern | Remote | <a href="https://jobs.dropbox.com/listing/7183245?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 26 |
 | Corpay | Software Developer | Vancouver, BC | <a href="https://corpay.wd103.myworkdayjobs.com/Ext_001/job/Vancouver---PayByPhone/Software-Developer--Co-op-_R06820?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 26 |
