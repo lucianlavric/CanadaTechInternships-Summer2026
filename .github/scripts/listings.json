@@ -3622,5 +3622,21 @@
         "date_posted": 1756272723,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756272771,
+        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54120",
+        "locations": [
+            "Markham, ON"
+        ],
+        "active": true,
+        "company_name": "IBM",
+        "title": "Software Developer Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "a9bfb2a1-ff16-40a3-816e-5730cca2dd7b",
+        "date_posted": 1756272771,
+        "company_url": "",
+        "is_visible": true
     }
 ]
