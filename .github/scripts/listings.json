@@ -3686,5 +3686,23 @@
         "date_posted": 1756273040,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756274535,
+        "url": "https://careers.intactfc.com/actuarial-analyst-co-op-internship-4-months-2026-summer-winter-fall/job/R148561",
+        "locations": [
+            "Montreal, QC",
+            "Quebec City, QC",
+            "St-Hyacinthe, QC"
+        ],
+        "active": true,
+        "company_name": "Intact",
+        "title": "Actuarial Analyst",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "614f5ebb-26ed-474b-85e4-7222e34bb24c",
+        "date_posted": 1756274535,
+        "company_url": "",
+        "is_visible": true
     }
 ]
