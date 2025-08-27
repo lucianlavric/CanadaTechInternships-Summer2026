@@ -3704,5 +3704,22 @@
         "date_posted": 1756274535,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756274609,
+        "url": "https://careers.intactfc.com/data-science-4-months-internship-coop-winter-2026/job/R148600",
+        "locations": [
+            "Montreal, QC",
+            "Quebec City, QC"
+        ],
+        "active": true,
+        "company_name": "Intact",
+        "title": "Data Science",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "03a7be28-d7c0-49f3-bc1d-4d4793c02139",
+        "date_posted": 1756274609,
+        "company_url": "",
+        "is_visible": true
     }
 ]
