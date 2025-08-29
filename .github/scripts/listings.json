@@ -3979,5 +3979,21 @@
         "date_posted": 1756444733,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756444760,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24091",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Support Software Developer Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "5a89da34-41d4-450a-9a69-33659d7d82bd",
+        "date_posted": 1756444760,
+        "company_url": "",
+        "is_visible": true
     }
 ]
