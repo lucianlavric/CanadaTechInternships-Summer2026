@@ -3995,5 +3995,21 @@
         "date_posted": 1756444760,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756444793,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24080",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Incubation Developer Student",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "ce52b713-4dfe-4d4a-bcab-a215a4073949",
+        "date_posted": 1756444793,
+        "company_url": "",
+        "is_visible": true
     }
 ]
