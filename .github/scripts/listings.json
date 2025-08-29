@@ -3802,5 +3802,21 @@
         "date_posted": 1756443997,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756444029,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24012",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Web Portal Dev Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "1347273d-4a96-46d8-bccf-b36aed38961f",
+        "date_posted": 1756444029,
+        "company_url": "",
+        "is_visible": true
     }
 ]
