@@ -3898,5 +3898,21 @@
         "date_posted": 1756444407,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756444452,
+        "url": "https://munichre-jobs.com/en/MunichRe/job/130301-engineering-co-op-na-integrated-analytics-2026-summer-toronto",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Munich Re, Canada(Life)",
+        "title": "Engineering Co-op, NA Integrated Analytics",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "76775f94-f50c-4175-a8e1-a79dfdc525eb",
+        "date_posted": 1756444452,
+        "company_url": "",
+        "is_visible": true
     }
 ]

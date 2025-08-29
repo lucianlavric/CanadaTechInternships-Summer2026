@@ -26,6 +26,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Munich Re, Canada(Life) | Engineering Co-op, NA Integrated Analytics | Toronto, ON | <a href="https://munichre-jobs.com/en/MunichRe/job/130301-engineering-co-op-na-integrated-analytics-2026-summer-toronto?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
 | Manulife | Actuarial Co-op | Toronto, ON</br>Waterloo, ON | <a href="https://careers.manulife.com/global/en/job/MFZMFIUSJR25081342EXTERNALENGLOBAL/Actuarial-Co-op-Program-2026?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 26 |
 | Intact | Actuarial Analyst | Montreal, QC</br>Quebec City, QC</br>St-Hyacinthe, QC | <a href="https://careers.intactfc.com/actuarial-analyst-co-op-internship-4-months-2026-summer-winter-fall/job/R148561?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 26 |
 | DropBox | Software Engineer Intern | Remote | <a href="https://jobs.dropbox.com/listing/7183245?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 26 |
