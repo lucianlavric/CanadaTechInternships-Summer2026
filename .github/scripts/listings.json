@@ -3866,5 +3866,21 @@
         "date_posted": 1756444285,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756444310,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24004",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Test Automation Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "a10a8297-5f4b-4b9e-b4b3-259978a93569",
+        "date_posted": 1756444310,
+        "company_url": "",
+        "is_visible": true
     }
 ]
