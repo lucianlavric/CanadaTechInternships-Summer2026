@@ -3947,5 +3947,21 @@
         "date_posted": 1756444574,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756444631,
+        "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Software-Engineer-and-Tools-Developer-Intern--Winter-2026-_R028751",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Ciena",
+        "title": "Software Engineer and Tools Developer Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "6b5196ca-2af2-4994-aea8-66be42305725",
+        "date_posted": 1756444631,
+        "company_url": "",
+        "is_visible": true
     }
 ]
