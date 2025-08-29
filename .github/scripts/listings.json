@@ -3770,5 +3770,21 @@
         "date_posted": 1756443893,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756443962,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24008",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Nokia",
+        "title": "IT Network Development",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "3f2fd946-3ffa-40cf-825d-45c94d16dc6c",
+        "date_posted": 1756443962,
+        "company_url": "",
+        "is_visible": true
     }
 ]
