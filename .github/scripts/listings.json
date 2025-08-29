@@ -4043,5 +4043,21 @@
         "date_posted": 1756444863,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756444888,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24211",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Software Test Infra Student",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "e868ea6c-7426-406a-bce2-90fe4859425d",
+        "date_posted": 1756444888,
+        "company_url": "",
+        "is_visible": true
     }
 ]
