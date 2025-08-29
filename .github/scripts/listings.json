@@ -3930,5 +3930,22 @@
         "date_posted": 1756444532,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756444574,
+        "url": "https://jobs.lever.co/geocomply-2/f1966597-b6cd-4742-a5d1-6b58d3de25f4",
+        "locations": [
+            "Vancouver, BC",
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "GeoComply",
+        "title": "ML Data Scientist Intern",
+        "season": "Fall",
+        "source": "AliElrafih",
+        "id": "0006394b-7bc6-4d6e-8b16-8e64aab0a5c4",
+        "date_posted": 1756444574,
+        "company_url": "",
+        "is_visible": true
     }
 ]
