@@ -3850,5 +3850,21 @@
         "date_posted": 1756444254,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756444285,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24039",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Nokia",
+        "title": "System Reliability Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "e1754fa1-8325-4918-bc25-4bac35ff7bc8",
+        "date_posted": 1756444285,
+        "company_url": "",
+        "is_visible": true
     }
 ]
