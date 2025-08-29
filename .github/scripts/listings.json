@@ -3786,5 +3786,21 @@
         "date_posted": 1756443962,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756443997,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24014",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Web Developer",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "c0d47bbc-afff-455c-bbf7-2f9523298ca0",
+        "date_posted": 1756443997,
+        "company_url": "",
+        "is_visible": true
     }
 ]
