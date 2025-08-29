@@ -3882,5 +3882,21 @@
         "date_posted": 1756444310,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756444407,
+        "url": "https://careers.synopsys.com/job/-/-/44408/85465582240",
+        "locations": [
+            "Markham, ON"
+        ],
+        "active": true,
+        "company_name": "Synopsys",
+        "title": "Software Engineering Intern",
+        "season": "Fall",
+        "source": "AliElrafih",
+        "id": "ca495cd2-0bf2-4a46-8ab9-27984feb0b64",
+        "date_posted": 1756444407,
+        "company_url": "",
+        "is_visible": true
     }
 ]
