@@ -3914,5 +3914,21 @@
         "date_posted": 1756444452,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756444532,
+        "url": "https://careers.l3harris.com/en/job/-/-/4832/85458739168",
+        "locations": [
+            "Waterdown, ON"
+        ],
+        "active": true,
+        "company_name": "L3 Harris",
+        "title": "Embedded Software Developer",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "0a3bb4c3-a171-4b09-bbbe-eccbbeee868c",
+        "date_posted": 1756444532,
+        "company_url": "",
+        "is_visible": true
     }
 ]
