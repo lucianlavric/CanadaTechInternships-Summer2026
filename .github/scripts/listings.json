@@ -4027,5 +4027,21 @@
         "date_posted": 1756444834,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756444863,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24071",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Nokia",
+        "title": "DevOps Engineer Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "89f91906-32b8-4028-abce-d40ce4046b98",
+        "date_posted": 1756444863,
+        "company_url": "",
+        "is_visible": true
     }
 ]
