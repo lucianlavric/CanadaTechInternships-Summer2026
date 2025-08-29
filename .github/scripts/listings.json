@@ -3754,5 +3754,21 @@
         "date_posted": 1756274743,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756443893,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24018",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Software Test Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "de83ea4d-1310-4b09-b59f-5d81392566b5",
+        "date_posted": 1756443893,
+        "company_url": "",
+        "is_visible": true
     }
 ]
