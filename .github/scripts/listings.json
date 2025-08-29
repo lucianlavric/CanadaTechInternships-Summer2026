@@ -4011,5 +4011,21 @@
         "date_posted": 1756444793,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756444834,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24013",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Full Stack Dev Cloud and ML Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "d6c2ad51-3d22-4ec0-b25f-53e01c043ff1",
+        "date_posted": 1756444834,
+        "company_url": "",
+        "is_visible": true
     }
 ]
