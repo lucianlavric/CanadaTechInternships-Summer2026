@@ -4155,5 +4155,21 @@
         "date_posted": 1756665714,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756665742,
+        "url": "https://jobs.smartrecruiters.com/GDMSI/744000079048867-co-op-winter-2026-firmware-development-and-test-12-months",
+        "locations": [
+            "Calgary, AB"
+        ],
+        "active": true,
+        "company_name": "General Dynamics",
+        "title": "Co-op Winter 2026 - Firmware Development and Test - 12-Months",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "457df304-d079-4e17-8410-b1e4d12ad21c",
+        "date_posted": 1756665742,
+        "company_url": "",
+        "is_visible": true
     }
 ]
