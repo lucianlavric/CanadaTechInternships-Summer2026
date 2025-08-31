@@ -4075,5 +4075,21 @@
         "date_posted": 1756444952,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756665531,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1863202/Software-Engineer---Winter-Internship-Opportunities---The-Coalition",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer - Winter Internship Opportunities - The Coalition",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "e3922b26-175f-4f33-982f-d2f882111a3b",
+        "date_posted": 1756665531,
+        "company_url": "",
+        "is_visible": true
     }
 ]
