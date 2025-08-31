@@ -4091,5 +4091,21 @@
         "date_posted": 1756665531,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756665564,
+        "url": "https://jobs.lever.co/geocomply-2/0e5f97b7-e32f-469d-90a8-231a9e0d036f",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "GeoComply",
+        "title": "Data Science Intern- Fall 2025",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "27b7b3f0-c7c0-4ddd-90c9-574678611c77",
+        "date_posted": 1756665564,
+        "company_url": "",
+        "is_visible": true
     }
 ]
