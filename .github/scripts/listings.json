@@ -4203,5 +4203,21 @@
         "date_posted": 1756665797,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756665822,
+        "url": "https://jobs.smartrecruiters.com/GDMSI/744000079048419-co-op-winter-2026-software-development-and-test-12-months",
+        "locations": [
+            "Calgary, AB"
+        ],
+        "active": true,
+        "company_name": "General Dynamics",
+        "title": "Co-op Winter 2026 - Software Development and Test - 12-Months",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "99439b0f-8baf-409a-9a50-331b1bba3949",
+        "date_posted": 1756665822,
+        "company_url": "",
+        "is_visible": true
     }
 ]
