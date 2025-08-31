@@ -4219,5 +4219,21 @@
         "date_posted": 1756665822,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756665848,
+        "url": "https://jobs.smartrecruiters.com/GDMSI/744000079051474-co-op-winter-2026-software-developer-8-months",
+        "locations": [
+            "Napean, ON"
+        ],
+        "active": true,
+        "company_name": "General Dynamics",
+        "title": "Co-op Winter 2026 - Software Developer - 8-Months",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "737fb316-3755-4043-affb-fdf2fb710e3b",
+        "date_posted": 1756665848,
+        "company_url": "",
+        "is_visible": true
     }
 ]
