@@ -4235,5 +4235,21 @@
         "date_posted": 1756665848,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756665877,
+        "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Montreal-Area/Stagiaire-en-cyberscurit---Cyber-security-Intern_JR10352168",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "Airbus",
+        "title": "Stagiaire en cybers\u00e9curit\u00e9 / Cyber-security Intern",
+        "season": "Spring",
+        "source": "lucianlavric",
+        "id": "f3859894-9b2e-4bda-abab-6588465407b1",
+        "date_posted": 1756665877,
+        "company_url": "",
+        "is_visible": true
     }
 ]
