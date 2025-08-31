@@ -4171,5 +4171,21 @@
         "date_posted": 1756665742,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756665771,
+        "url": "https://jobs.smartrecruiters.com/GDMSI/744000079008794-co-op-winter-2026-devops-engineering-8-16-months",
+        "locations": [
+            "Calgary, AB"
+        ],
+        "active": true,
+        "company_name": "General Dynamics",
+        "title": "Co-op Winter 2026 - DevOps Engineering - 8-16 Months",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "c4b0c114-3ae4-4308-976f-bf855e5cbcfc",
+        "date_posted": 1756665771,
+        "company_url": "",
+        "is_visible": true
     }
 ]
