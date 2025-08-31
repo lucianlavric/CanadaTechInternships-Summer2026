@@ -4107,5 +4107,21 @@
         "date_posted": 1756665564,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756665596,
+        "url": "https://desjardins-workplace.relevance.studio/en/job-detail/1-87a658c546e3100431af94c082840000-data-internship-winter-2026-montreal-levis",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "Desjardins",
+        "title": "Data internship, Winter 2026",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "31940c54-7ea8-47f3-85de-4d0e31295002",
+        "date_posted": 1756665596,
+        "company_url": "",
+        "is_visible": true
     }
 ]
