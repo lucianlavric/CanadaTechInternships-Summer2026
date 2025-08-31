@@ -4139,5 +4139,21 @@
         "date_posted": 1756665696,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756665714,
+        "url": "https://jobs.smartrecruiters.com/GDMSI/744000079033405-co-op-winter-2026-embedded-software-test-4-months",
+        "locations": [
+            "Napean, ON"
+        ],
+        "active": true,
+        "company_name": "General Dynamics",
+        "title": "Co-op Winter 2026 - Embedded Software Test - 4-Months",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "a8dbe614-e90d-4bf3-b999-8022f5040eb8",
+        "date_posted": 1756665714,
+        "company_url": "",
+        "is_visible": true
     }
 ]
