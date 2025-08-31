@@ -4187,5 +4187,21 @@
         "date_posted": 1756665771,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756665797,
+        "url": "https://jobs.smartrecruiters.com/GDMSI/744000079049756-co-op-winter-2026-systems-integration-engineer-caji-8-months",
+        "locations": [
+            "Napean, ON"
+        ],
+        "active": true,
+        "company_name": "General Dynamics",
+        "title": "Co-op Winter 2026 - Systems Integration Engineer, CaJI - 8 months",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "0ff93581-2a4e-43d1-a1ac-02f45f21ac60",
+        "date_posted": 1756665797,
+        "company_url": "",
+        "is_visible": true
     }
 ]
