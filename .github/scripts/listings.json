@@ -4283,5 +4283,21 @@
         "date_posted": 1756665937,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756665984,
+        "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?client=pedjc&ccId=19000101_000001&cid=fece8f4b-0227-4caf-9cd1-0b464217347b&lang=en_CA&jobId=590464",
+        "locations": [
+            "North York, ON"
+        ],
+        "active": true,
+        "company_name": "Lifemark",
+        "title": "JAPD-Junior Application Developer Intern",
+        "season": "Fall",
+        "source": "lucianlavric",
+        "id": "db3d35ad-f92f-4ac0-8d0e-b907ccc130db",
+        "date_posted": 1756665984,
+        "company_url": "",
+        "is_visible": true
     }
 ]
