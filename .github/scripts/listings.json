@@ -4267,5 +4267,21 @@
         "date_posted": 1756665913,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756665937,
+        "url": "https://job-boards.greenhouse.io/geotab/jobs/4808764008",
+        "locations": [
+            "Oakville, ON"
+        ],
+        "active": true,
+        "company_name": "Geotab",
+        "title": "Embedded Developer Intern, Kinematics (Winter/January 2026, 8-12 Months)",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "55c6bff8-63cc-4411-8768-21159b3f7099",
+        "date_posted": 1756665937,
+        "company_url": "",
+        "is_visible": true
     }
 ]
