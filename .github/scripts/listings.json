@@ -4123,5 +4123,21 @@
         "date_posted": 1756665596,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756665696,
+        "url": "https://jobs.smartrecruiters.com/GDMSI/744000079030765-co-op-winter-2026-system-integration-v-v-8-12-months",
+        "locations": [
+            "Napean, ON"
+        ],
+        "active": true,
+        "company_name": "General Dynamics",
+        "title": "Co-op Winter 2026 - System Integration V&V - 8-12 Months",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "5c05cfa4-d31b-49c1-b7bd-70d2320a939d",
+        "date_posted": 1756665696,
+        "company_url": "",
+        "is_visible": true
     }
 ]
