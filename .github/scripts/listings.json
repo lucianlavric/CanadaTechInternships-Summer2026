@@ -4331,5 +4331,21 @@
         "date_posted": 1756810862,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756810895,
+        "url": "https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-DevSecOps-Co-op-Intern_20251384-1",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Lumentum",
+        "title": "Embedded Software DevSecOps Co-op/Intern",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "5694a24b-9a24-4ed6-af55-43a6a59649da",
+        "date_posted": 1756810895,
+        "company_url": "",
+        "is_visible": true
     }
 ]
