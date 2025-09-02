@@ -4411,5 +4411,21 @@
         "date_posted": 1756811018,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756811049,
+        "url": "https://tcenergy.wd3.myworkdayjobs.com/en-US/CAREER_SITE_TC/job/Calgary-Alberta/Engineering-Interns--All-Disciplines----Calgary--May-2026-_JR-08892",
+        "locations": [
+            "Calgary, AB"
+        ],
+        "active": true,
+        "company_name": "TC Energy",
+        "title": "Engineering Interns (All Disciplines) - Calgary (May 2026)",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "741e9dbc-9f67-4839-93b7-5383ef7d49a5",
+        "date_posted": 1756811049,
+        "company_url": "",
+        "is_visible": true
     }
 ]
