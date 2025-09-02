@@ -4539,5 +4539,21 @@
         "date_posted": 1756811417,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756811450,
+        "url": "https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/Canada---Ottawa-Bill-Leathem/Project-Manager-Analyst---Co-op-Intern_20251404-1",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Lumentum",
+        "title": "Project Manager Analyst \u2013 Co-op/Intern",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "725d6bdd-2191-459d-9148-08be18db3bbf",
+        "date_posted": 1756811450,
+        "company_url": "",
+        "is_visible": true
     }
 ]
