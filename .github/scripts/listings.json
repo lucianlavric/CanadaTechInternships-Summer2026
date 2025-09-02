@@ -4427,5 +4427,21 @@
         "date_posted": 1756811049,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756811075,
+        "url": "https://tcenergy.wd3.myworkdayjobs.com/en-US/CAREER_SITE_TC/job/Calgary-Alberta/Computer-Science-Interns---Calgary--May-2026-_JR-08889",
+        "locations": [
+            "Calgary, AB"
+        ],
+        "active": true,
+        "company_name": "TC Energy",
+        "title": "Computer Science Interns - Calgary (May 2026)",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "1cdca107-ef7c-4b98-9bd5-cb5d6a74a051",
+        "date_posted": 1756811075,
+        "company_url": "",
+        "is_visible": true
     }
 ]
