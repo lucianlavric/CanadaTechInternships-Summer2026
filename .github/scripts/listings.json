@@ -4395,5 +4395,21 @@
         "date_posted": 1756810993,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756811018,
+        "url": "https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Engineer-Co-op-Intern-Student_20251045",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Lumentum",
+        "title": "Optical Engineer Co-op/Intern Student",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "1f18ed04-d0ff-4792-99d5-c2c15480cd2f",
+        "date_posted": 1756811018,
+        "company_url": "",
+        "is_visible": true
     }
 ]
