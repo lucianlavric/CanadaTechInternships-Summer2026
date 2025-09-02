@@ -4379,5 +4379,21 @@
         "date_posted": 1756810961,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756810993,
+        "url": "https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Design-and-Innovation-Co-op-Intern_20251312",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Lumentum",
+        "title": "Optical Design and Innovation Co-op/Intern",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "f1d9c7e7-68a9-4af9-b6c4-6676c20fe0ba",
+        "date_posted": 1756810993,
+        "company_url": "",
+        "is_visible": true
     }
 ]
