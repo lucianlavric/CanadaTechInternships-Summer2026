@@ -4459,5 +4459,21 @@
         "date_posted": 1756811105,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756811170,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24330",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Autonomous Net Fabric Co-op/Intern",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "d4d4170d-1e05-4c55-a571-fe2fabc9bd01",
+        "date_posted": 1756811170,
+        "company_url": "",
+        "is_visible": true
     }
 ]
