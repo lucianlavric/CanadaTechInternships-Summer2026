@@ -4299,5 +4299,21 @@
         "date_posted": 1756665984,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756810774,
+        "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Process-Software-Automation-Co-op-Intern_20251390",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Lumentum",
+        "title": "Process Software Automation Co-op/Intern",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "3c6db47a-1772-4143-948b-4102b8df452e",
+        "date_posted": 1756810774,
+        "company_url": "",
+        "is_visible": true
     }
 ]
