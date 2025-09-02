@@ -4363,5 +4363,21 @@
         "date_posted": 1756810937,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756810961,
+        "url": "https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Alignment-Automation-and-Analysis-Engineer-Co-op-Intern_20251418",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Lumentum",
+        "title": "Optical Alignment Automation and Analysis Engineer Co-op/Intern",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "24968df5-7517-4f11-a140-d566e70e4674",
+        "date_posted": 1756810961,
+        "company_url": "",
+        "is_visible": true
     }
 ]
