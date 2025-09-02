@@ -4523,5 +4523,21 @@
         "date_posted": 1756811380,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756811417,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24118",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Analytics/Next-Gen AI Co-op/Intern",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "2e87a346-8b97-4e18-a3dc-e408d91c1ad8",
+        "date_posted": 1756811417,
+        "company_url": "",
+        "is_visible": true
     }
 ]
