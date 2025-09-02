@@ -4491,5 +4491,21 @@
         "date_posted": 1756811259,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756811349,
+        "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/Toronto-Ontario-Canada/FPGA-Design-Intern_R00894-1",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Altera",
+        "title": "FPGA Design Intern",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "667b6c35-5dc0-4e25-8447-174249458e61",
+        "date_posted": 1756811349,
+        "company_url": "",
+        "is_visible": true
     }
 ]
