@@ -4475,5 +4475,21 @@
         "date_posted": 1756811170,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756811259,
+        "url": "https://join.cnh.com/job/Calgary-Geomatics-Engineer-Intern-AB/1169272555/",
+        "locations": [
+            "Calgary, AB"
+        ],
+        "active": true,
+        "company_name": "CNH",
+        "title": "Geomatics Engineer Intern",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "8c6357d9-e841-43ef-87c1-856353ebcf69",
+        "date_posted": 1756811259,
+        "company_url": "",
+        "is_visible": true
     }
 ]
