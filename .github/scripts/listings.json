@@ -4971,5 +4971,21 @@
         "date_posted": 1756873264,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756873305,
+        "url": "https://jobs.scotiabank.com/job/Toronto-Canadian-Banking-Technology-&-Analysis-InternshipCo-op-Winter-2026-ON/595356017",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Scotiabank",
+        "title": "Canadian Banking - Technology & Analysis Internship/Co-op - Winter 2026",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "0804e55d-3265-4ff9-a852-7fdbe661bf44",
+        "date_posted": 1756873305,
+        "company_url": "",
+        "is_visible": true
     }
 ]
