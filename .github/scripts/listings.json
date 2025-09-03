@@ -5340,5 +5340,21 @@
         "date_posted": 1756874047,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756874091,
+        "url": "https://cgi.njoyn.com/corp/xweb/xweb.asp?clid=21001&page=jobdetails&jobid=J0825-1666&BRID=1232846&SBDID=943&lang=1",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "CGI",
+        "title": "Business Analyst",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "94b00005-b45f-47b5-815c-b107bca05239",
+        "date_posted": 1756874091,
+        "company_url": "",
+        "is_visible": true
     }
 ]
