@@ -4987,5 +4987,21 @@
         "date_posted": 1756873305,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756873334,
+        "url": "https://jobs.scotiabank.com/Tangerine/job/Toronto-Velocity-Tangerine-TechnologyDPX-InternshipCo-op-Winter-2026-ON/595317317",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Tangerine",
+        "title": "Velocity - Tangerine Technology/DPX Internship/Co-op - Winter 2026",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "781fad78-7d4a-4abc-9ada-5a9934e3e4c6",
+        "date_posted": 1756873334,
+        "company_url": "",
+        "is_visible": true
     }
 ]
