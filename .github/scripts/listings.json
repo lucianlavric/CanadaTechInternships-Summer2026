@@ -5211,5 +5211,21 @@
         "date_posted": 1756873783,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756873809,
+        "url": "https://bgcengineering.bamboohr.com/careers/434",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "BGC",
+        "title": "Software Developer Co-op",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "02c79581-f55c-4d92-936c-3e12c2697ed7",
+        "date_posted": 1756873809,
+        "company_url": "",
+        "is_visible": true
     }
 ]
