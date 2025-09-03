@@ -5372,5 +5372,21 @@
         "date_posted": 1756874122,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756874149,
+        "url": "https://jobs.rbc.com/ca/en/job/RBCAA0088R0000137649EXTERNALENCA/2026-Winter-CAO-Analytics-Engineer-Intern-4-Months",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "RBC",
+        "title": "2026 Winter - CAO, Analytics Engineer Intern (4 Months)",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "8e2da816-e87c-44ac-9829-1cb3a8066e95",
+        "date_posted": 1756874149,
+        "company_url": "",
+        "is_visible": true
     }
 ]
