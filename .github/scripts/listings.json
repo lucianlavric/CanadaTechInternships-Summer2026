@@ -4843,5 +4843,21 @@
         "date_posted": 1756873066,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756873088,
+        "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Toronto/May-2026---Cloud--Data-and-AI---Summer-Intern---Toronto_646764WD",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "PWC",
+        "title": "May 2026 - Cloud, Data and AI - Summer Intern - Toronto",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "8a5a9a18-b6d9-4b32-8b74-757469663066",
+        "date_posted": 1756873088,
+        "company_url": "",
+        "is_visible": true
     }
 ]
