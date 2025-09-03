@@ -5324,5 +5324,21 @@
         "date_posted": 1756874024,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756874047,
+        "url": "https://jobs.scotiabank.com/job/Toronto-Wealth-Management-Data-Analytics-InternshipCo-op-Winter-2026-ON/595292117",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Scotiabank",
+        "title": "Wealth Management - Data Analytics Internship/Co-op - Winter 2026",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "2592896a-e264-47fa-8df6-887c45dc1854",
+        "date_posted": 1756874047,
+        "company_url": "",
+        "is_visible": true
     }
 ]
