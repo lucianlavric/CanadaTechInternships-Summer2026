@@ -5308,5 +5308,21 @@
         "date_posted": 1756873991,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756874024,
+        "url": "https://jobs.scotiabank.com/job/Toronto-GBM-Data-and-Operational-Initiatives-InternshipCo-op-Winter-2026-ON/595358717",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Scotiabank",
+        "title": "GBM - Data and Operational Initiatives Internship/Co-op - Winter 2026",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "ed756b23-ebe8-415e-8370-f168f36ee154",
+        "date_posted": 1756874024,
+        "company_url": "",
+        "is_visible": true
     }
 ]
