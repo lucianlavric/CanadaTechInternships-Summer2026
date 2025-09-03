@@ -5019,5 +5019,21 @@
         "date_posted": 1756873365,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756873396,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24206",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Software Designer Co-op/Intern",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "1431aaee-eb12-4ddc-9a0e-2553063f0502",
+        "date_posted": 1756873396,
+        "company_url": "",
+        "is_visible": true
     }
 ]
