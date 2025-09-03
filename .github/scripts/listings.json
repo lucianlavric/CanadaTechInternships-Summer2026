@@ -4859,5 +4859,21 @@
         "date_posted": 1756873088,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756873112,
+        "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Calgary/May-2026---Cloud--Data---AI---Summer-Intern---Calgary_659550WD",
+        "locations": [
+            "Calgary, AB"
+        ],
+        "active": true,
+        "company_name": "PWC",
+        "title": "May 2026 - Cloud, Data & AI - Summer Intern - Calgary",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "7a813ea6-fd3b-463e-a66d-58551dd1f0da",
+        "date_posted": 1756873112,
+        "company_url": "",
+        "is_visible": true
     }
 ]
