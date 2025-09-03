@@ -5099,5 +5099,21 @@
         "date_posted": 1756873529,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756873575,
+        "url": "https://huaweicanada.recruitee.com/o/co-op-engineer-compiler-4",
+        "locations": [
+            "Markham, ON"
+        ],
+        "active": true,
+        "company_name": "Huawei",
+        "title": "Co-op Engineer - Compiler",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "9fd5cf7d-e771-49fd-9170-84f798542460",
+        "date_posted": 1756873575,
+        "company_url": "",
+        "is_visible": true
     }
 ]
