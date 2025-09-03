@@ -5115,5 +5115,21 @@
         "date_posted": 1756873575,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756873601,
+        "url": "https://huaweicanada.recruitee.com/o/coop-software-engineer-c",
+        "locations": [
+            "Markham, ON"
+        ],
+        "active": true,
+        "company_name": "Huawei",
+        "title": "Co-op Software Engineer - Deep Learning Compiler Development",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "92bcabcd-59ba-494b-b3ad-39e7c19ee79e",
+        "date_posted": 1756873601,
+        "company_url": "",
+        "is_visible": true
     }
 ]
