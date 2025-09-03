@@ -4603,5 +4603,21 @@
         "date_posted": 1756872513,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756872546,
+        "url": "https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4597539006",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "Visier",
+        "title": "Software Developer Co-op (Jan - Aug 2026)",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "5674927a-31e8-4fa6-96c8-1cfa98c89de3",
+        "date_posted": 1756872546,
+        "company_url": "",
+        "is_visible": true
     }
 ]
