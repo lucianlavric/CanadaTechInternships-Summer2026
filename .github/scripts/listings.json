@@ -4619,5 +4619,21 @@
         "date_posted": 1756872546,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756872614,
+        "url": "https://careers.qualcomm.com/careers/job/446714394725",
+        "locations": [
+            "Markham, ON"
+        ],
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "FY26 Intern - Compute DSP/AI Processor Engineering Internship - Canada (16 months)",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "4299216c-2fbd-40b4-b32d-9f2b92854f63",
+        "date_posted": 1756872614,
+        "company_url": "",
+        "is_visible": true
     }
 ]
