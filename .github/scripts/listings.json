@@ -5227,5 +5227,21 @@
         "date_posted": 1756873809,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756873840,
+        "url": "https://www.d2l.com/careers/jobs/test-developer-winter-2026-co-op-kitchener-office/7206258/",
+        "locations": [
+            "Kitchener, ON"
+        ],
+        "active": true,
+        "company_name": "D2L",
+        "title": "Test Developer- Winter 2026 Co-op (Kitchener Office)",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "1320e5a6-378d-4fb0-a971-333c1c5344f5",
+        "date_posted": 1756873840,
+        "company_url": "",
+        "is_visible": true
     }
 ]
