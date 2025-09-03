@@ -5179,5 +5179,21 @@
         "date_posted": 1756873709,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756873755,
+        "url": "https://jobs.jobvite.com/windriver/job/ozGhxfwN?__jvst=Job%20Board",
+        "locations": [
+            "Kanata, ON"
+        ],
+        "active": true,
+        "company_name": "Windriver",
+        "title": "Engineering Intern",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "f2dcf3c3-95c1-4dc1-a3ee-f3aa04f915c9",
+        "date_posted": 1756873755,
+        "company_url": "",
+        "is_visible": true
     }
 ]
