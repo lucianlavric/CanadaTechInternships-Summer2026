@@ -4571,5 +4571,21 @@
         "date_posted": 1756872454,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756872490,
+        "url": "https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4597551006",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "Visier",
+        "title": "Data Model Designer Co-op (Jan - Aug 2026)",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "1183c787-e4d8-4370-beed-efaef6f99411",
+        "date_posted": 1756872490,
+        "company_url": "",
+        "is_visible": true
     }
 ]
