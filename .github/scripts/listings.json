@@ -5356,5 +5356,21 @@
         "date_posted": 1756874091,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756874122,
+        "url": "https://cgi.njoyn.com/corp/xweb/xweb.asp?clid=21001&page=jobdetails&jobid=J0825-1661&BRID=1232855&SBDID=943&lang=1",
+        "locations": [
+            "Markham, ON"
+        ],
+        "active": true,
+        "company_name": "CGI",
+        "title": "SDE Intern",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "00a34386-320e-4ea8-8316-c766461f0d6b",
+        "date_posted": 1756874122,
+        "company_url": "",
+        "is_visible": true
     }
 ]
