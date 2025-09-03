@@ -4795,5 +4795,21 @@
         "date_posted": 1756872928,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756872994,
+        "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Montreal/May-2026---Cyber-and-Privacy---Summer-Internship---Montreal_646852WD",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "PWC",
+        "title": "May 2026 - Cyber and Privacy - Summer Internship - Montreal",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "96a034e2-007c-47ad-ad82-add396abc11d",
+        "date_posted": 1756872994,
+        "company_url": "",
+        "is_visible": true
     }
 ]
