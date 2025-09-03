@@ -5421,5 +5421,21 @@
         "date_posted": 1756874243,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756874267,
+        "url": "https://jobs.scotiabank.com/job/Toronto-Equity-Research-Winter-2026-InternCo-op-ON/595256317",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Scotiabank",
+        "title": "Equity Research Winter 2026- Intern/Co-op",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "996c13f4-bf8f-4f2a-b612-d3e957ff670d",
+        "date_posted": 1756874267,
+        "company_url": "",
+        "is_visible": true
     }
 ]
