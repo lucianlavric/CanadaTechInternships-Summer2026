@@ -5404,5 +5404,22 @@
         "date_posted": 1756874192,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756874243,
+        "url": "https://www.d2l.com/careers/jobs/user-experience-researcher-winter-2026-co-op/7205897",
+        "locations": [
+            "Kitchener, ON",
+            "Winnipeg, MB"
+        ],
+        "active": true,
+        "company_name": "D2L",
+        "title": "User Experience Researcher - Winter 2026 Co-op",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "874e153b-9758-420e-b62d-fb52a83f7a2d",
+        "date_posted": 1756874243,
+        "company_url": "",
+        "is_visible": true
     }
 ]
