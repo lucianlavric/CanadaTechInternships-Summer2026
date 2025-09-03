@@ -4923,5 +4923,21 @@
         "date_posted": 1756873193,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756873215,
+        "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Montreal/May-2026---CaaS---Summer-Intern---Montreal_659781WD",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "PWC",
+        "title": "May 2026 - CaaS - Summer Intern - Montreal",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "c87d2b0f-9391-4005-8cff-8ae8810da9d2",
+        "date_posted": 1756873215,
+        "company_url": "",
+        "is_visible": true
     }
 ]
