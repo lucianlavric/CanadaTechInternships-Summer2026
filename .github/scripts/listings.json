@@ -5131,5 +5131,21 @@
         "date_posted": 1756873601,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756873647,
+        "url": "https://www.pgcareers.com/global/en/job/R000137826/DIGITAL-TECHNOLOGIES-INTERNSHIP-CO-OP-JAN-OR-MAY-2026-START---COOP-EN-TECHNOLOGIES-NUM%C3%89RIQUES-DATES-DE-D%C3%89BUT-EN-JANVIER-OU-MAI-2026",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "P&G",
+        "title": "DIGITAL TECHNOLOGIES INTERNSHIP/CO-OP (JAN OR MAY 2026 START) / COOP EN TECHNOLOGIES NUM\u00c9RIQUES (DATES DE D\u00c9BUT EN JANVIER OU MAI 2026)",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "ccd96445-4b75-4c74-9da8-47889c0820db",
+        "date_posted": 1756873647,
+        "company_url": "",
+        "is_visible": true
     }
 ]
