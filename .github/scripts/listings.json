@@ -4635,5 +4635,21 @@
         "date_posted": 1756872614,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756872638,
+        "url": "https://careers.qualcomm.com/careers/job/446714396772",
+        "locations": [
+            "Markham, ON"
+        ],
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "FY26 Intern - AI Processor Solutions Machine learning Intern - Canada (16 months)",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "9f165879-b701-4b69-b47a-d04263ed720e",
+        "date_posted": 1756872638,
+        "company_url": "",
+        "is_visible": true
     }
 ]
