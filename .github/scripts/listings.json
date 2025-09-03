@@ -5292,5 +5292,21 @@
         "date_posted": 1756873959,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756873991,
+        "url": "https://jobs.scotiabank.com/job/Toronto-Velocity-Data-Analyst-InternshipCo-Op-Winter-2026-ON/595318217",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Scotiabank",
+        "title": "Velocity - Data Analyst Internship/Co-Op - Winter 2026",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "dd12ce64-c5b8-4596-92c6-76ccd316ac98",
+        "date_posted": 1756873991,
+        "company_url": "",
+        "is_visible": true
     }
 ]
