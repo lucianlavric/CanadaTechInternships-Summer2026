@@ -5067,5 +5067,21 @@
         "date_posted": 1756873451,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756873490,
+        "url": "https://careers.pcl.com/job/Edmonton-AI-Developer-Student-AB/1322245400",
+        "locations": [
+            "Edmonton, AB"
+        ],
+        "active": true,
+        "company_name": "PCL",
+        "title": "AI Developer Student",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "a72309bb-4922-4872-9ac4-c8f16b9aab00",
+        "date_posted": 1756873490,
+        "company_url": "",
+        "is_visible": true
     }
 ]
