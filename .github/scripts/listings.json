@@ -4875,5 +4875,21 @@
         "date_posted": 1756873112,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756873132,
+        "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Vancouver/May-2026---Cloud--Data---AI---Summer-Intern---Vancouver_659549WD",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "PWC",
+        "title": "May 2026 - Cloud, Data & AI - Summer Intern - Vancouver",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "77481c0a-57e3-4768-905c-611f3842dcd1",
+        "date_posted": 1756873132,
+        "company_url": "",
+        "is_visible": true
     }
 ]
