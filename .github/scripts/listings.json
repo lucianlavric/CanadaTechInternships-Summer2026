@@ -5275,5 +5275,22 @@
         "date_posted": 1756873928,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756873959,
+        "url": "https://td.wd3.myworkdayjobs.com/fr-CA/TD_Bank_Careers/job/Montral-Qubec/Data-Analytics---Insights-Intern-Co-op--WINTER-2026-_R_1435889",
+        "locations": [
+            "Toronto, ON",
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "TD",
+        "title": "Data Analytics & Insight Intern/Co-op (Winter 2026)",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "1df7d8d6-b91a-421b-909c-c00a84954642",
+        "date_posted": 1756873959,
+        "company_url": "",
+        "is_visible": true
     }
 ]
