@@ -5453,5 +5453,21 @@
         "date_posted": 1756874295,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756910661,
+        "url": "https://www.atlassian.com/company/careers/details/21019",
+        "locations": [
+            "BC"
+        ],
+        "active": true,
+        "company_name": "Atlassian",
+        "title": "Software Engineer Intern, 2026 Summer Canada",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "1019fa9f-14f7-4176-b31c-ec772052d747",
+        "date_posted": 1756910661,
+        "company_url": "",
+        "is_visible": true
     }
 ]
