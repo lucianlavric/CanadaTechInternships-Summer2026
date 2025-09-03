@@ -5147,5 +5147,21 @@
         "date_posted": 1756873647,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756873680,
+        "url": "https://careers.deloitte.ca/job/Toronto%2C-ON-Analyst-Intern%2C-Software-Engineering%2C-Innovation-CoE-Winter-2026-Toronto-ON-M5C-3G7/1321569300",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Deloitte",
+        "title": "Analyst Intern, Software Engineering, Innovation CoE - Winter 2026 - Toronto",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "841bda45-3e58-4d74-b6cc-a51c189b8f62",
+        "date_posted": 1756873680,
+        "company_url": "",
+        "is_visible": true
     }
 ]
