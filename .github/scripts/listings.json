@@ -4891,5 +4891,21 @@
         "date_posted": 1756873132,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756873167,
+        "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Calgary/May-2026---SAP---Summer-Intern---Calgary_659547WD",
+        "locations": [
+            "Calgary, AB"
+        ],
+        "active": true,
+        "company_name": "PWC",
+        "title": "May 2026 - SAP - Summer Intern - Calgary",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "4e34a150-2667-4c0f-99ec-5d5c91311a0f",
+        "date_posted": 1756873167,
+        "company_url": "",
+        "is_visible": true
     }
 ]
