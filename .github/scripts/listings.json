@@ -4587,5 +4587,21 @@
         "date_posted": 1756872490,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756872513,
+        "url": "https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4597548006",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "Visier",
+        "title": "Test Enablement Co-op (Jan - Aug 2026)",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "3b8fb220-e52a-4b99-b649-515ff6e2e897",
+        "date_posted": 1756872513,
+        "company_url": "",
+        "is_visible": true
     }
 ]
