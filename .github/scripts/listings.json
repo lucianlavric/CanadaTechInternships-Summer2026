@@ -4651,5 +4651,21 @@
         "date_posted": 1756872638,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756872689,
+        "url": "https://careers.qualcomm.com/careers/job/446714397348",
+        "locations": [
+            "Markham, ON"
+        ],
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "FY26 Intern - AI and DSP Applications Software Engineering Intern - Canada (16 months)",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "dca4499e-d265-4f6f-965c-10bfeafbd27b",
+        "date_posted": 1756872689,
+        "company_url": "",
+        "is_visible": true
     }
 ]
