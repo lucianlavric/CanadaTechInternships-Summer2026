@@ -5388,5 +5388,21 @@
         "date_posted": 1756874149,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756874192,
+        "url": "https://myview.wd3.myworkdayjobs.com/pc_financial/job/500-Lake-Shore-Blvd-W-Toronto-ON/Product-Designer-Co-op_R2000590774",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "PC Financial",
+        "title": "Product Designer Co-op",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "e7ecdf4e-7150-484b-9cf4-bb6992aba592",
+        "date_posted": 1756874192,
+        "company_url": "",
+        "is_visible": true
     }
 ]
