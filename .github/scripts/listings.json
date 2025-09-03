@@ -5195,5 +5195,21 @@
         "date_posted": 1756873755,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756873783,
+        "url": "https://bgcengineering.bamboohr.com/careers/435",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "BGC",
+        "title": "QA & Test Automation Developer Co-op",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "022723ce-9987-42d1-acf5-6f9107845587",
+        "date_posted": 1756873783,
+        "company_url": "",
+        "is_visible": true
     }
 ]
