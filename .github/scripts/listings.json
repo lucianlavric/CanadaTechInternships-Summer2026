@@ -5083,5 +5083,21 @@
         "date_posted": 1756873490,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756873529,
+        "url": "https://careers.pcl.com/job/Edmonton-Integration-Developer-Student-AB/1322244500",
+        "locations": [
+            "Edmonton, AB"
+        ],
+        "active": true,
+        "company_name": "PCL",
+        "title": "Integration Developer Student",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "e6a76a42-dfa9-4b6d-9d95-6149e7ed4f7d",
+        "date_posted": 1756873529,
+        "company_url": "",
+        "is_visible": true
     }
 ]
