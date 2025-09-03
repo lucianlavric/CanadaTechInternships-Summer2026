@@ -4907,5 +4907,21 @@
         "date_posted": 1756873167,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756873193,
+        "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Toronto/May-2026---Microsoft---Summer-Intern---Toronto_646798WD",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "PWC",
+        "title": "May 2026 - Microsoft - Summer Intern - Toronto",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "ecfe1aaa-b9b6-469d-b541-4f8b66b8e3c3",
+        "date_posted": 1756873193,
+        "company_url": "",
+        "is_visible": true
     }
 ]
