@@ -5003,5 +5003,21 @@
         "date_posted": 1756873334,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756873365,
+        "url": "https://jobs.scotiabank.com/Tangerine/job/Toronto-Velocity-Data-Engineer-InternshipCo-Op-Winter-2026-ON/595327917",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Tangerine",
+        "title": "Velocity - Data Engineer Internship/Co-Op - Winter 2026",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "adc7a02c-2dcc-4b2e-bc4f-d792b649f183",
+        "date_posted": 1756873365,
+        "company_url": "",
+        "is_visible": true
     }
 ]
