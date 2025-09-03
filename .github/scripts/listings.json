@@ -4827,5 +4827,21 @@
         "date_posted": 1756873026,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756873066,
+        "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Ottawa/May-2026---Cloud--Data---AI---Summer-Intern---Ottawa_659553WD",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "PWC",
+        "title": "May 2026 - Cloud, Data & AI - Summer Intern - Ottawa",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "e88c9518-1e7d-461c-b35f-11115aa3d80b",
+        "date_posted": 1756873066,
+        "company_url": "",
+        "is_visible": true
     }
 ]
