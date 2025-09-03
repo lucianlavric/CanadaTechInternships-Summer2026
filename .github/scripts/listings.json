@@ -5437,5 +5437,21 @@
         "date_posted": 1756874267,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756874295,
+        "url": "https://www.d2l.com/careers/jobs/product-support-analyst-winter-2026-co-op/7195311",
+        "locations": [
+            "Kitchener, ON"
+        ],
+        "active": true,
+        "company_name": "D2L",
+        "title": "Product Support Analyst - Winter 2026 Co-op",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "82957e3e-c079-4e7d-9dfe-e3b8a0009a8f",
+        "date_posted": 1756874295,
+        "company_url": "",
+        "is_visible": true
     }
 ]
