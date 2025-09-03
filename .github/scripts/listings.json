@@ -5051,5 +5051,21 @@
         "date_posted": 1756873427,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756873451,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24007",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Software Tester \u2013 Co-op/Intern",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "19f2d26e-efeb-44e1-b07d-0df55e16c336",
+        "date_posted": 1756873451,
+        "company_url": "",
+        "is_visible": true
     }
 ]
