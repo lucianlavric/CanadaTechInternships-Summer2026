@@ -5163,5 +5163,21 @@
         "date_posted": 1756873680,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756873709,
+        "url": "https://careers.roblox.com/jobs/7206219",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "Roblox",
+        "title": "[Summer 2026 Canada] Software Engineer Intern",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "2a843f1b-b27c-49c0-a880-e6f01e56c0a8",
+        "date_posted": 1756873709,
+        "company_url": "",
+        "is_visible": true
     }
 ]
