@@ -4555,5 +4555,21 @@
         "date_posted": 1756811450,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756872454,
+        "url": "https://stripe.com/jobs/listing/software-engineer-intern/7206389",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Stripe",
+        "title": "Software Engineer, Intern",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "328fa13c-4935-4d3a-b275-659784ebde1a",
+        "date_posted": 1756872454,
+        "company_url": "",
+        "is_visible": true
     }
 ]
