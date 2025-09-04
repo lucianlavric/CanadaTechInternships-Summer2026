@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Demonware | 2025 Winter Co-Ops - Software Development - Demonware (Vancouver) | Vancouver, BC | <a href="https://careers.demonware.net/job/DNOEUSR025942EXTERNAL/2025-Winter-Co-Ops-Software-Development-Demonware-Vancouver?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | Windriver | Engineering Intern | Kanata, ON | <a href="https://jobs.jobvite.com/windriver/job/ozGhxfwN?__jvst=Job%20Board&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 02 |
 | Visier | Software Developer Co-op (Jan - Aug 2026) | Vancouver, BC | <a href="https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4597539006?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 02 |
 | ↳ | Test Enablement Co-op (Jan - Aug 2026) | Vancouver, BC | <a href="https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4597548006?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 02 |

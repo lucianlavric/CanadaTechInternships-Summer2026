@@ -5469,5 +5469,21 @@
         "date_posted": 1756910661,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756955775,
+        "url": "https://careers.demonware.net/job/DNOEUSR025942EXTERNAL/2025-Winter-Co-Ops-Software-Development-Demonware-Vancouver",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "Demonware",
+        "title": "2025 Winter Co-Ops - Software Development - Demonware (Vancouver)",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "f08a4053-2369-4dbd-89cd-9fff397a0d15",
+        "date_posted": 1756955775,
+        "company_url": "",
+        "is_visible": true
     }
 ]
