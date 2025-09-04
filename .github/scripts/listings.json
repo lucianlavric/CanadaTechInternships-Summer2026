@@ -5533,5 +5533,21 @@
         "date_posted": 1756955922,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756957006,
+        "url": "https://campus-globalcareers-atlassian.icims.com/jobs/21019/software-engineer-intern%252c-2026-summer-canada/job?mobile=false&width=605&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
+        "locations": [
+            "Remote"
+        ],
+        "active": true,
+        "company_name": "Atlassian",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "04f236ee-f409-402d-9d45-deec021eb2d2",
+        "date_posted": 1756957006,
+        "company_url": "",
+        "is_visible": true
     }
 ]
