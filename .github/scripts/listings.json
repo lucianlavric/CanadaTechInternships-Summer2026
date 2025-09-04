@@ -5599,5 +5599,21 @@
         "date_posted": 1756957257,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756957288,
+        "url": "https://careers.omers.com/ca/en/job/JR-7479/Student-Software-Engineer-Winter-2026-8-Months",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "OMERS",
+        "title": "Software Engineer",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "3e4a64f1-1c4a-4098-8cd0-e75f8c937e82",
+        "date_posted": 1756957288,
+        "company_url": "",
+        "is_visible": true
     }
 ]
