@@ -5485,5 +5485,21 @@
         "date_posted": 1756955775,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756955843,
+        "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/CO-OP-Intern--QA-Automation-Developer_R028790",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Ciena",
+        "title": "CO-OP/Intern: QA Automation Developer",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "7ea7a76d-d01d-4bcf-a344-3b62c636792a",
+        "date_posted": 1756955843,
+        "company_url": "",
+        "is_visible": true
     }
 ]
