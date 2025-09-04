@@ -5631,5 +5631,22 @@
         "date_posted": 1756957343,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756957466,
+        "url": "https://peoplecorporation.wd10.myworkdayjobs.com/People_Corporation/job/Winnipeg-MB/Data-Science-Intern_JR460",
+        "locations": [
+            "Toronto, ON",
+            "Winnipeg, MB"
+        ],
+        "active": true,
+        "company_name": "People Corporation",
+        "title": "Data Science Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "cffe32b3-479d-468e-ac07-f6398eece228",
+        "date_posted": 1756957466,
+        "company_url": "",
+        "is_visible": true
     }
 ]
