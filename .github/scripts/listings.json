@@ -5664,5 +5664,26 @@
         "date_posted": 1756957504,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756957579,
+        "url": "https://bdo.wd3.myworkdayjobs.com/en-US/BDO/job/Toronto---Bay-St/Co-op-or-Intern--Data---Analytics--January-2026-_JR5107",
+        "locations": [
+            "Toronto, ON",
+            "Oakville, ON",
+            "Ottawa, ON",
+            "Montreal, QC",
+            "Halifax, NS",
+            "Calgary, AB"
+        ],
+        "active": true,
+        "company_name": "BDO",
+        "title": "Data & Analytics",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "e93b6ba6-2ce2-4ff3-80bf-02ec5907f381",
+        "date_posted": 1756957579,
+        "company_url": "",
+        "is_visible": true
     }
 ]
