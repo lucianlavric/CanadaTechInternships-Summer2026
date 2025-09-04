@@ -5549,5 +5549,21 @@
         "date_posted": 1756957006,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756957049,
+        "url": "https://bdo.wd3.myworkdayjobs.com/en-US/BDO/job/Toronto---Wellington-St/Co-op-or-Intern--Cyber-Offensive-Security--January-2026-_JR5118",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "BDO",
+        "title": "Cyber Offensive Security",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "709eeefe-4c49-404f-b189-f8821275f31e",
+        "date_posted": 1756957049,
+        "company_url": "",
+        "is_visible": true
     }
 ]
