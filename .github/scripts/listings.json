@@ -5501,5 +5501,21 @@
         "date_posted": 1756955843,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756955887,
+        "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/Toronto-Ontario-Canada/AI-Hardware-Engineer---Intern_R01218",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Altera",
+        "title": "AI Hardware Engineer - Intern",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "19827541-58a7-45fc-bf96-47ed54736eeb",
+        "date_posted": 1756955887,
+        "company_url": "",
+        "is_visible": true
     }
 ]
