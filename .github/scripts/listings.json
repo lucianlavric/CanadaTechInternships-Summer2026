@@ -5583,5 +5583,21 @@
         "date_posted": 1756957219,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756957257,
+        "url": "https://bdo.wd3.myworkdayjobs.com/en-US/BDO/job/Oakville/Co-op-or-Intern--Full-Stack-Developer--January-2026-_JR5105",
+        "locations": [
+            "Oakville, ON"
+        ],
+        "active": true,
+        "company_name": "BDO",
+        "title": "Full-Stack Developer",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "d8486714-5e8c-45bb-bfc2-b3155a007ea8",
+        "date_posted": 1756957257,
+        "company_url": "",
+        "is_visible": true
     }
 ]
