@@ -5615,5 +5615,21 @@
         "date_posted": 1756957288,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756957343,
+        "url": "https://careers.omers.com/ca/en/job/JR-7480/Student-Full-Stack-Developer-Winter-2026-4-Months",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "OMERS",
+        "title": "Full-Stack Developer",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "8f3203b8-e67e-4f14-8621-6b8a2c6b2796",
+        "date_posted": 1756957343,
+        "company_url": "",
+        "is_visible": true
     }
 ]
