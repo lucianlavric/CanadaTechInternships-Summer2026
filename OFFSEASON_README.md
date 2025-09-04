@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| SAP | SAP iXp Intern - Cloud Platform Services, Applications & Products Software Developer [Vancouver] | Vancouver, BC | <a href="https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Cloud-Platform-Services%2C-Applications-&-Products-Software-Developer-Vancouver-Brit-V6B-1A9/1215577301?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | Demonware | 2025 Winter Co-Ops - Software Development - Demonware (Vancouver) | Vancouver, BC | <a href="https://careers.demonware.net/job/DNOEUSR025942EXTERNAL/2025-Winter-Co-Ops-Software-Development-Demonware-Vancouver?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | Ciena | CO-OP/Intern: QA Automation Developer | Ottawa, ON | <a href="https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/CO-OP-Intern--QA-Automation-Developer_R028790?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | Altera | AI Hardware Engineer - Intern | Toronto, ON | <a href="https://altera.wd1.myworkdayjobs.com/Altera/job/Toronto-Ontario-Canada/AI-Hardware-Engineer---Intern_R01218?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
