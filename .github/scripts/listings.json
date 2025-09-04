@@ -5565,5 +5565,23 @@
         "date_posted": 1756957049,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756957219,
+        "url": "https://bdo.wd3.myworkdayjobs.com/en-US/BDO/job/Oakville/Co-op-or-Intern--DevOps-Engineer--January-2026-_JR5106",
+        "locations": [
+            "Oakville, ON",
+            "Halifax, NS",
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "BDO",
+        "title": "Dev Ops Engineer",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "7291664f-d4e5-48de-9136-2ef787f89fa6",
+        "date_posted": 1756957219,
+        "company_url": "",
+        "is_visible": true
     }
 ]
