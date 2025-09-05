@@ -3656,12 +3656,12 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756272970,
+        "date_updated": 1757071378,
         "url": "https://corpay.wd103.myworkdayjobs.com/Ext_001/job/Vancouver---PayByPhone/Software-Developer--Co-op-_R06820",
         "locations": [
             "Vancouver, BC"
         ],
-        "active": true,
+        "active": false,
         "company_name": "Corpay",
         "title": "Software Developer",
         "season": "Summer",
