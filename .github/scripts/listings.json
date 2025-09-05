@@ -5942,5 +5942,21 @@
         "date_posted": 1757070390,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757070440,
+        "url": "https://careers.definityfinancial.com/jobs/16691416-insights-analyst-winter-2026-co-op-slash-intern",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Definity",
+        "title": "Insights Analyst - Winter 2026 - Co-op/Intern",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "9cabf4ca-395c-4a87-972b-9ce103831a1f",
+        "date_posted": 1757070440,
+        "company_url": "",
+        "is_visible": true
     }
 ]
