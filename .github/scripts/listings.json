@@ -1724,12 +1724,12 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755072300,
+        "date_updated": 1757071167,
         "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Business-Intelligence-Intern--4-8months-_R1010206",
         "locations": [
             "Toronto, ON"
         ],
-        "active": true,
+        "active": false,
         "company_name": "Hitachi Rail",
         "title": "Business Intelligence Intern (4-8months)",
         "season": "Summer",
