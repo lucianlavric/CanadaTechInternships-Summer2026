@@ -92,6 +92,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Amazon | Applied Science Internship- PhD Student | <details><summary>**4 locations**</summary>Toronto, ON</br>Vancouver, BC</br>Pipe Meadows, BC</br>Burnaby, BC</details> | <a href="https://www.amazon.jobs/en/jobs/3050161/summer-2026-applied-science-internship-canada-phd-student-science-recruiting?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 01 |
 | Simon Kucher | Elevate Intern (Data Analyst) | Toronto, ON | <a href="https://simon-kucher.csod.com/ux/ats/careersite/6/home/requisition/3651?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
 | SAP | Data Analyst | Vancouver, BC | <a href="https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Cloud-ERP-Solution-Adoption-Data-Analyst-Brit-V6B-1A9/1229635401?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
-| TimeSaved | Co-op Data Analyst | Toronto, ON (Remote) | <a href="https://www1.communitech.ca/companies/timesaved/jobs/54911234-co-op-data-analyst#content?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
+| TimeSaved | Co-op Data Analyst | Toronto, ON (Remote) | 🔒 | Jul 29 |
 | Solink | QA Intern | Ottawa, ON (Remote) | 🔒 | Jul 29 |
 

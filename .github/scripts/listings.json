@@ -112,12 +112,12 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753817009,
+        "date_updated": 1757070972,
         "url": "https://www1.communitech.ca/companies/timesaved/jobs/54911234-co-op-data-analyst#content",
         "locations": [
             "Toronto, ON (Remote)"
         ],
-        "active": true,
+        "active": false,
         "company_name": "TimeSaved",
         "title": "Co-op Data Analyst",
         "season": "Summer",
