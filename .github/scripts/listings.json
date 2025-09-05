@@ -1303,7 +1303,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754716275,
+        "date_updated": 1757071132,
         "url": "https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/British-Columbia-Canada/Software-Developer--Co-op-Intern_R0031202-2",
         "locations": [
             "BC",
@@ -1313,7 +1313,7 @@
             "PEI(remote)",
             "Manitoba(remote)"
         ],
-        "active": true,
+        "active": false,
         "company_name": "Harris",
         "title": "Software Developer",
         "season": "Summer",
