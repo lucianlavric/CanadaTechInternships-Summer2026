@@ -5701,5 +5701,21 @@
         "date_posted": 1757069786,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757069823,
+        "url": "https://huaweicanada.recruitee.com/o/co-op-software-engineer-mobile-ai",
+        "locations": [
+            "Markham, ON"
+        ],
+        "active": true,
+        "company_name": "Huawei",
+        "title": "Co-op Software Engineer-Mobile AI",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "6a6df107-1fc3-4a60-bbac-b643e8a0f984",
+        "date_posted": 1757069823,
+        "company_url": "",
+        "is_visible": true
     }
 ]
