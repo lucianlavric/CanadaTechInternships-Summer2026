@@ -5990,5 +5990,21 @@
         "date_posted": 1757070514,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757070589,
+        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56588",
+        "locations": [
+            "Markham, ON"
+        ],
+        "active": true,
+        "company_name": "IBM",
+        "title": "Product Manager Internship 2026 (12 to 16 months)",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "ebc0a5e2-a84d-439a-9bc8-c703b52543d7",
+        "date_posted": 1757070589,
+        "company_url": "",
+        "is_visible": true
     }
 ]
