@@ -5926,5 +5926,21 @@
         "date_posted": 1757070305,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757070390,
+        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56584",
+        "locations": [
+            "Markham, ON"
+        ],
+        "active": true,
+        "company_name": "IBM",
+        "title": "Software Developer Internship 2026 (12 to 16 month)",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "2b7d2bc8-cff6-4141-848f-ce526a85c643",
+        "date_posted": 1757070390,
+        "company_url": "",
+        "is_visible": true
     }
 ]
