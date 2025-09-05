@@ -5829,5 +5829,21 @@
         "date_posted": 1757070022,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757070079,
+        "url": "https://www.epicgames.com/site/en-US/careers/jobs/5641341004",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "Epic Games",
+        "title": "Ecommerce Programmer Intern",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "20e81083-0aca-471d-9122-a47181bb3c76",
+        "date_posted": 1757070079,
+        "company_url": "",
+        "is_visible": true
     }
 ]
