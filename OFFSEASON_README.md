@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Suncor | Data Science Student - January 2026 | Calgary, AB | <a href="https://suncor.wd1.myworkdayjobs.com/en-US/Suncor_External/job/Calgary/Data-Science-Student---January-2026_R0013950?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 05 |
 | Nutrien | Intern, Global Security - Calgary, AB or Saskatoon, SK | Calgary, AB</br>Saskatoon, SK | <a href="https://jobs.nutrien.com/North-America/job/Calgary-Intern%2C-Global-Security-Calgary%2C-AB-or-Saskatoon%2C-SK-AB-T2J-7E8/595454617/?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 05 |
 | Nokia | NPI Lab Support Co-op/Intern | Ottawa, ON | <a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24436?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 05 |
 | IBM | Software Developer Internship 2026 (12 to 16 month) | Markham, ON | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56584&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 05 |

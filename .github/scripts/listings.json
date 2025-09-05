@@ -5974,5 +5974,21 @@
         "date_posted": 1757070489,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757070514,
+        "url": "https://suncor.wd1.myworkdayjobs.com/en-US/Suncor_External/job/Calgary/Data-Science-Student---January-2026_R0013950",
+        "locations": [
+            "Calgary, AB"
+        ],
+        "active": true,
+        "company_name": "Suncor",
+        "title": "Data Science Student - January 2026",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "d27320e1-e981-4f68-836b-5ed4665dd027",
+        "date_posted": 1757070514,
+        "company_url": "",
+        "is_visible": true
     }
 ]
