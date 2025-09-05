@@ -5765,5 +5765,21 @@
         "date_posted": 1757069904,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757069933,
+        "url": "https://huaweicanada.recruitee.com/o/coop-researcher-computer-vision-and-machine-learning-1",
+        "locations": [
+            "Markham, ON"
+        ],
+        "active": true,
+        "company_name": "Huawei",
+        "title": "Coop Researcher-Computer Vision and Machine Learning",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "b3e3814b-2d1d-4e12-a7b2-57e0b5afa755",
+        "date_posted": 1757069933,
+        "company_url": "",
+        "is_visible": true
     }
 ]
