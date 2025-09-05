@@ -26,6 +26,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Omers | Student, Global Equities (Summer 2026, 4 Months) | Toronto, ON | <a href="https://careers.omers.com/ca/en/job/JR-7485/Student-Global-Equities-Summer-2026-4-Months?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 05 |
 | Macquarie | 2026 Macquarie Capital (Toronto) Summer Analyst Internship Program, Critical Minerals and Energy | Toronto, ON | <a href="https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=18391&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 05 |
 | Epic Games | Ecommerce Programmer Intern | Vancouver, BC | <a href="https://www.epicgames.com/site/en-US/careers/jobs/5641341004?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 05 |
 | Baker Hughes | Engineering & Technology - Summer Internship (Leduc, AB) 2026 Opportunities | Leduc, AB | <a href="https://careers.bakerhughes.com/global/en/job/BAHUGLOBALR155923/Engineering-Technology-Summer-Internship-Leduc-AB-2026-Opportunities?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 05 |

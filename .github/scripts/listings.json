@@ -6070,5 +6070,21 @@
         "date_posted": 1757070733,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757070753,
+        "url": "https://careers.omers.com/ca/en/job/JR-7485/Student-Global-Equities-Summer-2026-4-Months",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Omers",
+        "title": "Student, Global Equities (Summer 2026, 4 Months)",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "918ed00d-40f7-4d12-8b90-74bbc6f2fd34",
+        "date_posted": 1757070753,
+        "company_url": "",
+        "is_visible": true
     }
 ]
