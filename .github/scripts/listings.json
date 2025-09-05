@@ -6022,5 +6022,21 @@
         "date_posted": 1757070617,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757070641,
+        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54482",
+        "locations": [
+            "Markham, ON"
+        ],
+        "active": true,
+        "company_name": "IBM",
+        "title": "UX Designer Intern (8 months)",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "2b42fab0-da97-4238-a11f-3f7c7e0f86bb",
+        "date_posted": 1757070641,
+        "company_url": "",
+        "is_visible": true
     }
 ]
