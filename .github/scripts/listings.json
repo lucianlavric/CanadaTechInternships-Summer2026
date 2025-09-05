@@ -5958,5 +5958,21 @@
         "date_posted": 1757070440,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757070489,
+        "url": "https://globalcareers-atlassian.icims.com/jobs/21021/data-science-intern%2c-2026-summer-canada/job",
+        "locations": [
+            "BC"
+        ],
+        "active": true,
+        "company_name": "Atlassian",
+        "title": "Data Science Intern, 2026 Summer Canada",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "258999be-c213-4de4-81d3-e0d52292dad7",
+        "date_posted": 1757070489,
+        "company_url": "",
+        "is_visible": true
     }
 ]
