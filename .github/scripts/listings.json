@@ -5861,5 +5861,21 @@
         "date_posted": 1757070109,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757070154,
+        "url": "https://careers.bakerhughes.com/global/en/job/BAHUGLOBALR155923/Engineering-Technology-Summer-Internship-Leduc-AB-2026-Opportunities",
+        "locations": [
+            "Leduc, AB"
+        ],
+        "active": true,
+        "company_name": "Baker Hughes",
+        "title": "Engineering & Technology - Summer Internship (Leduc, AB) 2026 Opportunities",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "cd5b0510-8140-4267-92eb-a147503336d0",
+        "date_posted": 1757070154,
+        "company_url": "",
+        "is_visible": true
     }
 ]
