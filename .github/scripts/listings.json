@@ -6006,5 +6006,21 @@
         "date_posted": 1757070589,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757070617,
+        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56587",
+        "locations": [
+            "Markham, ON"
+        ],
+        "active": true,
+        "company_name": "IBM",
+        "title": "Designer Internship 2026 (12 to 16 month)",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "c74fe56c-a0ba-4d1c-92ba-bd0085b1b54d",
+        "date_posted": 1757070617,
+        "company_url": "",
+        "is_visible": true
     }
 ]
