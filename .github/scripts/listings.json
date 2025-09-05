@@ -5909,5 +5909,22 @@
         "date_posted": 1757070254,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757070305,
+        "url": "https://jobs.nutrien.com/North-America/job/Calgary-Intern%2C-Global-Security-Calgary%2C-AB-or-Saskatoon%2C-SK-AB-T2J-7E8/595454617/",
+        "locations": [
+            "Calgary, AB",
+            "Saskatoon, SK"
+        ],
+        "active": true,
+        "company_name": "Nutrien",
+        "title": "Intern, Global Security - Calgary, AB or Saskatoon, SK",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "6943765d-175b-4e0a-ac23-c3481deca617",
+        "date_posted": 1757070305,
+        "company_url": "",
+        "is_visible": true
     }
 ]
