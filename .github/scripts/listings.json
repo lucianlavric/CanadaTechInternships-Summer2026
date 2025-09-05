@@ -5685,5 +5685,21 @@
         "date_posted": 1756957579,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757069786,
+        "url": "https://huaweicanada.recruitee.com/o/co-op-software-engineer-distributed-database-12-16-months",
+        "locations": [
+            "Markham, ON"
+        ],
+        "active": true,
+        "company_name": "Huawei",
+        "title": "Co-op Software Engineer - Distributed Database (12-16 months)",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "1360370d-4d80-4d10-ab41-88dc144ea62f",
+        "date_posted": 1757069786,
+        "company_url": "",
+        "is_visible": true
     }
 ]
