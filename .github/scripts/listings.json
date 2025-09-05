@@ -5845,5 +5845,21 @@
         "date_posted": 1757070079,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757070109,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24436",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Nokia",
+        "title": "NPI Lab Support Co-op/Intern",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "e88918ba-f0b1-4852-a617-bb5ae4ce6128",
+        "date_posted": 1757070109,
+        "company_url": "",
+        "is_visible": true
     }
 ]

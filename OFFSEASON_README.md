@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Nokia | NPI Lab Support Co-op/Intern | Ottawa, ON | <a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24436?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 05 |
 | Huawei | Co-op Software Developer - Real-Time Operating System (12-16 months) | Markham, ON | <a href="https://huaweicanada.recruitee.com/o/co-op-software-developer-real-time-operating-system-12-16-months?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 05 |
 | ↳ | Co-op Software Engineer - Distributed Data Systems (12-16 months) | Markham, ON | <a href="https://huaweicanada.recruitee.com/o/co-op-software-engineer-distributed-data-systems-12-16-months?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 05 |
 | ↳ | Coop Researcher-Computer Vision and Machine Learning | Markham, ON | <a href="https://huaweicanada.recruitee.com/o/coop-researcher-computer-vision-and-machine-learning-1?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 05 |
