@@ -5893,5 +5893,21 @@
         "date_posted": 1757070215,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757070254,
+        "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Software-Analyst---Intern--Product-Team--4-8-12-Months-_R1010514",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Hitachi Raiil",
+        "title": "Software Analyst - Intern, Product Team (4/8/12 Months)",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "6cf53d81-fcce-437f-b258-a7b5afcf7385",
+        "date_posted": 1757070254,
+        "company_url": "",
+        "is_visible": true
     }
 ]
