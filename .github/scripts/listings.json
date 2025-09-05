@@ -6054,5 +6054,21 @@
         "date_posted": 1757070702,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757070733,
+        "url": "https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=18391",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Macquarie",
+        "title": "2026 Macquarie Capital (Toronto) Summer Analyst Internship Program, Critical Minerals and Energy",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "76727036-b3c8-43b3-a55a-9a84d4161f8d",
+        "date_posted": 1757070733,
+        "company_url": "",
+        "is_visible": true
     }
 ]
