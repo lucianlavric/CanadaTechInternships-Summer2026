@@ -5797,5 +5797,21 @@
         "date_posted": 1757069960,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757069982,
+        "url": "https://huaweicanada.recruitee.com/o/co-op-software-developer-real-time-operating-system-12-16-months",
+        "locations": [
+            "Markham, ON"
+        ],
+        "active": true,
+        "company_name": "Huawei",
+        "title": "Co-op Software Developer - Real-Time Operating System (12-16 months)",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "2ffe81ae-c4fc-4dac-ad8f-945e47b4f152",
+        "date_posted": 1757069982,
+        "company_url": "",
+        "is_visible": true
     }
 ]
