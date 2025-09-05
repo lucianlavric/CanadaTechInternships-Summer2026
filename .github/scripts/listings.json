@@ -5877,5 +5877,21 @@
         "date_posted": 1757070154,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757070215,
+        "url": "https://globalcareers-atlassian.icims.com/jobs/21020/security-engineer-intern%25252c-2026-summer-canada/job",
+        "locations": [
+            "BC"
+        ],
+        "active": true,
+        "company_name": "Atlassian",
+        "title": "Security Engineer Intern, 2026 Summer Canada",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "3aaa1a21-a239-48dd-81bd-536b334b5ddd",
+        "date_posted": 1757070215,
+        "company_url": "",
+        "is_visible": true
     }
 ]
