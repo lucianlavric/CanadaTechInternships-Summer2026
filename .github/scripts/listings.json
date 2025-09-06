@@ -6166,5 +6166,21 @@
         "date_posted": 1757131581,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757131807,
+        "url": "https://hcpd.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Careers/job/5709",
+        "locations": [
+            "Dieppe, NB"
+        ],
+        "active": true,
+        "company_name": "Irving Consumer Products",
+        "title": "Business Information Analyst Co-Op",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "6407d681-ccdc-4e03-9c1f-2a1c5d766e69",
+        "date_posted": 1757131807,
+        "company_url": "",
+        "is_visible": true
     }
 ]
