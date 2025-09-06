@@ -6378,5 +6378,21 @@
         "date_posted": 1757134180,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757134996,
+        "url": "https://jobs.dayforcehcm.com/en-US/mydayforce/alljobs/jobs/87290",
+        "locations": [
+            "Remote"
+        ],
+        "active": true,
+        "company_name": "Dayforce",
+        "title": "Software Developer Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "b0174124-d3d3-4c27-905c-ac75fc6be033",
+        "date_posted": 1757134996,
+        "company_url": "",
+        "is_visible": true
     }
 ]
