@@ -6410,5 +6410,21 @@
         "date_posted": 1757135034,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757135463,
+        "url": "https://job-boards.eu.greenhouse.io/clinchoice/jobs/4668134101",
+        "locations": [
+            "Mississauga, ON"
+        ],
+        "active": true,
+        "company_name": "ClinChoice",
+        "title": "Statistical programming Internship",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "28ff8e65-f430-4786-814d-2c20de5906a0",
+        "date_posted": 1757135463,
+        "company_url": "",
+        "is_visible": true
     }
 ]
