@@ -6474,5 +6474,21 @@
         "date_posted": 1757135597,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757135645,
+        "url": "https://cgi.njoyn.com/corp/xweb/xweb.asp?clid=21001&page=jobdetails&jobid=J0925-0336&BRID=1233323&SBDID=943&lang=1",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "CGI",
+        "title": "Quality Assurance Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "d6e0f457-6538-49a2-b66d-07c26895ec5b",
+        "date_posted": 1757135645,
+        "company_url": "",
+        "is_visible": true
     }
 ]
