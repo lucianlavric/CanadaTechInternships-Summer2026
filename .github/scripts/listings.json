@@ -6506,5 +6506,21 @@
         "date_posted": 1757135732,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757135762,
+        "url": "https://careers.amd.com/careers-home/jobs/71106",
+        "locations": [
+            "markham, ON"
+        ],
+        "active": true,
+        "company_name": "AMD",
+        "title": "Software Engineering Intern/Co-Op",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "0a0bf139-575a-4941-94e1-6f7e3b5da5f4",
+        "date_posted": 1757135762,
+        "company_url": "",
+        "is_visible": true
     }
 ]
