@@ -6426,5 +6426,21 @@
         "date_posted": 1757135463,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757135514,
+        "url": "https://huaweicanada.recruitee.com/o/co-op-researcher-simulation-ai",
+        "locations": [
+            "Markham, ON"
+        ],
+        "active": true,
+        "company_name": "Huawei",
+        "title": "Co-op Researcher - Simulation & AI",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "95eaf903-972c-47b4-9e1d-cc789ffe059c",
+        "date_posted": 1757135514,
+        "company_url": "",
+        "is_visible": true
     }
 ]
