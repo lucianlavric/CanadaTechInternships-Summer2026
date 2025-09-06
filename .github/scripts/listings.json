@@ -6118,5 +6118,21 @@
         "date_posted": 1757130189,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757130428,
+        "url": "https://jobs.bombardier.com/job/Mississauga-Intern%2C-Project-Engineering-New-Product-Development-%28Winter-2026%29-ON-L5S-1W1/1244760901",
+        "locations": [
+            "Mississauga, ON"
+        ],
+        "active": true,
+        "company_name": "Bombardier",
+        "title": "Project Engineering - New Product Development",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "8d655a86-d39b-4d8f-b26c-3ee14e5066b2",
+        "date_posted": 1757130428,
+        "company_url": "",
+        "is_visible": true
     }
 ]
