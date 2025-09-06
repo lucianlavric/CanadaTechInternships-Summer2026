@@ -6490,5 +6490,21 @@
         "date_posted": 1757135645,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757135732,
+        "url": "https://careers.siemens-healthineers.com/global/en/job/R-23789/Software-Developer-Co-op",
+        "locations": [
+            "Winnipeg, MB"
+        ],
+        "active": true,
+        "company_name": "Siemens",
+        "title": "Software Developer Co-op",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "9f8661f7-abd5-47a0-8a4d-c39852c04618",
+        "date_posted": 1757135732,
+        "company_url": "",
+        "is_visible": true
     }
 ]
