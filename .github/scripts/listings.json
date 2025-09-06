@@ -6361,5 +6361,22 @@
         "date_posted": 1757134104,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757134180,
+        "url": "https://jobs.dayforcehcm.com/en-US/mydayforce/alljobs/jobs/87297",
+        "locations": [
+            "Toronto, ON",
+            "Remote"
+        ],
+        "active": true,
+        "company_name": "Dayforce",
+        "title": "Software Developer in Test Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "562bae39-7971-4613-83ba-d54cd2288ee1",
+        "date_posted": 1757134180,
+        "company_url": "",
+        "is_visible": true
     }
 ]
