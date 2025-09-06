@@ -6279,5 +6279,21 @@
         "date_posted": 1757133151,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757133214,
+        "url": "https://careers.rtx.com/global/en/job/RAYTGLOBAL01791772EXTERNALENGLOBAL/Stage-Hiver-2026-Interop-rabilit-Digitale-des-Mod-les-3D-Internship-Winter-2026-3D-Model-Digital-Interoperability",
+        "locations": [
+            "Longueuil, QC"
+        ],
+        "active": true,
+        "company_name": "Pratt & Whitney Canada",
+        "title": "3D Model Digital Interoperability",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "1043d3c8-9144-45f6-997c-f7fa106c0ef0",
+        "date_posted": 1757133214,
+        "company_url": "",
+        "is_visible": true
     }
 ]
