@@ -6247,5 +6247,21 @@
         "date_posted": 1757132874,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757133117,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1871855/Software-Engineer%3A-Internship-Opportunities%2C-Vancouver%2C-BC",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "6cad6e5d-336a-4558-b06d-273da7c64a01",
+        "date_posted": 1757133117,
+        "company_url": "",
+        "is_visible": true
     }
 ]
