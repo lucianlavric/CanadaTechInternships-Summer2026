@@ -6102,5 +6102,21 @@
         "date_posted": 1757130022,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757130189,
+        "url": "https://jobs.dayforcehcm.com/en-US/mydayforce/alljobs/jobs/87329",
+        "locations": [
+            "Remote"
+        ],
+        "active": true,
+        "company_name": "Dayforce",
+        "title": "Product & AI Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "b2c14168-5fc0-425b-b45c-bb9a2ba4f069",
+        "date_posted": 1757130189,
+        "company_url": "",
+        "is_visible": true
     }
 ]
