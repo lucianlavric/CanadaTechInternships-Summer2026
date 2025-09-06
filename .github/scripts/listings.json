@@ -6522,5 +6522,21 @@
         "date_posted": 1757135762,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757135787,
+        "url": "https://careers.amd.com/careers-home/jobs/71105",
+        "locations": [
+            "Markham, ON"
+        ],
+        "active": true,
+        "company_name": "AMD",
+        "title": "Hardware Design Verification Engineering Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "1ed51eac-f767-47ce-a54b-535f9c1001d3",
+        "date_posted": 1757135787,
+        "company_url": "",
+        "is_visible": true
     }
 ]
