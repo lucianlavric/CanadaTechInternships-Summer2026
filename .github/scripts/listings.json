@@ -6215,5 +6215,21 @@
         "date_posted": 1757132082,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757132345,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/8128890002?gh_jid=8128890002",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Lyft",
+        "title": "Software Engineer Intern, Backend",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "20915bad-4200-4ee3-9927-61446b432a0e",
+        "date_posted": 1757132345,
+        "company_url": "",
+        "is_visible": true
     }
 ]
