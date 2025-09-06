@@ -6150,5 +6150,21 @@
         "date_posted": 1757131357,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757131581,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/8149419002?gh_jid=8149419002",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Lyft",
+        "title": "Data Science Intern, Decisions-Product",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "0d28584a-fc75-45b4-ae3b-fbee51508238",
+        "date_posted": 1757131581,
+        "company_url": "",
+        "is_visible": true
     }
 ]
