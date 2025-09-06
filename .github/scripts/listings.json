@@ -6458,5 +6458,21 @@
         "date_posted": 1757135555,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757135597,
+        "url": "https://careers.qualcomm.com/careers/job/446714433212",
+        "locations": [
+            "Markham, ON"
+        ],
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "Low Power AI Software Development Internship",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "ceb4f1ec-e835-420f-9be7-69ffe29820f5",
+        "date_posted": 1757135597,
+        "company_url": "",
+        "is_visible": true
     }
 ]
