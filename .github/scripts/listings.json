@@ -6538,5 +6538,21 @@
         "date_posted": 1757135787,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757135813,
+        "url": "https://careers.amd.com/careers-home/jobs/71100",
+        "locations": [
+            "Markham, ON"
+        ],
+        "active": true,
+        "company_name": "AMD",
+        "title": "Graphics Software Engineering Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "fcc922fc-85ff-44b2-b77a-9bfdebc69b2c",
+        "date_posted": 1757135813,
+        "company_url": "",
+        "is_visible": true
     }
 ]
