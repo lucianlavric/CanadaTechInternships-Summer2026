@@ -6086,5 +6086,21 @@
         "date_posted": 1757070753,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757130022,
+        "url": "https://jobs.dayforcehcm.com/en-US/mydayforce/alljobs/jobs/87325",
+        "locations": [
+            "Remote"
+        ],
+        "active": true,
+        "company_name": "Dayforce",
+        "title": "Operations & Project Management Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "ec71d9d5-039e-415b-b7a0-7aa022b90a10",
+        "date_posted": 1757130022,
+        "company_url": "",
+        "is_visible": true
     }
 ]
