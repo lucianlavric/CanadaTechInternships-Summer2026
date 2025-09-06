@@ -6345,5 +6345,21 @@
         "date_posted": 1757134051,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757134104,
+        "url": "https://jobs.dayforcehcm.com/en-US/mydayforce/alljobs/jobs/87345",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Dayforce",
+        "title": "Cloud Infrastructure Engineer Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "35d3c34c-3d1b-46b7-9872-af3d3a936f07",
+        "date_posted": 1757134104,
+        "company_url": "",
+        "is_visible": true
     }
 ]
