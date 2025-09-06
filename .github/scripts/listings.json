@@ -6328,5 +6328,22 @@
         "date_posted": 1757134004,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757134051,
+        "url": "https://jobs.dayforcehcm.com/en-US/mydayforce/alljobs/jobs/87351",
+        "locations": [
+            "Toronto, ON",
+            "Remote"
+        ],
+        "active": true,
+        "company_name": "Dayforce",
+        "title": "Junior Site Reliability Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "9ade79ca-9f9b-4d49-af92-9c5441cc3bc3",
+        "date_posted": 1757134051,
+        "company_url": "",
+        "is_visible": true
     }
 ]
