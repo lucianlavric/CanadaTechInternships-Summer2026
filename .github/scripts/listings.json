@@ -6295,5 +6295,21 @@
         "date_posted": 1757133214,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757133488,
+        "url": "https://careers.rtx.com/global/en/job/RAYTGLOBAL01789984EXTERNALENGLOBAL/Stage-Hiver-2026-Robotique-et-Automatisation-dans-le-secteur-manufacturier-de-l-a-ronautique-Internship-Winter-Robotics-and-Automation-in-the-Aeronautics-Manufacturing-Sector",
+        "locations": [
+            "Longueuil, QC"
+        ],
+        "active": true,
+        "company_name": "Pratt & Whitney Canada",
+        "title": "Robotics and Automation in the Aeronautics Manufacturing Sector",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "f1184bdd-1d0a-49a6-8871-ca4b62c3b9ee",
+        "date_posted": 1757133488,
+        "company_url": "",
+        "is_visible": true
     }
 ]
