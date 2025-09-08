@@ -6623,7 +6623,8 @@
         "date_updated": 1757367963,
         "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Intern--Software-Developer_25WD91424-2",
         "locations": [
-            "Toronto, ON", "Montreal, QC"
+            "Toronto, ON",
+            "Montreal, QC"
         ],
         "active": true,
         "company_name": "Autodesk",
@@ -6632,6 +6633,22 @@
         "source": "lucianlavric",
         "id": "978cb061-f12e-42f0-a8d6-1a257653629a",
         "date_posted": 1757367963,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757375558,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Intern--Software-Developer_25WD91415-3",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Autodesk",
+        "title": "Software Developer",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "c002f632-c10f-422d-8e91-f29e0f1c73ff",
+        "date_posted": 1757375558,
         "company_url": "",
         "is_visible": true
     }
