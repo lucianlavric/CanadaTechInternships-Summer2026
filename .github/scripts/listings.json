@@ -6651,5 +6651,21 @@
         "date_posted": 1757375558,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757375978,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Intern--Software-Developer_25WD91421-2",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Autodesk",
+        "title": "Backend Software Developer",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "79e00d06-cddb-43a5-a33f-8dd5d49912e5",
+        "date_posted": 1757375978,
+        "company_url": "",
+        "is_visible": true
     }
 ]
