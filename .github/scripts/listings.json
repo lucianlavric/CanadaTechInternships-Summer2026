@@ -6618,5 +6618,21 @@
         "date_posted": 1757367723,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757367963,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Intern--Software-Developer_25WD91424-2",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Autodesk",
+        "title": "Intern, Software Developer",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "978cb061-f12e-42f0-a8d6-1a257653629a",
+        "date_posted": 1757367963,
+        "company_url": "",
+        "is_visible": true
     }
 ]
