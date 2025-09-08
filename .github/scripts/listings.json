@@ -6554,5 +6554,21 @@
         "date_posted": 1757135813,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757367645,
+        "url": "https://careers.manulife.com/global/en/job/JR25090419/Summer-Intern-Co-op-2026-Software-Engineering",
+        "locations": [
+            "Waterloo, ON"
+        ],
+        "active": true,
+        "company_name": "Manulife",
+        "title": "Summer Intern/Co-op 2026 \u2013 Software Engineering",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "fb5cfa6e-cf69-4bd6-ba3d-de90836c721a",
+        "date_posted": 1757367645,
+        "company_url": "",
+        "is_visible": true
     }
 ]

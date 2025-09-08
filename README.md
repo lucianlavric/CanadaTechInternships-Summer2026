@@ -26,6 +26,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Manulife | Summer Intern/Co-op 2026 – Software Engineering | Waterloo, ON | <a href="https://careers.manulife.com/global/en/job/JR25090419/Summer-Intern-Co-op-2026-Software-Engineering?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | Omers | Student, Global Equities (Summer 2026, 4 Months) | Toronto, ON | <a href="https://careers.omers.com/ca/en/job/JR-7485/Student-Global-Equities-Summer-2026-4-Months?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 05 |
 | Macquarie | 2026 Macquarie Capital (Toronto) Summer Analyst Internship Program, Critical Minerals and Energy | Toronto, ON | <a href="https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=18391&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 05 |
 | Lyft | Software Engineer Intern, Mobile Android | Toronto, ON | <a href="https://app.careerpuck.com/job-board/lyft/job/8131695002?gh_jid=8131695002&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 05 |
