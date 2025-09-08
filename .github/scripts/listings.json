@@ -6602,5 +6602,21 @@
         "date_posted": 1757367698,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757367723,
+        "url": "https://careers.manulife.com/global/en/job/JR25081348/Summer-Intern-Co-op-2026-Business-Technology-Analyst",
+        "locations": [
+            "Waterloo, ON"
+        ],
+        "active": true,
+        "company_name": "Manulife",
+        "title": "Summer Intern/Co-op 2026 \u2013 Business Technology Analyst",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "5269ba4b-fcbc-41c6-947f-192273c90945",
+        "date_posted": 1757367723,
+        "company_url": "",
+        "is_visible": true
     }
 ]
