@@ -7372,5 +7372,23 @@
         "date_posted": 1757433755,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757433812,
+        "url": "https://careers.intactfc.com/data-analyst-4-and-8-months-internship-coop-winter-and-summer-2026/job/R148774",
+        "locations": [
+            "Toronto, ON",
+            "Montreal, QC",
+            "St-Hyacinthe, QC"
+        ],
+        "active": true,
+        "company_name": "Intact",
+        "title": "Data Analyst",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "1426ce2b-e676-4748-9c8c-69957ae1fe06",
+        "date_posted": 1757433812,
+        "company_url": "",
+        "is_visible": true
     }
 ]
