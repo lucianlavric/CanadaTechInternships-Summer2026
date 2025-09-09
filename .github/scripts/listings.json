@@ -6699,5 +6699,21 @@
         "date_posted": 1757376158,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757398830,
+        "url": "https://careers.loblaw.ca/software-development-co-op-student/job/PAF-LCL-14264507-03FD-4FC3-9BB8-EAED29192875_7580_1757307601_0",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Loblaw Digital",
+        "title": "Software Development",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "10cbe246-2f71-4304-a440-7b4975de07ba",
+        "date_posted": 1757398830,
+        "company_url": "",
+        "is_visible": true
     }
 ]
