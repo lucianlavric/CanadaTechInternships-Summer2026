@@ -6940,5 +6940,21 @@
         "date_posted": 1757399396,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757399425,
+        "url": "https://jobs.arup.com/jobs/software-development-intern-january-april-2026-29552",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Arup",
+        "title": "Software Development Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "b95991ec-a128-4095-811d-db2b412567b6",
+        "date_posted": 1757399425,
+        "company_url": "",
+        "is_visible": true
     }
 ]
