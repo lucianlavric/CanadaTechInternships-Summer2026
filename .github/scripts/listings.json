@@ -7455,5 +7455,21 @@
         "date_posted": 1757433960,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757433987,
+        "url": "https://intelcomgroup.wd3.myworkdayjobs.com/en-US/Intelcom/job/Canada-Quebec-Montreal/Data-Engineering-Intern_JR109165",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "Intelcom | Dragonfly",
+        "title": "Data Engineering Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "277617fe-58e1-49a9-babc-af8c1f4be78d",
+        "date_posted": 1757433987,
+        "company_url": "",
+        "is_visible": true
     }
 ]
