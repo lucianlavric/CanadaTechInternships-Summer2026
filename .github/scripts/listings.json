@@ -6747,5 +6747,21 @@
         "date_posted": 1757398903,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757398928,
+        "url": "https://careers.intactfc.com/devops-i-4-months-internship-coop-winter-2026/job/R148772",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Intact",
+        "title": "Software Developer",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "96b44a60-5825-4acd-9813-386bd7605de8",
+        "date_posted": 1757398928,
+        "company_url": "",
+        "is_visible": true
     }
 ]
