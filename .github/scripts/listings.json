@@ -6892,5 +6892,21 @@
         "date_posted": 1757399278,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757399323,
+        "url": "https://jobs.hydroone.com/job/Toronto-University-Co-Op-Student-IT-Operations-Business-Analyst-8-Months-Winter-2026-ON/1290295047",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Hydro One",
+        "title": "IT Operations - Business Analyst",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "4734f261-07c7-4e23-b99b-c0734750b04d",
+        "date_posted": 1757399323,
+        "company_url": "",
+        "is_visible": true
     }
 ]
