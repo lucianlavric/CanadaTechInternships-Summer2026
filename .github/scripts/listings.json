@@ -7439,5 +7439,21 @@
         "date_posted": 1757433922,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757433960,
+        "url": "https://intelcomgroup.wd3.myworkdayjobs.com/en-US/Intelcom/job/Canada-Quebec-Montreal/GHG-Data-Analyst-Intern_JR109188",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "Intelcom | Dragonfly",
+        "title": "GHG Data Analyst Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "aa68d69a-4316-4382-ae78-c831f0446bcd",
+        "date_posted": 1757433960,
+        "company_url": "",
+        "is_visible": true
     }
 ]
