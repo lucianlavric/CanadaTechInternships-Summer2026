@@ -7390,5 +7390,22 @@
         "date_posted": 1757433812,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757433852,
+        "url": "https://careers.intactfc.com/fr-ca/business-analyst-pl-opl-4-month-co-op-internship-winter-2026/job/R148110",
+        "locations": [
+            "Toronto, ON",
+            "Calgary, AB"
+        ],
+        "active": true,
+        "company_name": "Intact",
+        "title": "Business Analyst (PL OPL)",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "574082e0-d64c-431a-b48c-e285d590c438",
+        "date_posted": 1757433852,
+        "company_url": "",
+        "is_visible": true
     }
 ]
