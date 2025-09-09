@@ -7100,5 +7100,21 @@
         "date_posted": 1757399727,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757399762,
+        "url": "https://intelcomgroup.wd3.myworkdayjobs.com/en-US/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Last-Mile_JR109228",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "Intelcom | Dragonfly",
+        "title": "Software Development Intern \u2013 Last Mile",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "fe0bf6c8-a73b-495d-8953-31f0a0d380da",
+        "date_posted": 1757399762,
+        "company_url": "",
+        "is_visible": true
     }
 ]
