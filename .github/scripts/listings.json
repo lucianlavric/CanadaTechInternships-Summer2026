@@ -7503,5 +7503,21 @@
         "date_posted": 1757434048,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757434072,
+        "url": "https://intelcomgroup.wd3.myworkdayjobs.com/en-US/Intelcom/job/Canada-Quebec-Montreal/Business-Intelligence-Analyst-Intern_JR109160",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "Intelcom | Dragonfly",
+        "title": "Business Intelligence Analyst Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "04ee6d20-c8b6-4d07-88fe-ecb5acda4d77",
+        "date_posted": 1757434072,
+        "company_url": "",
+        "is_visible": true
     }
 ]
