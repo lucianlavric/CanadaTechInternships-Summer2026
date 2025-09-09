@@ -7423,5 +7423,21 @@
         "date_posted": 1757433894,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757433922,
+        "url": "https://investpsp.wd3.myworkdayjobs.com/en-US/psp_careers/job/Montreal/Intern--Data-Science-and-Artificial-Intelligence--January---April-2026-_R4209",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "PSP",
+        "title": "Intern, Data Science and Artificial Intelligence",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "e8212230-e25a-452a-96aa-b78dee62e81a",
+        "date_posted": 1757433922,
+        "company_url": "",
+        "is_visible": true
     }
 ]
