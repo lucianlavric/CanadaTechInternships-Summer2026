@@ -7340,5 +7340,21 @@
         "date_posted": 1757433680,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757433713,
+        "url": "https://careers.swissre.com/job/Toronto-Actuarial-Intern-P&C-%28Winter-2026%29-ON/1245308201",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Swiss Re",
+        "title": "Actuarial Intern P&C",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "943da09d-db25-4c91-9e89-b5e1f8934c2b",
+        "date_posted": 1757433713,
+        "company_url": "",
+        "is_visible": true
     }
 ]

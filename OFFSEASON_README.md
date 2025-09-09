@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Swiss Re | Actuarial Intern P&C | Toronto, ON | <a href="https://careers.swissre.com/job/Toronto-Actuarial-Intern-P&C-%28Winter-2026%29-ON/1245308201?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
 | Loblaw Digital | Insights Analyst | Brampton, ON | <a href="https://careers.loblaw.ca/insights-analyst-co-op-student/job/PAF-LCL-478CE296-D660-43BC-9F5B-04BC3E49F018_4479_1757307601_0?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
 | ↳ | Anaylst, FITE | Brampton, ON | <a href="https://careers.loblaw.ca/analyst-fite-co-op-student/job/PAF-LCL-E22B04DA-BCFF-4D63-B037-4716A69E1FB7_4479_1757307601_0?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
 | Wind River | Engineering Intern | Kanata, ON | <a href="https://jobs.jobvite.com/windriver/job/ohFhxfwu?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
