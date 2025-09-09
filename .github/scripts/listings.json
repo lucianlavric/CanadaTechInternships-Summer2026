@@ -7567,5 +7567,21 @@
         "date_posted": 1757434399,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757434427,
+        "url": "https://investpsp.wd3.myworkdayjobs.com/en-US/psp_careers/job/Montreal/Intern--Alpha-Alternatives--January---April-2026-_R4538",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "PSP",
+        "title": "Intern, Alpha Alternatives",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "5877825d-efd4-4445-a666-94f2599d0063",
+        "date_posted": 1757434427,
+        "company_url": "",
+        "is_visible": true
     }
 ]
