@@ -7599,5 +7599,21 @@
         "date_posted": 1757434463,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757434493,
+        "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Calgary-AB-CAN/BMO-Capital-Markets-Winter-2026-Global-Markets-Analyst--Commodity-Derivatives--Calgary_R250017978",
+        "locations": [
+            "Calgary, AB"
+        ],
+        "active": true,
+        "company_name": "BMO",
+        "title": "Global Markets Analyst, Commodity Derivatives",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "75d09bad-e596-46d4-8589-da20e9c9bea8",
+        "date_posted": 1757434493,
+        "company_url": "",
+        "is_visible": true
     }
 ]
