@@ -7308,5 +7308,21 @@
         "date_posted": 1757433593,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757433630,
+        "url": "https://careers.loblaw.ca/insights-analyst-co-op-student/job/PAF-LCL-478CE296-D660-43BC-9F5B-04BC3E49F018_4479_1757307601_0",
+        "locations": [
+            "Brampton, ON"
+        ],
+        "active": true,
+        "company_name": "Loblaw Digital",
+        "title": "Insights Analyst",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "c3044cc3-d568-4184-9832-28d89bec0446",
+        "date_posted": 1757433630,
+        "company_url": "",
+        "is_visible": true
     }
 ]

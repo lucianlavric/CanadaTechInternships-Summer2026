@@ -18,7 +18,8 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Loblaw Digital | Anaylst, FITE | Brampton, ON | <a href="https://careers.loblaw.ca/analyst-fite-co-op-student/job/PAF-LCL-E22B04DA-BCFF-4D63-B037-4716A69E1FB7_4479_1757307601_0?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
+| Loblaw Digital | Insights Analyst | Brampton, ON | <a href="https://careers.loblaw.ca/insights-analyst-co-op-student/job/PAF-LCL-478CE296-D660-43BC-9F5B-04BC3E49F018_4479_1757307601_0?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
+| ↳ | Anaylst, FITE | Brampton, ON | <a href="https://careers.loblaw.ca/analyst-fite-co-op-student/job/PAF-LCL-E22B04DA-BCFF-4D63-B037-4716A69E1FB7_4479_1757307601_0?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
 | Wind River | Engineering Intern | Kanata, ON | <a href="https://jobs.jobvite.com/windriver/job/ohFhxfwu?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | Vial | Software Engineer | Remote | <a href="https://app.dover.com/apply/vial/5f19be5c-d91d-4147-af1d-fb57fb874578?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | Vector Institute | Applied Machine Learning Intern | Toronto, ON | <a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=4ed2be93-8bc5-40e2-915f-931884eac404&ccId=9200420850870_2&lang=en_CA&selectedMenuKey=CareerCenter&jobId=559767&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
