@@ -6972,5 +6972,21 @@
         "date_posted": 1757399455,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757399483,
+        "url": "https://fil.wd3.myworkdayjobs.com/en-US/fidelitycanada/job/Toronto-Office/Student--IT-Architecture--Winter-2026-_J61294",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Fidelity",
+        "title": "Student, IT Architecture",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "baa43004-8fd0-40bf-8186-d95e33bbf2f3",
+        "date_posted": 1757399483,
+        "company_url": "",
+        "is_visible": true
     }
 ]
