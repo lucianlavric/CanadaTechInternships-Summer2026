@@ -6860,5 +6860,21 @@
         "date_posted": 1757399156,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757399218,
+        "url": "https://jobs.jobvite.com/windriver/job/ohFhxfwu",
+        "locations": [
+            "Kanata, ON"
+        ],
+        "active": true,
+        "company_name": "Wind River",
+        "title": "Engineering Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "cafcb17b-8379-45a8-8352-c038fe5ec8ed",
+        "date_posted": 1757399218,
+        "company_url": "",
+        "is_visible": true
     }
 ]
