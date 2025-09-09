@@ -6715,5 +6715,21 @@
         "date_posted": 1757398830,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757398865,
+        "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=4ed2be93-8bc5-40e2-915f-931884eac404&ccId=9200420850870_2&lang=en_CA&selectedMenuKey=CareerCenter&jobId=559767",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Vector Institute",
+        "title": "Applied Machine Learning Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "f2eea6e1-6588-4e5b-bfd4-40dad482db1d",
+        "date_posted": 1757398865,
+        "company_url": "",
+        "is_visible": true
     }
 ]

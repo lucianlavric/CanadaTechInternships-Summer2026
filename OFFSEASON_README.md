@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Vector Institute | Applied Machine Learning Intern | Toronto, ON | <a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=4ed2be93-8bc5-40e2-915f-931884eac404&ccId=9200420850870_2&lang=en_CA&selectedMenuKey=CareerCenter&jobId=559767&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | Manulife | Winter Co-op 2026 - Software Engineering | Waterloo, ON | <a href="https://careers.manulife.com/global/en/job/JR25081346/Winter-Co-op-2026-Software-Engineering?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | ↳ | Winter Co-op 2026 - Business Technology Analyst | Waterloo, ON | <a href="https://careers.manulife.com/global/en/job/JR25090420/Winter-Co-op-2026-Business-Technology-Analyst?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | Loblaw Digital | Software Development | Toronto, ON | <a href="https://careers.loblaw.ca/software-development-co-op-student/job/PAF-LCL-14264507-03FD-4FC3-9BB8-EAED29192875_7580_1757307601_0?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
