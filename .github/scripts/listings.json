@@ -7519,5 +7519,21 @@
         "date_posted": 1757434072,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757434102,
+        "url": "https://intelcomgroup.wd3.myworkdayjobs.com/en-US/Intelcom/job/Canada-Quebec-Montreal/AI-Data-Analyst-Intern_JR109181",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "Intelcom | Dragonfly",
+        "title": "AI Data Analyst Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "539dd03b-a5aa-47eb-985b-327a9d0f6804",
+        "date_posted": 1757434102,
+        "company_url": "",
+        "is_visible": true
     }
 ]
