@@ -7244,5 +7244,21 @@
         "date_posted": 1757400006,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757400034,
+        "url": "https://block.xyz/careers/jobs/4904198008",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Block",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "c300ec74-b575-4861-9402-316f5f941ee2",
+        "date_posted": 1757400034,
+        "company_url": "",
+        "is_visible": true
     }
 ]
