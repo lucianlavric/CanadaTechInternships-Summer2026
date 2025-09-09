@@ -6812,5 +6812,21 @@
         "date_posted": 1757399071,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757399100,
+        "url": "https://huaweicanada.recruitee.com/o/co-op-engineer-machine-learning-3",
+        "locations": [
+            "Markham, ON"
+        ],
+        "active": true,
+        "company_name": "Huawei",
+        "title": "Co-op Engineer - Machine Learning",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "0fc39c90-a7cf-4dad-a5c8-080f86cea505",
+        "date_posted": 1757399100,
+        "company_url": "",
+        "is_visible": true
     }
 ]
