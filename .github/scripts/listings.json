@@ -7212,5 +7212,21 @@
         "date_posted": 1757399942,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757399983,
+        "url": "https://careers.qualcomm.com/careers/job/446714472704",
+        "locations": [
+            "Markham, ON"
+        ],
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "Machine Learning Compiler & Performance Engineering Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "62ea7b8c-51a9-4e79-b2f6-354836ac4e1b",
+        "date_posted": 1757399983,
+        "company_url": "",
+        "is_visible": true
     }
 ]
