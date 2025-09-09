@@ -7260,5 +7260,21 @@
         "date_posted": 1757400034,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757400064,
+        "url": "https://jobs.ericsson.com/careers/job/563121772116296",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Ericsson",
+        "title": "Software Developer Co-op",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "2c575caa-2a02-457f-a6a6-1dbf571c0487",
+        "date_posted": 1757400064,
+        "company_url": "",
+        "is_visible": true
     }
 ]
