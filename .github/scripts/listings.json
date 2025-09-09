@@ -6763,5 +6763,22 @@
         "date_posted": 1757398928,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757398979,
+        "url": "https://careers.intactfc.com/software-developer-4-months-internship-coop-winter-2026/job/R148635",
+        "locations": [
+            "Montreal, QC",
+            "St-Hyacinthe, QC"
+        ],
+        "active": true,
+        "company_name": "Intact",
+        "title": "Software Developer",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "178da556-2c90-4fda-93c1-1f0ea306b86c",
+        "date_posted": 1757398979,
+        "company_url": "",
+        "is_visible": true
     }
 ]
