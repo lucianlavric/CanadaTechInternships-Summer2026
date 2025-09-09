@@ -6731,5 +6731,21 @@
         "date_posted": 1757398865,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757398903,
+        "url": "https://careers.intactfc.com/security-analyst-i-4-months-internship-coop-winter-2026/job/R148759",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Intact",
+        "title": "Security Anaylst",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "b32d85af-d91f-4050-93a6-74ba0ca49593",
+        "date_posted": 1757398903,
+        "company_url": "",
+        "is_visible": true
     }
 ]
