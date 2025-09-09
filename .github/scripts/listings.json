@@ -7292,5 +7292,21 @@
         "date_posted": 1757400146,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757433593,
+        "url": "https://careers.loblaw.ca/analyst-fite-co-op-student/job/PAF-LCL-E22B04DA-BCFF-4D63-B037-4716A69E1FB7_4479_1757307601_0",
+        "locations": [
+            "Brampton, ON"
+        ],
+        "active": true,
+        "company_name": "Loblaw Digital",
+        "title": "Anaylst, FITE",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "5f6fe9d9-8e6b-4c04-97e8-e127ee6f4b16",
+        "date_posted": 1757433593,
+        "company_url": "",
+        "is_visible": true
     }
 ]
