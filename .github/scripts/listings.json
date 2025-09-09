@@ -7471,5 +7471,21 @@
         "date_posted": 1757433987,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757434018,
+        "url": "https://intelcomgroup.wd3.myworkdayjobs.com/en-US/Intelcom/job/Canada-Quebec-Montreal/Data-Analyst-Intern_JR109229-1",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "Intelcom | Dragonfly",
+        "title": "Data Analyst Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "ed388359-727c-41dd-8f96-7c8a67986f48",
+        "date_posted": 1757434018,
+        "company_url": "",
+        "is_visible": true
     }
 ]
