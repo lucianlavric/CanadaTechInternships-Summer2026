@@ -7116,5 +7116,21 @@
         "date_posted": 1757399762,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757399794,
+        "url": "https://intelcomgroup.wd3.myworkdayjobs.com/en-US/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Consumer-Interactions_JR109212",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "Intelcom | Dragonfly",
+        "title": "Software Development Intern - Consumer Interactions",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "477e6409-5957-4efd-90c4-dec4faca0d48",
+        "date_posted": 1757399794,
+        "company_url": "",
+        "is_visible": true
     }
 ]
