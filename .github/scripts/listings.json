@@ -7276,5 +7276,21 @@
         "date_posted": 1757400064,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757400146,
+        "url": "https://jobs.lever.co/arcteryx.com/0462ac0d-c0fd-42ed-bc7c-20976b46b037",
+        "locations": [
+            "North Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "ARCTERYX",
+        "title": "Software Engineer Co-op Student",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "9e841e9b-42d3-44ac-bd26-e689a90c2941",
+        "date_posted": 1757400146,
+        "company_url": "",
+        "is_visible": true
     }
 ]
