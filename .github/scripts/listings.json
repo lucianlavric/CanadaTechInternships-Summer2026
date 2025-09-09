@@ -6796,5 +6796,21 @@
         "date_posted": 1757399014,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757399071,
+        "url": "https://huaweicanada.recruitee.com/o/co-op-researcher-web-ai",
+        "locations": [
+            "Markham, ON"
+        ],
+        "active": true,
+        "company_name": "Huawei",
+        "title": "Co-op Researcher - Web & AI",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "1bad6443-887c-4ec0-bba1-e8492912bd8c",
+        "date_posted": 1757399071,
+        "company_url": "",
+        "is_visible": true
     }
 ]
