@@ -7407,5 +7407,21 @@
         "date_posted": 1757433852,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757433894,
+        "url": "https://investpsp.wd3.myworkdayjobs.com/en-US/psp_careers/job/Montreal/Intern--Analytics-and-Model-Management--January---April-2026-_R4533",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "PSP",
+        "title": "Intern, Analytics and Model Management",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "dfe2f1ed-a317-45ee-aaf1-49bc0959e7ed",
+        "date_posted": 1757433894,
+        "company_url": "",
+        "is_visible": true
     }
 ]
