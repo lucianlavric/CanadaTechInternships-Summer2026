@@ -7356,5 +7356,21 @@
         "date_posted": 1757433713,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757433755,
+        "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=4ed2be93-8bc5-40e2-915f-931884eac404&ccId=9200420850870_2&lang=en_CA&selectedMenuKey=CareerCenter&jobId=559768",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Vector Institute",
+        "title": "Data Analytics Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "032ecd06-cb9f-4360-a17e-9ed4f4a9e726",
+        "date_posted": 1757433755,
+        "company_url": "",
+        "is_visible": true
     }
 ]
