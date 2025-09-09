@@ -7004,5 +7004,21 @@
         "date_posted": 1757399511,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757399540,
+        "url": "https://fil.wd3.myworkdayjobs.com/en-US/fidelitycanada/job/Toronto-Office/Student--IT-Automation--Winter-2026-_J61292",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Fidelity",
+        "title": "Student, IT Automation",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "e7470b21-5564-4906-87b4-eae4d324ed45",
+        "date_posted": 1757399540,
+        "company_url": "",
+        "is_visible": true
     }
 ]
