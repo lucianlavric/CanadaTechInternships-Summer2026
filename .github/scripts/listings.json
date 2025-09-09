@@ -7487,5 +7487,21 @@
         "date_posted": 1757434018,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757434048,
+        "url": "https://intelcomgroup.wd3.myworkdayjobs.com/en-US/Intelcom/job/Canada-Quebec-Montreal/Data-Analyst-Intern---Returns_JR109199",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "Intelcom | Dragonfly",
+        "title": "Data Analyst Intern - Returns",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "8d824c69-5c2b-4b7c-8eb3-cb06cc4c0f4e",
+        "date_posted": 1757434048,
+        "company_url": "",
+        "is_visible": true
     }
 ]
