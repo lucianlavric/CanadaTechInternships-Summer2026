@@ -7324,5 +7324,21 @@
         "date_posted": 1757433630,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757433680,
+        "url": "https://careers.swissre.com/job/Toronto-Actuarial-Intern-%28Summer-2026%29-ON/1244346601",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Swiss Re",
+        "title": "Actuarial Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "a414f36b-5364-446c-9b65-3d2878e6a08b",
+        "date_posted": 1757433680,
+        "company_url": "",
+        "is_visible": true
     }
 ]
