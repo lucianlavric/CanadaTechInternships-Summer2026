@@ -7953,5 +7953,21 @@
         "date_posted": 1757473312,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757473332,
+        "url": "https://jobs.lever.co/super-com/c18e17b5-595d-4846-9c6e-3dbcbfd14eea",
+        "locations": [
+            "Remote"
+        ],
+        "active": true,
+        "company_name": "Super.com",
+        "title": "Data Analyst Intern",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "59f0c8da-6dac-4425-9abd-61577a695020",
+        "date_posted": 1757473332,
+        "company_url": "",
+        "is_visible": true
     }
 ]
