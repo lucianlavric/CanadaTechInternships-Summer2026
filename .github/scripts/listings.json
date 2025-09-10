@@ -7824,5 +7824,21 @@
         "date_posted": 1757472911,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757472939,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineering-AI-Automation-Intern/210718",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "EA",
+        "title": "Software Engineering \u2013 AI Automation Intern",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "866e7c9c-989f-47c4-9f39-f1dfee472c56",
+        "date_posted": 1757472939,
+        "company_url": "",
+        "is_visible": true
     }
 ]
