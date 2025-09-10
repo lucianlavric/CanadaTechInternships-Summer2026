@@ -7985,5 +7985,21 @@
         "date_posted": 1757473358,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757473399,
+        "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Quantitative-Analyst--Data-Science---Winter-2026--Co-op-Internship----4-Months_R250022881",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "BMO",
+        "title": "Quantitative Analyst, Data Science - Winter 2026 (Co-op/Internship) - 4 Months",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "078953cd-e1aa-4fc9-9246-a540022ff5f1",
+        "date_posted": 1757473399,
+        "company_url": "",
+        "is_visible": true
     }
 ]
