@@ -7969,5 +7969,21 @@
         "date_posted": 1757473332,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757473358,
+        "url": "https://careers.manulife.com/global/en/job/MFZMFIUSJR25090576EXTERNALENGLOBAL/Summer-Intern-Co-op-2026-Data-Science",
+        "locations": [
+            "Waterloo, ON"
+        ],
+        "active": true,
+        "company_name": "Manulife",
+        "title": "Summer Intern/Co-op 2026 \u2013 Data Science",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "15490955-cea5-46b5-a019-0560ba0a9956",
+        "date_posted": 1757473358,
+        "company_url": "",
+        "is_visible": true
     }
 ]
