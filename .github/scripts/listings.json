@@ -7905,5 +7905,21 @@
         "date_posted": 1757473136,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757473167,
+        "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Software-Automation-Test-Engineer--Co-op-Student-Intern-_20251450",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Lumentum",
+        "title": "Software Automation Test Engineer (Co-op Student/Intern)",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "8470a3e7-900e-4689-931e-7877fff0284a",
+        "date_posted": 1757473167,
+        "company_url": "",
+        "is_visible": true
     }
 ]
