@@ -7872,5 +7872,22 @@
         "date_posted": 1757472997,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757473081,
+        "url": "https://careers.intactfc.com/test-automation-developer-4-months-internship-coop-winter-2026/job/R148718",
+        "locations": [
+            "Montreal, QC",
+            "St-Hyacinthe, QC"
+        ],
+        "active": true,
+        "company_name": "Intact",
+        "title": "Test Automation Developer \u2013 4 months Internship/Coop (Winter 2026)",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "d9ec8063-a3e4-42bc-9a42-64239023815e",
+        "date_posted": 1757473081,
+        "company_url": "",
+        "is_visible": true
     }
 ]
