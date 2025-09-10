@@ -7647,5 +7647,22 @@
         "date_posted": 1757472559,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757472591,
+        "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/fr-CA/sites/CX_2001/job/73022",
+        "locations": [
+            "Vancouver, BC",
+            "Calgary, AB"
+        ],
+        "active": true,
+        "company_name": "WSP",
+        "title": "Intern, Systems Engineering - Winter 2026",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "e0428f76-290d-4f02-b0cc-9eb345ca10dc",
+        "date_posted": 1757472591,
+        "company_url": "",
+        "is_visible": true
     }
 ]
