@@ -7728,5 +7728,21 @@
         "date_posted": 1757472700,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757472751,
+        "url": "https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/Canada---St-Johns---Newfoundland--Labrador/Technical-Analyst-Student--January-2026-_R0023535",
+        "locations": [
+            "St. Johns, Newfoundland & Labrador"
+        ],
+        "active": true,
+        "company_name": "Nasdaq",
+        "title": "Technical Analyst Student (January 2026)",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "9d2d2487-5ec5-4370-9611-3ed8910ea8e3",
+        "date_posted": 1757472751,
+        "company_url": "",
+        "is_visible": true
     }
 ]
