@@ -7840,5 +7840,21 @@
         "date_posted": 1757472939,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757472973,
+        "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Software-Analyst-Intern--12-or-16months-_R1009576",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Hitachi Rail",
+        "title": "Software Analyst Intern (8 or 12months)",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "1c18dcee-9cad-4140-8cb3-34a7bccc2ffa",
+        "date_posted": 1757472973,
+        "company_url": "",
+        "is_visible": true
     }
 ]
