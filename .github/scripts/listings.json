@@ -7744,5 +7744,21 @@
         "date_posted": 1757472751,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757472793,
+        "url": "https://jobs.lever.co/super-com/d5131822-e8cd-4425-97e2-171f8fedeccf",
+        "locations": [
+            "Remote"
+        ],
+        "active": true,
+        "company_name": "Super.com",
+        "title": "Data Engineering Intern",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "ff53e415-75a9-4d92-a4e3-b90a0e48141b",
+        "date_posted": 1757472793,
+        "company_url": "",
+        "is_visible": true
     }
 ]
