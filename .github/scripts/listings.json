@@ -7631,5 +7631,21 @@
         "date_posted": 1757434537,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757472559,
+        "url": "https://carriere.soucy-group.com/en/annonce/3948159-programming-intern-winter-2026-j2e-0b4-drummondville",
+        "locations": [
+            "Drummondville, QC"
+        ],
+        "active": true,
+        "company_name": "Soucy",
+        "title": "Programming Intern (Winter 2026)",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "abd86c6b-14e5-428b-b528-31a8bac09bee",
+        "date_posted": 1757472559,
+        "company_url": "",
+        "is_visible": true
     }
 ]
