@@ -7937,5 +7937,21 @@
         "date_posted": 1757473258,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757473312,
+        "url": "https://jobs.lever.co/super-com/d6752e6d-9786-41a7-aeb8-261b088bd40a",
+        "locations": [
+            "Remote"
+        ],
+        "active": true,
+        "company_name": "Super.com",
+        "title": "Data Analyst Intern, Risk & Fraud (8 months)",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "07d249b1-5297-41c3-820e-337feda34308",
+        "date_posted": 1757473312,
+        "company_url": "",
+        "is_visible": true
     }
 ]
