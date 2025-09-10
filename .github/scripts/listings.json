@@ -7889,5 +7889,21 @@
         "date_posted": 1757473081,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757473136,
+        "url": "https://jobs.thermofisher.com/global/en/job/R-01328026/Data-Automation-Co-op",
+        "locations": [
+            "Mississauga, ON"
+        ],
+        "active": true,
+        "company_name": "ThermoFisher",
+        "title": "Data Automation Co-op",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "b6d97947-2d31-4952-93ae-4c8b2d8f364d",
+        "date_posted": 1757473136,
+        "company_url": "",
+        "is_visible": true
     }
 ]
