@@ -7712,5 +7712,21 @@
         "date_posted": 1757472656,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757472700,
+        "url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Canada---St-Johns---Newfoundland--Labrador/Cloud-Administrator-Student--January-2026-_R0023550",
+        "locations": [
+            "St. John's, Newfoundland & Labrador"
+        ],
+        "active": true,
+        "company_name": "Nasdaq",
+        "title": "Cloud Administrator Student (January 2026)",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "52373987-ab48-4de3-9521-21ec79dbb203",
+        "date_posted": 1757472700,
+        "company_url": "",
+        "is_visible": true
     }
 ]
