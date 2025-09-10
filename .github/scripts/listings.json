@@ -7664,5 +7664,21 @@
         "date_posted": 1757472591,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757472617,
+        "url": "https://jobs.rbc.com/ca/en/job/RBCAA0088R0000140066EXTERNALENCA/2026-Winter-Student-Data-Scientist-Engineer-Intern-8-months",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "RBC",
+        "title": "2026 Winter Student \u2013 Data Scientist/Engineer Intern (8 months)",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "b78282e0-f62d-4946-a94b-24e97db31805",
+        "date_posted": 1757472617,
+        "company_url": "",
+        "is_visible": true
     }
 ]
