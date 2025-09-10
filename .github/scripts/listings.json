@@ -7808,5 +7808,21 @@
         "date_posted": 1757472867,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757472911,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/ML-Engineering-Intern/210720",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "EA",
+        "title": "ML Engineering Intern",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "ae743741-22f5-4275-aaf7-b84682ee1edb",
+        "date_posted": 1757472911,
+        "company_url": "",
+        "is_visible": true
     }
 ]
