@@ -7921,5 +7921,21 @@
         "date_posted": 1757473167,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757473258,
+        "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Automation-Tools-Developer-Co-op--Winter-2026-_R028801",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Ciena",
+        "title": "Automation Tools Developer Co-op (Winter 2026)",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "66a26b83-6b0d-4437-8ce1-24b366ac7d80",
+        "date_posted": 1757473258,
+        "company_url": "",
+        "is_visible": true
     }
 ]
