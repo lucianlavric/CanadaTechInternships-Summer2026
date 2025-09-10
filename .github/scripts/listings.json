@@ -7776,5 +7776,21 @@
         "date_posted": 1757472821,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757472846,
+        "url": "https://jobs.lever.co/super-com/c1185562-44a1-4b02-b945-c7c18ec3f1de",
+        "locations": [
+            "Remote"
+        ],
+        "active": true,
+        "company_name": "Super.com",
+        "title": "Software Engineering Intern - Infrastructure (DevOps)",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "9ed8e259-7acb-4125-a09f-faacce9effcc",
+        "date_posted": 1757472846,
+        "company_url": "",
+        "is_visible": true
     }
 ]
