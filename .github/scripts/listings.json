@@ -8162,5 +8162,21 @@
         "date_posted": 1757562496,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757562544,
+        "url": "https://jobs.ericsson.com/careers/job/563121772134625",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "Ericsson",
+        "title": "EVCN Test and Development Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "d6b157ab-0439-4cd8-b378-8ca9b1f13309",
+        "date_posted": 1757562544,
+        "company_url": "",
+        "is_visible": true
     }
 ]
