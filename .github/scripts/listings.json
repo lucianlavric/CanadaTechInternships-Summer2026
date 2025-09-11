@@ -8049,5 +8049,21 @@
         "date_posted": 1757562107,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757562157,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23981",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Software Developer Tester",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "7a04771f-7fe0-4234-b87b-0a087b133c21",
+        "date_posted": 1757562157,
+        "company_url": "",
+        "is_visible": true
     }
 ]
