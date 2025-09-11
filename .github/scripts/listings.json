@@ -8081,5 +8081,22 @@
         "date_posted": 1757562232,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757562270,
+        "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/73022",
+        "locations": [
+            "Vancouver, BC",
+            "Calgary, AB"
+        ],
+        "active": true,
+        "company_name": "WSP",
+        "title": "Intern, Systems Engineering",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "d22e31f5-aa6e-4b3c-bafd-5ca20881f0ef",
+        "date_posted": 1757562270,
+        "company_url": "",
+        "is_visible": true
     }
 ]
