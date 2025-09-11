@@ -8178,5 +8178,21 @@
         "date_posted": 1757562544,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757562693,
+        "url": "https://careers.hpe.com/us/en/job/1193426/Cloud-developer-Intern---Stagiaire-d%25C3%25A9veloppeur-infonuagique",
+        "locations": [
+            "St Laurent, QC"
+        ],
+        "active": true,
+        "company_name": "HPE",
+        "title": "Cloud developer Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "12eb24df-1e5e-492d-96cf-7c685f8d456f",
+        "date_posted": 1757562693,
+        "company_url": "",
+        "is_visible": true
     }
 ]
