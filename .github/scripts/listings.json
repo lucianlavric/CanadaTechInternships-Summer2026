@@ -8227,5 +8227,23 @@
         "date_posted": 1757562829,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757563024,
+        "url": "https://careers.intactfc.com/security-analyst-4-months-internship-coop-winter-2026/job/R148775",
+        "locations": [
+            "Montreal, QC",
+            "St-Hyacinthe, QC",
+            "Laval, QC"
+        ],
+        "active": true,
+        "company_name": "Intact",
+        "title": "Security Analyst",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "b1ef7375-485a-4d0b-a2b0-6bfb23cbd519",
+        "date_posted": 1757563024,
+        "company_url": "",
+        "is_visible": true
     }
 ]
