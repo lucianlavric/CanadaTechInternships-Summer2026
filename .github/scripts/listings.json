@@ -8065,5 +8065,21 @@
         "date_posted": 1757562157,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757562232,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24094",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Engineering Lab Technician",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "244b5cc8-2736-4589-8d0a-b3b58f16bd07",
+        "date_posted": 1757562232,
+        "company_url": "",
+        "is_visible": true
     }
 ]
