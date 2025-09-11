@@ -8130,5 +8130,21 @@
         "date_posted": 1757562372,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757562426,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Ontario-CAN---Remote/Intern--Software-Developer_25WD91423-2",
+        "locations": [
+            "Remote"
+        ],
+        "active": true,
+        "company_name": "Autodesk",
+        "title": "Software Developer",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "f92db5cb-23e6-4acd-992a-74a36e702326",
+        "date_posted": 1757562426,
+        "company_url": "",
+        "is_visible": true
     }
 ]
