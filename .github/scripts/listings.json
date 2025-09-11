@@ -8245,5 +8245,21 @@
         "date_posted": 1757563024,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757563057,
+        "url": "https://jobs.ashbyhq.com/cohere/25cc6633-614a-45e0-8632-ffd4a2475c9b",
+        "locations": [
+            "Remote"
+        ],
+        "active": true,
+        "company_name": "Cohere",
+        "title": "Machine Learning Intern/Co-op",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "83b76be6-0fa9-4f5b-8c1a-91a57106e5d2",
+        "date_posted": 1757563057,
+        "company_url": "",
+        "is_visible": true
     }
 ]
