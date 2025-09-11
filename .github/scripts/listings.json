@@ -8146,5 +8146,21 @@
         "date_posted": 1757562426,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757562496,
+        "url": "https://jobs.ericsson.com/careers/job/563121772116841",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "Ericsson",
+        "title": "Software Developer",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "4dffa3f1-0cf3-415b-8222-3115c3fa5c9a",
+        "date_posted": 1757562496,
+        "company_url": "",
+        "is_visible": true
     }
 ]
