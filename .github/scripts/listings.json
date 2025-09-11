@@ -8261,5 +8261,21 @@
         "date_posted": 1757563057,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757563089,
+        "url": "https://jobs.ashbyhq.com/cohere/1bc2c535-2f42-454e-aebe-9c018575ce7b",
+        "locations": [
+            "Remote"
+        ],
+        "active": true,
+        "company_name": "Cohere",
+        "title": "Software Engineer Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "ddfca041-a8c8-4eae-b5ed-30d69fe460e9",
+        "date_posted": 1757563089,
+        "company_url": "",
+        "is_visible": true
     }
 ]
