@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Ericsson | Data Science Co-op | Montreal, QC | <a href="https://jobs.ericsson.com/careers/job/563121767223022?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
 | WSP | Intern, Systems Engineering - Winter 2026 | Vancouver, BC</br>Calgary, AB | <a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/fr-CA/sites/CX_2001/job/73022?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
 | Vector Institute | Data Analytics Intern | Toronto, ON | <a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=4ed2be93-8bc5-40e2-915f-931884eac404&ccId=9200420850870_2&lang=en_CA&selectedMenuKey=CareerCenter&jobId=559768&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
 | ThermoFisher | Data Automation Co-op | Mississauga, ON | <a href="https://jobs.thermofisher.com/global/en/job/R-01328026/Data-Automation-Co-op?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |

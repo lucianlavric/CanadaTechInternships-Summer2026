@@ -8001,5 +8001,21 @@
         "date_posted": 1757473399,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757562013,
+        "url": "https://jobs.ericsson.com/careers/job/563121767223022",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "Ericsson",
+        "title": "Data Science Co-op",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "fdd2d61d-37ff-499d-a21a-83ff33255ae4",
+        "date_posted": 1757562013,
+        "company_url": "",
+        "is_visible": true
     }
 ]
