@@ -8194,5 +8194,22 @@
         "date_posted": 1757562693,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757562760,
+        "url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Canada---St-Johns---Newfoundland--Labrador/Software-Development-Student--January-2026-_R0023537",
+        "locations": [
+            "St Johns, NL",
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Nasdaq",
+        "title": "Software Development Student",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "254d1b92-eb04-4871-a5a3-958efccfbee7",
+        "date_posted": 1757562760,
+        "company_url": "",
+        "is_visible": true
     }
 ]
