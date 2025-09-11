@@ -8114,5 +8114,21 @@
         "date_posted": 1757562317,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757562372,
+        "url": "https://careers.omers.com/ca/en/job/JR-7502/Student-Data-Engineer-Finance-Transformation-Winter-2026-4-Months",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "OMERS",
+        "title": "Student Data Engineer, Finance Transformation",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "e4bd8bfb-1010-4111-a949-9abd0649474f",
+        "date_posted": 1757562372,
+        "company_url": "",
+        "is_visible": true
     }
 ]
