@@ -8211,5 +8211,21 @@
         "date_posted": 1757562760,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757562829,
+        "url": "https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Concur-Spend-Software-Developer-Vancouver-Brit-V6B-1A9/1246225601",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "SAP",
+        "title": "Concur Spend Software Developer",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "e05b36a1-7c67-47e8-9162-cbcc2ac71ca5",
+        "date_posted": 1757562829,
+        "company_url": "",
+        "is_visible": true
     }
 ]
