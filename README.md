@@ -26,6 +26,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Equitable | IT Infrastructure | Waterloo, ON | <a href="https://jobs.dayforcehcm.com/en-US/equitable/CANDIDATEPORTAL/jobs/16217?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
 | Swiss Re | Actuarial Intern | Toronto, ON | <a href="https://careers.swissre.com/job/Toronto-Actuarial-Intern-%28Summer-2026%29-ON/1244346601?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
 | PSP | Intern, Alpha Alternatives | Montreal, QC | <a href="https://investpsp.wd3.myworkdayjobs.com/en-US/psp_careers/job/Montreal/Intern--Alpha-Alternatives--May---August-2026-_R4542?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
 | Manulife | Summer Intern/Co-op 2026 – Data Science | Waterloo, ON | <a href="https://careers.manulife.com/global/en/job/MFZMFIUSJR25090576EXTERNALENGLOBAL/Summer-Intern-Co-op-2026-Data-Science?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
