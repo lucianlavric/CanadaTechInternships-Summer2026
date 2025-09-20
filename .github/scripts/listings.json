@@ -8293,5 +8293,21 @@
         "date_posted": 1758402821,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758402996,
+        "url": "https://careers.amd.com/careers-home/jobs/71648",
+        "locations": [
+            "Markham, ON"
+        ],
+        "active": true,
+        "company_name": "AMD",
+        "title": "Long Term Diagnostics Design Engineering Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "08cb77e5-9110-4b4e-a6d8-28869ae411cf",
+        "date_posted": 1758402996,
+        "company_url": "",
+        "is_visible": true
     }
 ]
