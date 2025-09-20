@@ -8838,5 +8838,21 @@
         "date_posted": 1758406081,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758406113,
+        "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/FPGA-Development-Intern--Summer-2026-_R028919",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Ciena",
+        "title": "FPGA Development Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "d61ddd8f-816f-4226-94f0-81341e7de9b6",
+        "date_posted": 1758406113,
+        "company_url": "",
+        "is_visible": true
     }
 ]
