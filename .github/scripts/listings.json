@@ -8950,5 +8950,22 @@
         "date_posted": 1758406362,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758406399,
+        "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Software-Engineer---Full-Stack-Web-Development--Winter-2026-_JR00115064",
+        "locations": [
+            "Toronto, ON",
+            "Waterloo, ON"
+        ],
+        "active": true,
+        "company_name": "Sunlife",
+        "title": "Software Engineer - Full Stack Web Development",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "a6aaee4e-dab0-48a4-9415-de8d82b98197",
+        "date_posted": 1758406399,
+        "company_url": "",
+        "is_visible": true
     }
 ]
