@@ -9176,5 +9176,21 @@
         "date_posted": 1758406906,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758406935,
+        "url": "https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Concur-Travel-AI-Software-Developer-Vancouver-Brit-V6B-1A9/1249517101",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "SAP",
+        "title": "Concur Travel AI Software Developer",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "53750fc7-c459-48a3-b531-6b3107dd2781",
+        "date_posted": 1758406935,
+        "company_url": "",
+        "is_visible": true
     }
 ]
