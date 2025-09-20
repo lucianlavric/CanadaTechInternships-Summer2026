@@ -9080,5 +9080,21 @@
         "date_posted": 1758406609,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758406698,
+        "url": "https://jobs.sap.com/job/Waterloo-SAP-iXp-Intern-Product-Manager-ON-N2L6R2/1247957101",
+        "locations": [
+            "Waterloo, ON"
+        ],
+        "active": true,
+        "company_name": "SAP",
+        "title": "Product Manager",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "b5e30e9a-7c61-4812-8958-535fc73473aa",
+        "date_posted": 1758406698,
+        "company_url": "",
+        "is_visible": true
     }
 ]
