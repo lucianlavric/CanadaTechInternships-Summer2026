@@ -8918,5 +8918,21 @@
         "date_posted": 1758406242,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758406323,
+        "url": "https://condoauthorityontario.bamboohr.com/careers/233",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Condominium Authority of Ontario (CAO)",
+        "title": "Artificial Intelligence Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "38d87070-0f76-4222-ba55-5f059ac714fc",
+        "date_posted": 1758406323,
+        "company_url": "",
+        "is_visible": true
     }
 ]
