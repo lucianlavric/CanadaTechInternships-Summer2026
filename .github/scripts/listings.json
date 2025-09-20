@@ -9160,5 +9160,21 @@
         "date_posted": 1758406820,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758406906,
+        "url": "https://careers-kinaxis.icims.com/jobs/33735/co-op-intern-associate-software-developer/job?mobile=false&width=1195&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Kinaxis",
+        "title": "Intern Associate Software Developer",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "053d732b-7bef-4ee8-82b2-bf61f5ff421b",
+        "date_posted": 1758406906,
+        "company_url": "",
+        "is_visible": true
     }
 ]
