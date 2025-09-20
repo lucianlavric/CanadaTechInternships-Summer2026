@@ -8822,5 +8822,21 @@
         "date_posted": 1758406042,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758406081,
+        "url": "https://semtech.wd1.myworkdayjobs.com/en-US/SemtechCareers/job/CAN---Ottawa-ON/Validation-Engineering-Intern_REQ2904-2",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Semtech",
+        "title": "Validation Engineering Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "af7c9f63-4961-4071-97d0-8d6cdea61be2",
+        "date_posted": 1758406081,
+        "company_url": "",
+        "is_visible": true
     }
 ]
