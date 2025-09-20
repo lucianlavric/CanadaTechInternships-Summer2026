@@ -8501,5 +8501,21 @@
         "date_posted": 1758403779,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758403843,
+        "url": "https://careers.arm.com/job/toronto/intern-soc-and-ip-engineering/33099/86234814208",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Arm",
+        "title": "Intern SoC and IP Engineering",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "b4d0449b-2f64-4f37-ba66-f5b9e52320c8",
+        "date_posted": 1758403843,
+        "company_url": "",
+        "is_visible": true
     }
 ]
