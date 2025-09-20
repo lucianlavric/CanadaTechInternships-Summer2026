@@ -26,7 +26,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| AMD | Long Term Diagnostics Design Engineering Intern | Markham, ON | <a href="https://careers.amd.com/careers-home/jobs/71648?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
+| AMD | Long Term Software Engineering Intern | Markham, ON | <a href="https://careers.amd.com/careers-home/jobs/71650?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
+| ↳ | Long Term Diagnostics Design Engineering Intern | Markham, ON | <a href="https://careers.amd.com/careers-home/jobs/71648?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | ↳ | Long Term Firmware Engineering Intern | Markham, ON | <a href="https://careers.amd.com/careers-home/jobs/71645?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | Equitable | IT Infrastructure | Waterloo, ON | <a href="https://jobs.dayforcehcm.com/en-US/equitable/CANDIDATEPORTAL/jobs/16217?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
 | Swiss Re | Actuarial Intern | Toronto, ON | <a href="https://careers.swissre.com/job/Toronto-Actuarial-Intern-%28Summer-2026%29-ON/1244346601?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
