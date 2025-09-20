@@ -8870,5 +8870,21 @@
         "date_posted": 1758406136,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758406178,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Intern--Full-Stack-Software-Engineer_25WD91660-1",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Autodesk",
+        "title": "Full Stack Software Engineer",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "8955624f-d4de-444c-a05b-8ca51653418d",
+        "date_posted": 1758406178,
+        "company_url": "",
+        "is_visible": true
     }
 ]
