@@ -9096,5 +9096,21 @@
         "date_posted": 1758406698,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758406757,
+        "url": "https://careers.amd.com/careers-home/jobs/71663",
+        "locations": [
+            "Calgary, AB"
+        ],
+        "active": true,
+        "company_name": "AMD",
+        "title": "Long Term Product Management Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "6fad4f84-4bc2-48d7-b241-c8560a2d02dc",
+        "date_posted": 1758406757,
+        "company_url": "",
+        "is_visible": true
     }
 ]
