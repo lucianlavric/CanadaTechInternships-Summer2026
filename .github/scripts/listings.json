@@ -8967,5 +8967,22 @@
         "date_posted": 1758406399,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758406419,
+        "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Application-Security-Analyst--Winter-2026-_JR00115798",
+        "locations": [
+            "Toronto, ON",
+            "Waterloo, ON"
+        ],
+        "active": true,
+        "company_name": "Sunlife",
+        "title": "Application Security Analyst",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "5a3378db-d8d0-4621-9ba0-092cbdc2239b",
+        "date_posted": 1758406419,
+        "company_url": "",
+        "is_visible": true
     }
 ]
