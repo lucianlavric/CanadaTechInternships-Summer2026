@@ -9064,5 +9064,21 @@
         "date_posted": 1758406572,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758406609,
+        "url": "https://careers.amd.com/careers-home/jobs/71705",
+        "locations": [
+            "Markham, ON"
+        ],
+        "active": true,
+        "company_name": "AMD",
+        "title": "Data Analyst Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "f7158c23-4818-45df-85df-bb69e4b640be",
+        "date_posted": 1758406609,
+        "company_url": "",
+        "is_visible": true
     }
 ]
