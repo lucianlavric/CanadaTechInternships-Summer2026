@@ -9256,5 +9256,21 @@
         "date_posted": 1758407092,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758407126,
+        "url": "https://www.bnpparibas.ca/en/jobs/portfolio-analytics-modelling-intern-summer-2026/",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "BNP PARIBAS",
+        "title": "Portfolio Analytics & Modelling Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "91bbb764-cf4d-4fbc-8db1-66aaddb93370",
+        "date_posted": 1758407126,
+        "company_url": "",
+        "is_visible": true
     }
 ]
