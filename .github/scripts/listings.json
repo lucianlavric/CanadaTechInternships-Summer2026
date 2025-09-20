@@ -9192,5 +9192,21 @@
         "date_posted": 1758406935,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758406992,
+        "url": "https://huaweicanada.recruitee.com/o/co-op-engineer-cloud-database-devops",
+        "locations": [
+            "Markham, ON"
+        ],
+        "active": true,
+        "company_name": "Huawei",
+        "title": "Co-op Engineer - Cloud Database DevOps",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "e71a20e5-11c8-4a6e-8bde-6b517cd892eb",
+        "date_posted": 1758406992,
+        "company_url": "",
+        "is_visible": true
     }
 ]
