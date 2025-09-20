@@ -9048,5 +9048,21 @@
         "date_posted": 1758406534,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758406572,
+        "url": "https://kohler.csod.com/ux/ats/careersite/16/home/requisition/68525?c=kohler&sq=req68525",
+        "locations": [
+            "Vaughan, ON"
+        ],
+        "active": true,
+        "company_name": "Kohler",
+        "title": "Intern - Data Analytics",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "19d8048a-db42-4b2f-a1fe-7b261094aa15",
+        "date_posted": 1758406572,
+        "company_url": "",
+        "is_visible": true
     }
 ]
