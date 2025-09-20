@@ -8469,5 +8469,21 @@
         "date_posted": 1758403555,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758403751,
+        "url": "https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=eeef2580-ee47-4604-9294-7d36634a166a&sourceId=7aa1ba8b-9eaf-4265-9936-402a84fee03f",
+        "locations": [
+            "Halifax, NS"
+        ],
+        "active": true,
+        "company_name": "MDA Space",
+        "title": "Engineering Student, Software (SKA)",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "e8330f19-f546-4711-88cf-9afd576a57f2",
+        "date_posted": 1758403751,
+        "company_url": "",
+        "is_visible": true
     }
 ]
