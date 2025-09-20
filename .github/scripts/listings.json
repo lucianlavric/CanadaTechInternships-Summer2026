@@ -8565,5 +8565,21 @@
         "date_posted": 1758404193,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758404258,
+        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Application-Software-Developer-Co-op---Enterprise-Technology---Business-Management_2521368",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "CIBC",
+        "title": "Application/Software Developer Co-op - Enterprise Technology & Business Management",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "275a6d60-902d-4b30-8903-43b0f0057eeb",
+        "date_posted": 1758404258,
+        "company_url": "",
+        "is_visible": true
     }
 ]
