@@ -8517,5 +8517,21 @@
         "date_posted": 1758403843,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758403879,
+        "url": "https://www.careers.jnj.com/en/jobs/r-032603/ai-digital-innovation-associate-2026-summer-internship/",
+        "locations": [
+            "Markham, ON"
+        ],
+        "active": true,
+        "company_name": "Johnson & Johnson",
+        "title": "AI & Digital Innovation Associate",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "629aeb1f-1e32-49e2-9f1c-72cae6725300",
+        "date_posted": 1758403879,
+        "company_url": "",
+        "is_visible": true
     }
 ]
