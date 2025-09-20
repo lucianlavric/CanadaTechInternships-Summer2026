@@ -8437,5 +8437,21 @@
         "date_posted": 1758403465,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758403496,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24830",
+        "locations": [
+            "Kanata, ON"
+        ],
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Embedded C/C++ SW Developer Co-op/Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "305d563e-039f-476e-936d-6e8e62169ece",
+        "date_posted": 1758403496,
+        "company_url": "",
+        "is_visible": true
     }
 ]
