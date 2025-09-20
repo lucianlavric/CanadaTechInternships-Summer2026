@@ -8742,5 +8742,21 @@
         "date_posted": 1758405793,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758405818,
+        "url": "https://careers.amd.com/careers-home/jobs/71715",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "AMD",
+        "title": "Hardware Design Verification Engineering Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "7d83f23c-8c7d-41c5-b1b1-f836ff91275f",
+        "date_posted": 1758405818,
+        "company_url": "",
+        "is_visible": true
     }
 ]
