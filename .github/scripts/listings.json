@@ -8886,5 +8886,21 @@
         "date_posted": 1758406178,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758406214,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Logiciel--Intern-Software-Developer_25WD89818-1",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "Autodesk",
+        "title": "Intern Software Developer",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "1def7b35-1573-4c85-afd1-8b916be7121a",
+        "date_posted": 1758406214,
+        "company_url": "",
+        "is_visible": true
     }
 ]
