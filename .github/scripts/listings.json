@@ -8341,5 +8341,21 @@
         "date_posted": 1758403197,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758403244,
+        "url": "https://careers.amd.com/careers-home/jobs/71640",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "AMD",
+        "title": "Long Term Hardware Design Engineering Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "100608d7-17f6-4667-bf25-90e6362c116d",
+        "date_posted": 1758403244,
+        "company_url": "",
+        "is_visible": true
     }
 ]
