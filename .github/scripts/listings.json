@@ -8533,5 +8533,21 @@
         "date_posted": 1758403879,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758403997,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Intern--Software-Quality-Assurance_25WD91659",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "Autodesk",
+        "title": "Software Quality Assurance",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "2a61aaf2-34e0-4e04-89c3-e33588fe5963",
+        "date_posted": 1758403997,
+        "company_url": "",
+        "is_visible": true
     }
 ]
