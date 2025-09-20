@@ -8774,5 +8774,21 @@
         "date_posted": 1758405900,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758405959,
+        "url": "https://semtech.wd1.myworkdayjobs.com/en-US/SemtechCareers/job/CAN---Burlington-ON/Analog-Design-Engineer-Intern_REQ2910-2",
+        "locations": [
+            "Burlington, ON"
+        ],
+        "active": true,
+        "company_name": "Semtech",
+        "title": "Analog Design Engineer Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "6ff91662-5184-4852-ab33-9eaf4a55c717",
+        "date_posted": 1758405959,
+        "company_url": "",
+        "is_visible": true
     }
 ]
