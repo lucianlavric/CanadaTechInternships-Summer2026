@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Zurich | Winter IT Internship/Co-op | Remote | <a href="https://www.careers.zurich.com/job/Toronto-Winter-IT-InternshipCo-op-ON/1325843957?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | WSP | Intern, Systems Engineering | Vancouver, BC</br>Calgary, AB | <a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/73022?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
 | SAP | Concur Spend Software Developer | Vancouver, BC | <a href="https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Concur-Spend-Software-Developer-Vancouver-Brit-V6B-1A9/1246225601?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
 | OMERS | Student Data Engineer, Finance Transformation | Toronto, ON | <a href="https://careers.omers.com/ca/en/job/JR-7502/Student-Data-Engineer-Finance-Transformation-Winter-2026-4-Months?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |

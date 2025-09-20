@@ -8421,5 +8421,21 @@
         "date_posted": 1758403347,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758403465,
+        "url": "https://www.careers.zurich.com/job/Toronto-Winter-IT-InternshipCo-op-ON/1325843957",
+        "locations": [
+            "Remote"
+        ],
+        "active": true,
+        "company_name": "Zurich",
+        "title": "Winter IT Internship/Co-op",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "717935fa-ea6d-425d-ae85-c2afaea256a8",
+        "date_posted": 1758403465,
+        "company_url": "",
+        "is_visible": true
     }
 ]
