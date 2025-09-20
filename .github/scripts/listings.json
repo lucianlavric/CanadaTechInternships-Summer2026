@@ -9272,5 +9272,21 @@
         "date_posted": 1758407126,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758407211,
+        "url": "https://huaweicanada.recruitee.com/o/co-op-engineer-data-scientist",
+        "locations": [
+            "Markham, ON"
+        ],
+        "active": true,
+        "company_name": "Huawei",
+        "title": "Co-op Engineer - Data Scientist",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "38671a81-0c9b-450c-9280-7cf2ceefdfbc",
+        "date_posted": 1758407211,
+        "company_url": "",
+        "is_visible": true
     }
 ]
