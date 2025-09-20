@@ -8485,5 +8485,21 @@
         "date_posted": 1758403751,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758403779,
+        "url": "https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=67ec4036-d0f1-4b99-8eb5-bcf09761a866&sourceId=7aa1ba8b-9eaf-4265-9936-402a84fee03f",
+        "locations": [
+            "Brampton, ON"
+        ],
+        "active": true,
+        "company_name": "MDA Space",
+        "title": "Engineering Student - Software Developer",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "01c02e36-81a5-4f27-becd-9e7a1e81610c",
+        "date_posted": 1758403779,
+        "company_url": "",
+        "is_visible": true
     }
 ]
