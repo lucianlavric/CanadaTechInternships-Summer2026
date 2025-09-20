@@ -8357,5 +8357,21 @@
         "date_posted": 1758403244,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758403269,
+        "url": "https://careers.amd.com/careers-home/jobs/71638",
+        "locations": [
+            "Markham, ON"
+        ],
+        "active": true,
+        "company_name": "AMD",
+        "title": "Long Term Software Engineering Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "cdeddcdc-6582-4d95-8c65-4fb20e7621be",
+        "date_posted": 1758403269,
+        "company_url": "",
+        "is_visible": true
     }
 ]
