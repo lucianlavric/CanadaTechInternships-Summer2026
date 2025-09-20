@@ -8453,5 +8453,21 @@
         "date_posted": 1758403496,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758403555,
+        "url": "https://careers.l3harris.com/en/job/-/-/4832/85414807440",
+        "locations": [
+            "Waterdown, ON"
+        ],
+        "active": true,
+        "company_name": "L3Harris",
+        "title": "Embedded Software Developer Co-op",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "8fb2a908-3777-473e-bebc-d56a0f24eaac",
+        "date_posted": 1758403555,
+        "company_url": "",
+        "is_visible": true
     }
 ]

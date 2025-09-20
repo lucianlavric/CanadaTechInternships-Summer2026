@@ -26,6 +26,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| L3Harris | Embedded Software Developer Co-op | Waterdown, ON | <a href="https://careers.l3harris.com/en/job/-/-/4832/85414807440?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | AMD | Long Term Graphics Software Engineering Intern | Markham, ON | <a href="https://careers.amd.com/careers-home/jobs/71647?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | ↳ | Long Term Hardware Design Engineering Intern | Markham, ON | <a href="https://careers.amd.com/careers-home/jobs/71636?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | ↳ | Long Term Hardware Design Verification Engineering Intern | Markham, ON | <a href="https://careers.amd.com/careers-home/jobs/71637?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
