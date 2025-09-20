@@ -8984,5 +8984,21 @@
         "date_posted": 1758406419,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758406452,
+        "url": "https://jobs.bombardier.com/job/Dorval-Intern%2C-Developer-Customer-Facing-Team-%28Winter-2026%29-Qu%C3%A9b-H4S-2A3/1249254401",
+        "locations": [
+            "Dorval, QC"
+        ],
+        "active": true,
+        "company_name": "Bombardier",
+        "title": "Intern, Developer - Customer Facing Team",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "feee9f36-c2cf-44aa-9cd7-47a3595b0c1f",
+        "date_posted": 1758406452,
+        "company_url": "",
+        "is_visible": true
     }
 ]
