@@ -9000,5 +9000,21 @@
         "date_posted": 1758406452,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758406484,
+        "url": "https://jobs.bombardier.com/job/Dorval-Intern%2C-Digital-Transformation%28Winter-2026%29-Qu%C3%A9b-H4S-2A3/1249328401",
+        "locations": [
+            "Dorval, QC"
+        ],
+        "active": true,
+        "company_name": "Bombardier",
+        "title": "Intern, Digital Transformation",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "f9948d66-f2a7-41d2-91b5-9f0f7656cd41",
+        "date_posted": 1758406484,
+        "company_url": "",
+        "is_visible": true
     }
 ]
