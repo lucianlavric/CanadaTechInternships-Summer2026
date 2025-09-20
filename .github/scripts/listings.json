@@ -9016,5 +9016,21 @@
         "date_posted": 1758406484,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758406508,
+        "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Digital-Analytics-Intern--Summer-2026-_JR00114466",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Sunlife",
+        "title": "Digital Analytics Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "42c29e99-6412-4afd-8e65-0bdf6b264d83",
+        "date_posted": 1758406508,
+        "company_url": "",
+        "is_visible": true
     }
 ]

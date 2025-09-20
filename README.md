@@ -26,6 +26,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Sunlife | Digital Analytics Intern | Toronto, ON | <a href="https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Digital-Analytics-Intern--Summer-2026-_JR00114466?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | L3Harris | Embedded Software Developer Co-op | Waterdown, ON | <a href="https://careers.l3harris.com/en/job/-/-/4832/85414807440?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | Johnson & Johnson | AI & Digital Innovation Associate | Markham, ON | <a href="https://www.careers.jnj.com/en/jobs/r-032603/ai-digital-innovation-associate-2026-summer-internship/?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | Ciena | FPGA Development Intern | Ottawa, ON | <a href="https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/FPGA-Development-Intern--Summer-2026-_R028919?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
