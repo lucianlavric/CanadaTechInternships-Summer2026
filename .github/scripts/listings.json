@@ -9320,5 +9320,21 @@
         "date_posted": 1758407436,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758407469,
+        "url": "https://jobs.rbc.com/ca/en/job/RBCAA0088R0000140541EXTERNALENCA/2026-Winter-Student-Quantitative-Analytics-Monitoring-Analyst-4-months",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "RBC",
+        "title": "Quantitative Analytics & Monitoring Analyst",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "bc1ba1cb-fcc8-479e-bc8e-c8d7c5b1f35e",
+        "date_posted": 1758407469,
+        "company_url": "",
+        "is_visible": true
     }
 ]
