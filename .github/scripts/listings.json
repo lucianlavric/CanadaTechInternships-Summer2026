@@ -8389,5 +8389,21 @@
         "date_posted": 1758403298,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758403321,
+        "url": "https://careers.amd.com/careers-home/jobs/71636",
+        "locations": [
+            "Markham, ON"
+        ],
+        "active": true,
+        "company_name": "AMD",
+        "title": "Long Term Hardware Design Engineering Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "d1820209-e199-4787-8867-2e25fbe20bda",
+        "date_posted": 1758403321,
+        "company_url": "",
+        "is_visible": true
     }
 ]
