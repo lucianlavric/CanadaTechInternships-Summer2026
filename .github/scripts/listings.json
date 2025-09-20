@@ -8758,5 +8758,21 @@
         "date_posted": 1758405818,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758405900,
+        "url": "https://careers.amd.com/careers-home/jobs/71716",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "AMD",
+        "title": "Firmware Engineering Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "5f507995-f2e7-43ec-bbbe-f0149e60592f",
+        "date_posted": 1758405900,
+        "company_url": "",
+        "is_visible": true
     }
 ]
