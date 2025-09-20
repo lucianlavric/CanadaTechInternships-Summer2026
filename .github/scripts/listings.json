@@ -8405,5 +8405,21 @@
         "date_posted": 1758403321,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758403347,
+        "url": "https://careers.amd.com/careers-home/jobs/71647",
+        "locations": [
+            "Markham, ON"
+        ],
+        "active": true,
+        "company_name": "AMD",
+        "title": "Long Term Graphics Software Engineering Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "c5c4e1cf-00d2-4e7d-a2b7-10c8b5903356",
+        "date_posted": 1758403347,
+        "company_url": "",
+        "is_visible": true
     }
 ]

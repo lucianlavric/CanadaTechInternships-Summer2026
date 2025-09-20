@@ -26,7 +26,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| AMD | Long Term Hardware Design Engineering Intern | Markham, ON | <a href="https://careers.amd.com/careers-home/jobs/71636?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
+| AMD | Long Term Graphics Software Engineering Intern | Markham, ON | <a href="https://careers.amd.com/careers-home/jobs/71647?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
+| ↳ | Long Term Hardware Design Engineering Intern | Markham, ON | <a href="https://careers.amd.com/careers-home/jobs/71636?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | ↳ | Long Term Hardware Design Verification Engineering Intern | Markham, ON | <a href="https://careers.amd.com/careers-home/jobs/71637?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | ↳ | Long Term Software Engineering Intern | Markham, ON | <a href="https://careers.amd.com/careers-home/jobs/71638?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | ↳ | Long Term Hardware Design Engineering Intern | Vancouver, BC | <a href="https://careers.amd.com/careers-home/jobs/71640?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
