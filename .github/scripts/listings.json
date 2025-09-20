@@ -8790,5 +8790,21 @@
         "date_posted": 1758405959,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758406014,
+        "url": "https://semtech.wd1.myworkdayjobs.com/en-US/SemtechCareers/job/CAN---Burlington-ON/Digital-IC-Design-Engineering-Intern_REQ2908-2",
+        "locations": [
+            "Burlington, ON"
+        ],
+        "active": true,
+        "company_name": "Semtech",
+        "title": "Digital IC Design Engineering Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "59c4fe0a-5ab6-4e45-ba89-770aacc7f247",
+        "date_posted": 1758406014,
+        "company_url": "",
+        "is_visible": true
     }
 ]
