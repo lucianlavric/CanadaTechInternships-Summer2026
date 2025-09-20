@@ -9032,5 +9032,21 @@
         "date_posted": 1758406508,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758406534,
+        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Data-Scientist-Co-Op--8-Months-_2521598",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "CIBC",
+        "title": "Data Scientist Co-Op",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "cadf7391-685b-4bd1-ad4a-bf6e6a397327",
+        "date_posted": 1758406534,
+        "company_url": "",
+        "is_visible": true
     }
 ]
