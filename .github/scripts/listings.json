@@ -8662,5 +8662,21 @@
         "date_posted": 1758405649,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758405681,
+        "url": "https://careers.amd.com/careers-home/jobs/71698",
+        "locations": [
+            "Markham, ON"
+        ],
+        "active": true,
+        "company_name": "AMD",
+        "title": "Hardware Design Engineering Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "b886a233-c0be-4c0b-bbc0-5eb641e4e4d8",
+        "date_posted": 1758405681,
+        "company_url": "",
+        "is_visible": true
     }
 ]
