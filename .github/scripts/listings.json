@@ -8614,5 +8614,21 @@
         "date_posted": 1758404351,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758405583,
+        "url": "https://talent.ttgteams.com/jobs/26",
+        "locations": [
+            "Remote"
+        ],
+        "active": true,
+        "company_name": "Tartigrade Limited",
+        "title": "DevOps & Kubernetes Platform Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "918f8a75-2a2d-41bb-9152-b41d0b9516cf",
+        "date_posted": 1758405583,
+        "company_url": "",
+        "is_visible": true
     }
 ]
