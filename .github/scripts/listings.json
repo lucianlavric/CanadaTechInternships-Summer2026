@@ -8597,5 +8597,22 @@
         "date_posted": 1758404295,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758404351,
+        "url": "https://ia.ca/en/carrieres/job/JR10024280",
+        "locations": [
+            "Quebec, QC",
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "iA Financial Group",
+        "title": "Intern - Full Stack Developer",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "99a15f52-59d1-43ad-bcb7-577dedc14efe",
+        "date_posted": 1758404351,
+        "company_url": "",
+        "is_visible": true
     }
 ]
