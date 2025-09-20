@@ -9128,5 +9128,21 @@
         "date_posted": 1758406778,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758406801,
+        "url": "https://jobs.rbc.com/ca/en/job/RBCAA0088R0000141525EXTERNALENCA/2026-Winter-Student-Product-Associate-4-months",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "RBC",
+        "title": "Product Associate",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "90308fd4-1f83-4272-a822-0200950a81a0",
+        "date_posted": 1758406801,
+        "company_url": "",
+        "is_visible": true
     }
 ]
