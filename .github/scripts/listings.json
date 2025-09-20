@@ -8902,5 +8902,21 @@
         "date_posted": 1758406214,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758406242,
+        "url": "https://cgi.njoyn.com/corp/xweb/xweb.asp?clid=21001&page=jobdetails&jobid=J0925-1351&BRID=1236177&SBDID=943&lang=1",
+        "locations": [
+            "Markham, ON"
+        ],
+        "active": true,
+        "company_name": "CGI",
+        "title": "AI Software Developer",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "f1753053-69fd-44f5-8cc5-b0d100af5298",
+        "date_posted": 1758406242,
+        "company_url": "",
+        "is_visible": true
     }
 ]
