@@ -8854,5 +8854,21 @@
         "date_posted": 1758406113,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758406136,
+        "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Embedded-Software-Engineer-Intern--Real-Time-Systems----Winter-2026_R028960",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Ciena",
+        "title": "Embedded Software Engineer Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "7c661b75-1816-4527-be11-4da043764bce",
+        "date_posted": 1758406136,
+        "company_url": "",
+        "is_visible": true
     }
 ]
