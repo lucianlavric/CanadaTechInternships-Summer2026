@@ -8710,5 +8710,21 @@
         "date_posted": 1758405744,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758405770,
+        "url": "https://careers.amd.com/careers-home/jobs/71713",
+        "locations": [
+            "Calgary, AB"
+        ],
+        "active": true,
+        "company_name": "AMD",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "67544646-6581-49bf-8fe3-f07275b56bf0",
+        "date_posted": 1758405770,
+        "company_url": "",
+        "is_visible": true
     }
 ]
