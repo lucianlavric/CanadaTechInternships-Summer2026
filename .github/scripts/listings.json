@@ -9353,5 +9353,21 @@
         "date_posted": 1758489671,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758489694,
+        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59623",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "IBM",
+        "title": "AI & Automation Consulting Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "870ca1b1-3153-4f24-8c2e-58d6d4094a1c",
+        "date_posted": 1758489694,
+        "company_url": "",
+        "is_visible": true
     }
 ]
