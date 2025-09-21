@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| IBM | Machine Learning Developer Intern | Toronto, ON</br>Montreal, QC | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58725&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
 | Zurich | Winter IT Internship/Co-op | Remote | <a href="https://www.careers.zurich.com/job/Toronto-Winter-IT-InternshipCo-op-ON/1325843957?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | Tartigrade Limited | DevOps & Kubernetes Platform Intern | Remote | <a href="https://talent.ttgteams.com/jobs/26?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | Sunlife | Agile Specialist | Toronto, ON | <a href="https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Agile-Specialist--Winter-2026-_JR00114325?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |

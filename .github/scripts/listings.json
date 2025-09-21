@@ -9336,5 +9336,22 @@
         "date_posted": 1758407469,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758489671,
+        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58725",
+        "locations": [
+            "Toronto, ON",
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "IBM",
+        "title": "Machine Learning Developer Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "f6a35f8a-a9d0-4858-a8df-44491f27d88a",
+        "date_posted": 1758489671,
+        "company_url": "",
+        "is_visible": true
     }
 ]
