@@ -9369,5 +9369,21 @@
         "date_posted": 1758489694,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758572001,
+        "url": "https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Application-Software-Developer-Co-op--Cloud-Engineering---Transformation_2521820",
+        "locations": [
+            "Application/Software Developer Co-op, Cloud Engineering & Transformation"
+        ],
+        "active": true,
+        "company_name": "CIBC",
+        "title": "Application/Software Developer Co-op, Cloud Engineering & Transformation",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "423d81f1-0907-4cba-8635-ad5b67684ea8",
+        "date_posted": 1758572001,
+        "company_url": "",
+        "is_visible": true
     }
 ]
