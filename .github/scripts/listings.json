@@ -9385,5 +9385,21 @@
         "date_posted": 1758572001,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758572051,
+        "url": "https://careers.netapp.com/job/-/-/27600/86325341472",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "NetApp",
+        "title": "Software Development Engineer in Test Co-op",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "9c642f86-9363-421c-a530-25915a89647c",
+        "date_posted": 1758572051,
+        "company_url": "",
+        "is_visible": true
     }
 ]
