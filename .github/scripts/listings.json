@@ -9401,5 +9401,21 @@
         "date_posted": 1758572051,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758572079,
+        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Data-Scientist-Co-op--Technology-Operations---8-Months_2521819",
+        "locations": [
+            "Toronto,  ON"
+        ],
+        "active": true,
+        "company_name": "CIBC",
+        "title": "Data Scientist Co-op, Technology Operations",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "46cda779-477e-47b8-8903-810521cea18c",
+        "date_posted": 1758572079,
+        "company_url": "",
+        "is_visible": true
     }
 ]
