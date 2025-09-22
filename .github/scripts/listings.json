@@ -9417,5 +9417,21 @@
         "date_posted": 1758572079,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758572115,
+        "url": "https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/IT-Project-Coordinator-Co-op_2521821",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "CIBC",
+        "title": "IT Project Coordinator Co-op",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "72c1088f-138f-4840-8130-12e87bc2013b",
+        "date_posted": 1758572115,
+        "company_url": "",
+        "is_visible": true
     }
 ]
