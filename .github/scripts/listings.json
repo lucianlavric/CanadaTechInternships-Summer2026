@@ -9433,5 +9433,21 @@
         "date_posted": 1758572115,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758587856,
+        "url": "https://job-boards.greenhouse.io/robinhood/jobs/7235228",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Robinhood",
+        "title": "Software Developer Intern, Backend",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "b97d1bd8-987c-411d-a4c3-79ec927a796a",
+        "date_posted": 1758587856,
+        "company_url": "",
+        "is_visible": true
     }
 ]

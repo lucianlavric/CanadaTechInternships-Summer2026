@@ -26,6 +26,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Robinhood | Software Developer Intern, Backend | Toronto, ON | <a href="https://job-boards.greenhouse.io/robinhood/jobs/7235228?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 22 |
 | NetApp | Software Development Engineer in Test Co-op | Vancouver, BC | <a href="https://careers.netapp.com/job/-/-/27600/86325341472?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 22 |
 | Sunlife | Digital Analytics Intern | Toronto, ON | <a href="https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Digital-Analytics-Intern--Summer-2026-_JR00114466?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | L3Harris | Embedded Software Developer Co-op | Waterdown, ON | <a href="https://careers.l3harris.com/en/job/-/-/4832/85414807440?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
