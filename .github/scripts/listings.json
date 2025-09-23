@@ -9792,5 +9792,21 @@
         "date_posted": 1758661895,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758661948,
+        "url": "https://compulsiongames.bamboohr.com/careers/102",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "Compulsion Games",
+        "title": "Gameplay Programmer Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "90d7fb3a-ec99-4eee-bea2-567af64db52a",
+        "date_posted": 1758661948,
+        "company_url": "",
+        "is_visible": true
     }
 ]
