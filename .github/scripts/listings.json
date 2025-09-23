@@ -9664,5 +9664,21 @@
         "date_posted": 1758661524,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758661630,
+        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59906",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "IBM",
+        "title": "AI & Mobile Application Developer Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "427bf14c-9d08-4666-8fbe-b47d89b4de7f",
+        "date_posted": 1758661630,
+        "company_url": "",
+        "is_visible": true
     }
 ]
