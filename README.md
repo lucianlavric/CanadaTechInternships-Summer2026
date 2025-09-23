@@ -26,6 +26,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Robinhood | Offensive Security Intern | Toronto, ON | <a href="https://job-boards.greenhouse.io/robinhood/jobs/7161054?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | Robinhood | Software Developer Intern, Web | Toronto, ON | <a href="https://job-boards.greenhouse.io/robinhood/jobs/7238998?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 22 |
 | ↳ | Software Developer Intern, Backend | Toronto, ON | <a href="https://job-boards.greenhouse.io/robinhood/jobs/7235228?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 22 |
 | Pintrest | Software Engineer Intern | Toronto, ON | <a href="https://www.pinterestcareers.com/jobs/7257996/software-engineer-intern-summer-term-2026-toronto/?gh_jid=7257996&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 22 |
