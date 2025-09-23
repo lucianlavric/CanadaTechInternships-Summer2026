@@ -9744,5 +9744,21 @@
         "date_posted": 1758661779,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758661808,
+        "url": "https://www.tesla.com/careers/search/job/251680",
+        "locations": [
+            "Markham, ON"
+        ],
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Automation Controls Engineer, Cell Engineering",
+        "season": "Spring",
+        "source": "AliElrafih",
+        "id": "55906b24-a362-4882-8652-0db11dbcddea",
+        "date_posted": 1758661808,
+        "company_url": "",
+        "is_visible": true
     }
 ]
