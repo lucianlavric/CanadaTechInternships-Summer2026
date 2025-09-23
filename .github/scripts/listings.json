@@ -9565,5 +9565,21 @@
         "date_posted": 1758661283,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758661309,
+        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60284",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "IBM",
+        "title": "IBM Payments Centre Data Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "3a83ce8b-eda4-495e-888c-0ca16af967e5",
+        "date_posted": 1758661309,
+        "company_url": "",
+        "is_visible": true
     }
 ]
