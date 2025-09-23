@@ -9481,5 +9481,25 @@
         "date_posted": 1758587931,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758588007,
+        "url": "https://careers.telus.com/job/Vancouver-Engineering%2C-Technology-and-Business-Co-op-BC/595978117",
+        "locations": [
+            "Vancouver, BC",
+            "Montreal, QC",
+            "Calgary, AB",
+            "Edmonton, AB",
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Telus",
+        "title": "Engineering, Technology and Business Co-op",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "cbed00a3-ef89-48bc-b9af-82b6d912a961",
+        "date_posted": 1758588007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
