@@ -9581,5 +9581,22 @@
         "date_posted": 1758661309,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758661338,
+        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58541",
+        "locations": [
+            "Toronto, ON",
+            "Calgary, AB"
+        ],
+        "active": true,
+        "company_name": "IBM",
+        "title": "AI & Automation Data Scientist Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "fecfb523-6dd9-466a-b544-f96ed1a36795",
+        "date_posted": 1758661338,
+        "company_url": "",
+        "is_visible": true
     }
 ]
