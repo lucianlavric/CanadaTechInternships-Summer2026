@@ -9465,5 +9465,21 @@
         "date_posted": 1758587888,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758587931,
+        "url": "https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Application--Software-Developer-Co-op_2521985",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "CIBC",
+        "title": "Application/ Software Developer Co-op",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "2585d0c2-adc3-4cef-8fd0-39828a9e2c4e",
+        "date_posted": 1758587931,
+        "company_url": "",
+        "is_visible": true
     }
 ]
