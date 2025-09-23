@@ -9501,5 +9501,21 @@
         "date_posted": 1758588007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758588070,
+        "url": "https://www.pinterestcareers.com/jobs/7257996/software-engineer-intern-summer-term-2026-toronto/?gh_jid=7257996",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Pintrest",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "c5777a5d-0381-43da-a0b1-8aee3efc592f",
+        "date_posted": 1758588070,
+        "company_url": "",
+        "is_visible": true
     }
 ]
