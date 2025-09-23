@@ -9760,5 +9760,21 @@
         "date_posted": 1758661808,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758661836,
+        "url": "https://jobs.lever.co/magnetforensics/4d533b12-2d97-4278-b32f-a6652986e1e1",
+        "locations": [
+            "Waterloo, ON"
+        ],
+        "active": true,
+        "company_name": "Magnet Forensics",
+        "title": "Cloud FinOps Co-op",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "935bee8e-edb6-4f21-80ab-88df00aa6391",
+        "date_posted": 1758661836,
+        "company_url": "",
+        "is_visible": true
     }
 ]
