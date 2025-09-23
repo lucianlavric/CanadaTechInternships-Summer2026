@@ -9776,5 +9776,21 @@
         "date_posted": 1758661836,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758661895,
+        "url": "https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/details/Embedded-Software-Engineer-Co-op-Intern_20251423",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Lumentum",
+        "title": "Embedded Software Engineer Co-op",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "3d924320-9fea-446b-a0a4-2345ee96b719",
+        "date_posted": 1758661895,
+        "company_url": "",
+        "is_visible": true
     }
 ]
