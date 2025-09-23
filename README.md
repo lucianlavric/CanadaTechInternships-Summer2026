@@ -26,7 +26,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| RocketLab | Quality Engineering Intern | Toronto, ON | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7242362003?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
+| RocketLab | Software Intern | Toronto, ON | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7330647003?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
+| ↳ | Quality Engineering Intern | Toronto, ON | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7242362003?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | Robinhood | Offensive Security Intern | Toronto, ON | <a href="https://job-boards.greenhouse.io/robinhood/jobs/7161054?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | Robinhood | Software Developer Intern, Web | Toronto, ON | <a href="https://job-boards.greenhouse.io/robinhood/jobs/7238998?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 22 |
 | ↳ | Software Developer Intern, Backend | Toronto, ON | <a href="https://job-boards.greenhouse.io/robinhood/jobs/7235228?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 22 |

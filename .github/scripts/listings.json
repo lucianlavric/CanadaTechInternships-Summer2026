@@ -9728,5 +9728,21 @@
         "date_posted": 1758661759,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758661779,
+        "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7330647003",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "RocketLab",
+        "title": "Software Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "2b0ca748-5c6a-47e3-8490-b4c63bce59d0",
+        "date_posted": 1758661779,
+        "company_url": "",
+        "is_visible": true
     }
 ]
