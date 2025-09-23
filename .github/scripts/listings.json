@@ -9630,5 +9630,23 @@
         "date_posted": 1758661440,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758661487,
+        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60541",
+        "locations": [
+            "Toronto, ON",
+            "Ottawa, ON",
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "IBM",
+        "title": "Data Services Developer Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "e88ffda6-bed7-4762-9ddc-39924432433c",
+        "date_posted": 1758661487,
+        "company_url": "",
+        "is_visible": true
     }
 ]
