@@ -9648,5 +9648,21 @@
         "date_posted": 1758661487,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758661524,
+        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60225",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "IBM",
+        "title": "Custom Applications Management Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "d4b8ed57-1a06-481e-8142-16bb453c9610",
+        "date_posted": 1758661524,
+        "company_url": "",
+        "is_visible": true
     }
 ]

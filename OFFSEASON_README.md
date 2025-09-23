@@ -18,7 +18,8 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| IBM | Data Services Developer Intern | Toronto, ON</br>Ottawa, ON</br>Montreal, QC | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60541&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
+| IBM | Custom Applications Management Intern | Ottawa, ON | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60225&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
+| ↳ | Data Services Developer Intern | Toronto, ON</br>Ottawa, ON</br>Montreal, QC | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60541&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | ↳ | AI & Automation Data Scientist Intern | Toronto, ON</br>Calgary, AB | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58541&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | ↳ | IBM Payments Centre Data Intern | Toronto, ON | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60284&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | ↳ | Digital Product Engineering Consulting Intern | Toronto, ON | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59916&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
