@@ -9598,5 +9598,21 @@
         "date_posted": 1758661338,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758661386,
+        "url": "https://edc.taleo.net/careersection/corporate_2020/jobdetail.ftl?job=0005FK",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "EDC",
+        "title": "Technology and Analytics Stream",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "6acfd06a-5f29-4d9f-968b-ed35601679d2",
+        "date_posted": 1758661386,
+        "company_url": "",
+        "is_visible": true
     }
 ]
