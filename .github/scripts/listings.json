@@ -9549,5 +9549,21 @@
         "date_posted": 1758588158,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758661283,
+        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59916",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "IBM",
+        "title": "Digital Product Engineering Consulting Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "40e42a13-22d9-41fe-8385-9c5fa9d9cdb7",
+        "date_posted": 1758661283,
+        "company_url": "",
+        "is_visible": true
     }
 ]

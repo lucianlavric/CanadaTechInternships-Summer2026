@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| IBM | Digital Product Engineering Consulting Intern | Toronto, ON | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59916&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | Telus | Engineering, Technology and Business Co-op | <details><summary>**5 locations**</summary>Vancouver, BC</br>Montreal, QC</br>Calgary, AB</br>Edmonton, AB</br>Toronto, ON</details> | <a href="https://careers.telus.com/job/Vancouver-Engineering%2C-Technology-and-Business-Co-op-BC/595978117?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 22 |
 | Pintrest | Software Engineer Intern | Toronto, ON | <a href="https://www.pinterestcareers.com/jobs/7252886/software-engineer-intern-winter-term-2026-toronto/?gh_jid=7252886&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 22 |
 | CIBC | Business Systems Analyst Co-op | Toronto, ON | <a href="https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Business-Systems-Analyst-Co-op_2521252?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 22 |
