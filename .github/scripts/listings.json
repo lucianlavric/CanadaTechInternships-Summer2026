@@ -9680,5 +9680,21 @@
         "date_posted": 1758661630,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758661692,
+        "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7242366003",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "RocketLab",
+        "title": "Quality Engineering Intern",
+        "season": "Spring",
+        "source": "AliElrafih",
+        "id": "09cfe866-00dc-49e1-b967-e500bb6e9b1b",
+        "date_posted": 1758661692,
+        "company_url": "",
+        "is_visible": true
     }
 ]
