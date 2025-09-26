@@ -10117,5 +10117,21 @@
         "date_posted": 1758866113,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758866145,
+        "url": "https://careers-kinaxis.icims.com/jobs/33754/co-op-intern-software-developer%2c-core-algorithms-%28industry-teams%29/job",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Kinaxis",
+        "title": "Co-op/Intern Software Developer, Core Algorithms",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "01788971-b8ce-4e13-a6f8-5fb063cc63f5",
+        "date_posted": 1758866145,
+        "company_url": "",
+        "is_visible": true
     }
 ]
