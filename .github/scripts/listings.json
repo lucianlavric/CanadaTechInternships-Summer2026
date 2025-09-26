@@ -10166,5 +10166,21 @@
         "date_posted": 1758866210,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758866441,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/AI-Ad-Operations-Intern/210898",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "Electronic Arts",
+        "title": "AI Ad Operations Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "a8ec6106-7445-4025-900d-f89a76e59cb2",
+        "date_posted": 1758866441,
+        "company_url": "",
+        "is_visible": true
     }
 ]
