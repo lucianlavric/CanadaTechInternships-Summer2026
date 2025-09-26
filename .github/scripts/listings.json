@@ -10214,5 +10214,21 @@
         "date_posted": 1758866497,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758866527,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-British-Columbia-Canada/Associate-Software-Developer---SaaS-DevOps-Co-op_UNI3312-1",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "HP",
+        "title": "Associate Software Developer - SaaS DevOps Co-op",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "c1804b9b-7f6a-43f3-964f-05a66ab61a54",
+        "date_posted": 1758866527,
+        "company_url": "",
+        "is_visible": true
     }
 ]
