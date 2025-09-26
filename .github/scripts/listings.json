@@ -10101,5 +10101,21 @@
         "date_posted": 1758865967,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758866113,
+        "url": "https://careers-kinaxis.icims.com/jobs/33755/co-op-intern-software-developer%2c-developer-framework/job",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Kinaxis",
+        "title": "Co-op/Intern Software Developer, Developer Framework",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "f8244d64-b13c-439c-b0df-2c5bd6a2d034",
+        "date_posted": 1758866113,
+        "company_url": "",
+        "is_visible": true
     }
 ]
