@@ -10358,5 +10358,21 @@
         "date_posted": 1758866968,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758866995,
+        "url": "https://jobs.bombardier.com/job/Dorval-Intern%2C-Data-Science-&-Artificial-Intelligence%2C-Aftermarket-Products-&-Services-%28Hiver%2C-2026%29-Qu%C3%A9b-H4S-1Y9/1250620701/?feedId=384733",
+        "locations": [
+            "Dorval, QC"
+        ],
+        "active": true,
+        "company_name": "Bombardier",
+        "title": "Intern, Data Science & Artificial Intelligence, Aftermarket Products & Services",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "6206150f-bdb2-4cf9-bfe0-ede23052ce10",
+        "date_posted": 1758866995,
+        "company_url": "",
+        "is_visible": true
     }
 ]
