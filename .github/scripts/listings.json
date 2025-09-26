@@ -10470,5 +10470,21 @@
         "date_posted": 1758867149,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758867164,
+        "url": "https://edc.taleo.net/careersection/corporate_2020/jobdetail.ftl?job=0005FU",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "EDC",
+        "title": "Project Management Stream",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "e31b262b-6c12-4c85-b71a-0c4343ac66d1",
+        "date_posted": 1758867164,
+        "company_url": "",
+        "is_visible": true
     }
 ]
