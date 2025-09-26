@@ -10342,5 +10342,21 @@
         "date_posted": 1758866936,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758866968,
+        "url": "https://careers.qualcomm.com/careers/job/446714867463",
+        "locations": [
+            "Markham, ON"
+        ],
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "Low-Power AI, Audio, and Sensors Subsystem Engineering Internship - HW Design / Verification",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "58ea6e36-c5a1-404b-9105-aa43132b32bf",
+        "date_posted": 1758866968,
+        "company_url": "",
+        "is_visible": true
     }
 ]
