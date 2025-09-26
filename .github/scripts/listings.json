@@ -9876,5 +9876,21 @@
         "date_posted": 1758864893,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758864947,
+        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI-Scientist-Co-op_2522108",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "CIBC",
+        "title": "AI Scientist Co-op",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "5cd48aed-b64c-451b-ac59-48ca9969383a",
+        "date_posted": 1758864947,
+        "company_url": "",
+        "is_visible": true
     }
 ]
