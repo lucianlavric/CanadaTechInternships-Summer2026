@@ -9840,5 +9840,25 @@
         "date_posted": 1758864721,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758864861,
+        "url": "https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/British-Columbia-Canada/Software-Development---AI-Intern--Co-op-_R0032206",
+        "locations": [
+            "BC",
+            "ON",
+            "SA",
+            "QC",
+            "AB"
+        ],
+        "active": true,
+        "company_name": "Harris",
+        "title": "Software Development & AI Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "7344f689-b99e-425b-85aa-ddaeb562f972",
+        "date_posted": 1758864861,
+        "company_url": "",
+        "is_visible": true
     }
 ]
