@@ -10374,5 +10374,21 @@
         "date_posted": 1758866995,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758867027,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Toronto-ON-CAN/Intern--Platform-Data-Analyst_25WD91667-1",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Autodesk",
+        "title": "Intern, Platform Data Analyst",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "f9681fb2-e6f5-436a-a904-5fa8c0a9a1a0",
+        "date_posted": 1758867027,
+        "company_url": "",
+        "is_visible": true
     }
 ]
