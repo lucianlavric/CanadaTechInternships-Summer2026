@@ -9989,5 +9989,21 @@
         "date_posted": 1758865324,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758865355,
+        "url": "https://careers.snowflake.com/us/en/job/SNCOUS5357168229894F97B07F9537304C0DD9EXTERNALENUS237FEFBDD2324DAF8DEF971BDEB732D9/Software-Engineer-Intern-Toronto-Spring-2026",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Snowflake",
+        "title": "Software Engineer Intern",
+        "season": "Spring",
+        "source": "AliElrafih",
+        "id": "06429885-f4f5-447a-8638-505d9262b9e5",
+        "date_posted": 1758865355,
+        "company_url": "",
+        "is_visible": true
     }
 ]
