@@ -9972,5 +9972,22 @@
         "date_posted": 1758865217,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758865324,
+        "url": "https://ia.ca/en/carrieres/job/JR10024292",
+        "locations": [
+            "Quebec, QC",
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "iA Financial Group",
+        "title": "Intern \u2013 Automation and Operational Efficiency",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "95c0af6c-87ac-4575-a91a-4b4b97b66c19",
+        "date_posted": 1758865324,
+        "company_url": "",
+        "is_visible": true
     }
 ]
