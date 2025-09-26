@@ -10262,5 +10262,21 @@
         "date_posted": 1758866812,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758866836,
+        "url": "https://trendmicro.wd3.myworkdayjobs.com/en-US/External/job/Toronto/Malware-Research-Intern---Winter-2026_R0008258",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Trend",
+        "title": "Malware Research Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "29f1fa1a-6418-42de-9d85-1e12f89ea8cb",
+        "date_posted": 1758866836,
+        "company_url": "",
+        "is_visible": true
     }
 ]
