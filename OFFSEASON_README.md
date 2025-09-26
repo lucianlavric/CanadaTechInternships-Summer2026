@@ -19,6 +19,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Harris | Software Development & AI Intern | <details><summary>**5 locations**</summary>BC</br>ON</br>SA</br>QC</br>AB</details> | <a href="https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/British-Columbia-Canada/Software-Development---AI-Intern--Co-op-_R0032206?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
+| Ericsson | RAN Reliability System Co-Op | Ottawa, ON | <a href="https://jobs.ericsson.com/careers/job/563121772214102?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | Tesla | Automation Controls Engineer, Cell Engineering | Markham, ON | <a href="https://www.tesla.com/careers/search/job/251680?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | RocketLab | Software Intern | Toronto, ON | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7330653003?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | ↳ | Quality Engineering Intern | Toronto, ON | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7242366003?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |

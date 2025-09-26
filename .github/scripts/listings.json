@@ -9860,5 +9860,21 @@
         "date_posted": 1758864861,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758864893,
+        "url": "https://jobs.ericsson.com/careers/job/563121772214102",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Ericsson",
+        "title": "RAN Reliability System Co-Op",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "3c8cbf4e-6e80-4b72-ab57-5694ab962629",
+        "date_posted": 1758864893,
+        "company_url": "",
+        "is_visible": true
     }
 ]
