@@ -10502,5 +10502,21 @@
         "date_posted": 1758867201,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758867237,
+        "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Programming---Quantitative-Modelling--Risk--September-2026---12-months-_6676",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Ontario Teachers Pension Plan",
+        "title": "Intern - Programming & Quantitative Modelling, Risk",
+        "season": "Fall",
+        "source": "AliElrafih",
+        "id": "79e4447b-0a9a-4f28-99a5-90fbdeb013b7",
+        "date_posted": 1758867237,
+        "company_url": "",
+        "is_visible": true
     }
 ]
