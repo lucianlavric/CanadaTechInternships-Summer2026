@@ -10406,5 +10406,21 @@
         "date_posted": 1758867051,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758867081,
+        "url": "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Montreal-St-Laurent/C-CST-112-Business-Analyst-Intern_118131",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "CAE",
+        "title": "C-CST-112 Business Analyst Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "b0a65cfe-33b2-40c5-8052-0c8fc22bb861",
+        "date_posted": 1758867081,
+        "company_url": "",
+        "is_visible": true
     }
 ]
