@@ -9924,5 +9924,21 @@
         "date_posted": 1758865025,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758865074,
+        "url": "https://www.glencore.com/careers/jobs/e879f088-b87b-4582-a33f-6c383f2a0dc0",
+        "locations": [
+            "Elk Valley, BC"
+        ],
+        "active": true,
+        "company_name": "Glencore",
+        "title": "Technical Systems Co-op",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "555187b7-d47d-4d2e-9db3-8d52511ab732",
+        "date_posted": 1758865074,
+        "company_url": "",
+        "is_visible": true
     }
 ]
