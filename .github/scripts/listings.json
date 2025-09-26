@@ -10037,5 +10037,21 @@
         "date_posted": 1758865458,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758865484,
+        "url": "https://gtsgbu.wd3.myworkdayjobs.com/en-US/Careers/job/Toronto/Network-Design-Specialist-Intern_R1010582",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Hitachi",
+        "title": "Network Design Specialist Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "02597a1d-c0cf-431c-94f3-d525cc88365f",
+        "date_posted": 1758865484,
+        "company_url": "",
+        "is_visible": true
     }
 ]
