@@ -10294,5 +10294,21 @@
         "date_posted": 1758866858,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758866879,
+        "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Routing---Switching-QA-Engineer---Co-op--Winter-2026-_R029078",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Ciena",
+        "title": "Routing & Switching QA Engineer - Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "403cfc4c-6965-4faa-9329-7616ee788f88",
+        "date_posted": 1758866879,
+        "company_url": "",
+        "is_visible": true
     }
 ]
