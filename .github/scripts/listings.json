@@ -10230,5 +10230,21 @@
         "date_posted": 1758866527,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758866721,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Intern--Data-Security_25WD91658-1",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Autodesk",
+        "title": "Intern, Data Security",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "9ea85a0e-995d-4a73-9186-5858d30f1717",
+        "date_posted": 1758866721,
+        "company_url": "",
+        "is_visible": true
     }
 ]
