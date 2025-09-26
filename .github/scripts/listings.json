@@ -10182,5 +10182,21 @@
         "date_posted": 1758866441,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758866469,
+        "url": "https://cae.wd3.myworkdayjobs.com/career/job/Ottawa/C-DS-900-Junior-Software-Developer-Intern_117935",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "CAE",
+        "title": "C-DS-900 Junior Software Developer Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "015b6201-7db4-4fdf-8f02-c024d44790fc",
+        "date_posted": 1758866469,
+        "company_url": "",
+        "is_visible": true
     }
 ]
