@@ -10005,5 +10005,21 @@
         "date_posted": 1758865355,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758865394,
+        "url": "https://jobs.intuit.com/job/-/-/27595/86480090896",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Intuit",
+        "title": "Software Developer Co-op",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "fbef63ed-8bae-47cb-af55-8e13fb7fe5b7",
+        "date_posted": 1758865394,
+        "company_url": "",
+        "is_visible": true
     }
 ]
