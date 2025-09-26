@@ -10133,5 +10133,21 @@
         "date_posted": 1758866145,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758866176,
+        "url": "https://careers-kinaxis.icims.com/jobs/33752/co-op-intern-developer%2c-clients%2c-front-end-technologies/job",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Kinaxis",
+        "title": "Co-op/Intern Developer, Clients, Front End Technologies",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "bc642975-e5b5-4837-be1c-43696f085c05",
+        "date_posted": 1758866176,
+        "company_url": "",
+        "is_visible": true
     }
 ]
