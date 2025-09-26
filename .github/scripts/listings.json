@@ -9908,5 +9908,21 @@
         "date_posted": 1758864981,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758865025,
+        "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1526770",
+        "locations": [
+            "Mirabel, QC"
+        ],
+        "active": true,
+        "company_name": "TEXTRON",
+        "title": "Information Technology",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "ec1fe457-eb36-4445-a591-281235b1fd70",
+        "date_posted": 1758865025,
+        "company_url": "",
+        "is_visible": true
     }
 ]

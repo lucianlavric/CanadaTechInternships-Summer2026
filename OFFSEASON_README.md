@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| TEXTRON | Information Technology | Mirabel, QC | <a href="https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1526770&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | Harris | Software Development & AI Intern | <details><summary>**5 locations**</summary>BC</br>ON</br>SA</br>QC</br>AB</details> | <a href="https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/British-Columbia-Canada/Software-Development---AI-Intern--Co-op-_R0032206?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | Ericsson | RAN Reliability System Co-Op | Ottawa, ON | <a href="https://jobs.ericsson.com/careers/job/563121772214102?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | CIBC | Business Systems Analyst Co-op | Toronto, ON | <a href="https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Business-Systems-Analyst-Co-op_2522053?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
