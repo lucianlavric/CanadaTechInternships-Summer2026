@@ -10486,5 +10486,21 @@
         "date_posted": 1758867164,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758867201,
+        "url": "https://cclfg.cclgroup.com/careers/opportunities/posting/?gnk=job&gni=8a78859e99734ec201997d6eaf0d4c24",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "Connor, Clark, & Lunn",
+        "title": "Quantitative Equity Research, Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "bec15a4c-2ce2-4519-81f2-507639129f86",
+        "date_posted": 1758867201,
+        "company_url": "",
+        "is_visible": true
     }
 ]
