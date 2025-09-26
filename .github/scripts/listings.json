@@ -10198,5 +10198,21 @@
         "date_posted": 1758866469,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758866497,
+        "url": "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Montreal-St-Laurent/C-GE-415---Full-Stack-Web-Developer-Intern_117823",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "CAE",
+        "title": "C-GE-415 - Full Stack Web Developer Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "777bd9ff-1a01-4fb6-9348-ecca08123cf9",
+        "date_posted": 1758866497,
+        "company_url": "",
+        "is_visible": true
     }
 ]
