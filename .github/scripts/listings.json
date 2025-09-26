@@ -9892,5 +9892,21 @@
         "date_posted": 1758864947,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758864981,
+        "url": "https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Business-Systems-Analyst-Co-op_2522053",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "CIBC",
+        "title": "Business Systems Analyst Co-op",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "1ffd94aa-545b-47b3-99db-29a304c950a9",
+        "date_posted": 1758864981,
+        "company_url": "",
+        "is_visible": true
     }
 ]
