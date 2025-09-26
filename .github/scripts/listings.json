@@ -10085,5 +10085,21 @@
         "date_posted": 1758865715,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758865967,
+        "url": "https://careers-kinaxis.icims.com/jobs/33751/co-op-intern-developer%2c-ai-ml/job?mobile=false&width=1195&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Kinaxis",
+        "title": "Co-op/Intern Developer, AI/ML",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "5c0cb9e8-a8f8-4e9a-9ebc-e7c85663cf1e",
+        "date_posted": 1758865967,
+        "company_url": "",
+        "is_visible": true
     }
 ]
