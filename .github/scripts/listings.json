@@ -10053,5 +10053,21 @@
         "date_posted": 1758865484,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758865509,
+        "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Routing-IP-Software-Developer-Intern--Winter-2026-_R029036-1",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Ciena",
+        "title": "Routing/IP Software Developer Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "39937437-daf0-49a4-bd85-6cfe1b1d19b9",
+        "date_posted": 1758865509,
+        "company_url": "",
+        "is_visible": true
     }
 ]
