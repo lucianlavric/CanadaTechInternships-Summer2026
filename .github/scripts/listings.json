@@ -9824,5 +9824,21 @@
         "date_posted": 1758864696,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758864721,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/8168731002",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "Lyft",
+        "title": "Software Engineer Intern, Test Automation",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "e40f6979-9e1b-4a66-93d9-24553602d841",
+        "date_posted": 1758864721,
+        "company_url": "",
+        "is_visible": true
     }
 ]
