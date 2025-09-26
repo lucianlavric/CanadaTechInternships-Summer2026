@@ -10390,5 +10390,21 @@
         "date_posted": 1758867027,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758867051,
+        "url": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Student--Advanced-Analytics--Winter-2026--8-month-term-_J61659",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Fidelity",
+        "title": "Student, Advanced Analytics",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "d3d34ed7-6910-4d59-9409-e49e070d9af9",
+        "date_posted": 1758867051,
+        "company_url": "",
+        "is_visible": true
     }
 ]
