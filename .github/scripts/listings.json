@@ -10149,5 +10149,22 @@
         "date_posted": 1758866176,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758866210,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Applied-Data-Scientist-Intern-Co-op--WINTER-2026-_R_1446820",
+        "locations": [
+            "Toronto, ON",
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "TD",
+        "title": "Applied Data Scientist Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "81a1f1e2-c100-4cc3-9943-acdcb6018eb8",
+        "date_posted": 1758866210,
+        "company_url": "",
+        "is_visible": true
     }
 ]
