@@ -10278,5 +10278,21 @@
         "date_posted": 1758866836,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758866858,
+        "url": "https://trendmicro.wd3.myworkdayjobs.com/en-US/External/job/Toronto/Vulnerability-Research-Intern---Winter-2026_R0008256",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Trend",
+        "title": "Vulnerability Research Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "e7c02131-5e56-4bb1-afe2-aa8e4079bf2d",
+        "date_posted": 1758866858,
+        "company_url": "",
+        "is_visible": true
     }
 ]
