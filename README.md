@@ -26,6 +26,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Vena | Software Developer Co-op | Remote | <a href="https://www.lifeatvena.com/postings/959a44fa-42ca-4047-9fbc-59baa30bfb63?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | Lyft | Software Engineer Intern, Test Automation | Montreal, QC | <a href="https://app.careerpuck.com/job-board/lyft/job/8168731002?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | ↳ | Business Systems Engineer Intern, Finance Technology | Toronto, ON | <a href="https://app.careerpuck.com/job-board/lyft/job/8168710002?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | RocketLab | Software Intern | Toronto, ON | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7330647003?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
