@@ -10246,5 +10246,21 @@
         "date_posted": 1758866721,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758866812,
+        "url": "https://trendmicro.wd3.myworkdayjobs.com/en-US/External/job/Ottawa/Software-Developer-Co-Op---Winter-2026_R0008259",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Trend",
+        "title": "Software Developer Co-Op",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "413aa2e9-f11e-4283-ac88-a78c90ce8fe9",
+        "date_posted": 1758866812,
+        "company_url": "",
+        "is_visible": true
     }
 ]

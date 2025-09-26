@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Trend | Software Developer Co-Op | Ottawa, ON | <a href="https://trendmicro.wd3.myworkdayjobs.com/en-US/External/job/Ottawa/Software-Developer-Co-Op---Winter-2026_R0008259?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | TEXTRON | Information Technology | Mirabel, QC | <a href="https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1526770&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | TD | Applied Data Scientist Intern | Toronto, ON</br>Montreal, QC | <a href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Applied-Data-Scientist-Intern-Co-op--WINTER-2026-_R_1446820?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | Snowflake | Software Engineer Intern | Toronto, ON | <a href="https://careers.snowflake.com/us/en/job/SNCOUS5357168229894F97B07F9537304C0DD9EXTERNALENUS237FEFBDD2324DAF8DEF971BDEB732D9/Software-Engineer-Intern-Toronto-Spring-2026?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
