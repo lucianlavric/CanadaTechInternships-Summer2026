@@ -10518,5 +10518,21 @@
         "date_posted": 1758867237,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759520455,
+        "url": "https://31/software-development-engineer-internship-winter-2026-canada",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "Amazon",
+        "title": "SWE Intern",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "702110dc-656d-4094-b4f8-1c3a74059f50",
+        "date_posted": 1759520455,
+        "company_url": "",
+        "is_visible": true
     }
 ]
