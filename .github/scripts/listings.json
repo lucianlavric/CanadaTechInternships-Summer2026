@@ -10534,5 +10534,21 @@
         "date_posted": 1759520455,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759520593,
+        "url": "https://jobs.canadalife.com/job/Toronto-Software-Engineer-%2528Student-Postiont%2529-ON/1254010201",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Canada Life",
+        "title": "SWE intern",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "39bd921f-978d-4dbf-bd45-4d44f014da41",
+        "date_posted": 1759520593,
+        "company_url": "",
+        "is_visible": true
     }
 ]
