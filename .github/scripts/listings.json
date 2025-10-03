@@ -10582,5 +10582,21 @@
         "date_posted": 1759526372,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759526398,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/RACHEL-Client-Software-Engineer-Co-op/210900",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "EA",
+        "title": "Client Software Engineer Co-op (FC - 8 Months - Summer 2026)",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "4f8c6902-6bb9-4357-83b7-18b7134e67ba",
+        "date_posted": 1759526398,
+        "company_url": "",
+        "is_visible": true
     }
 ]
