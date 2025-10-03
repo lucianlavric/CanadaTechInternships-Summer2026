@@ -10598,5 +10598,21 @@
         "date_posted": 1759526398,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759526424,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/VINU-Software-Engineer-Co-op/210935",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "EA",
+        "title": "C++ Software Engineer Co-op (FC - 8-Months - Summer 2026)",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "eaceeb49-315b-4552-acc7-5ea0b779e29b",
+        "date_posted": 1759526424,
+        "company_url": "",
+        "is_visible": true
     }
 ]
