@@ -27,6 +27,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Munich Re | Engineering Co-op, NA Integrated Analytics (2026 Summer-Toronto) | Toronto, ON | <a href="https://careers.munichre.com/en/job/toronto/engineering-co-op-na-integrated-analytics-2026-summer-toronto/3342/28721049472?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
+| EA | Software Engineer Co-op (NHL - 8-Months - Summer 2026) | Vancouver, BC | <a href="https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op-NHL/210839?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | Vena | Software Developer Co-op | Remote | <a href="https://www.lifeatvena.com/postings/959a44fa-42ca-4047-9fbc-59baa30bfb63?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | Lyft | Business Systems Engineer Intern, People Technology | Toronto, ON | <a href="https://app.careerpuck.com/job-board/lyft/job/8168725002?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | ↳ | Software Engineer Intern, Test Automation | Montreal, QC | <a href="https://app.careerpuck.com/job-board/lyft/job/8168731002?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
