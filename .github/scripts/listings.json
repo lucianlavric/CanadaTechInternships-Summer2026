@@ -10614,5 +10614,21 @@
         "date_posted": 1759526424,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759526461,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Data-Analyst-Co-op-FC-Live/210870",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "EA",
+        "title": "Data Analyst Co-op (FC Live - 8 Months - Summer 2026)",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "435b4219-72c6-469f-a93e-9656d08aa9b2",
+        "date_posted": 1759526461,
+        "company_url": "",
+        "is_visible": true
     }
 ]
