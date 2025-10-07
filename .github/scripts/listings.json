@@ -10662,5 +10662,21 @@
         "date_posted": 1759800236,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759802850,
+        "url": "https://job-boards.greenhouse.io/khanacademy/jobs/7258549",
+        "locations": [
+            "Remote"
+        ],
+        "active": true,
+        "company_name": "Khan Academy",
+        "title": "Software Engineer intern",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "f7250022-e214-44b1-870f-34fe8cad0ff0",
+        "date_posted": 1759802850,
+        "company_url": "",
+        "is_visible": true
     }
 ]
