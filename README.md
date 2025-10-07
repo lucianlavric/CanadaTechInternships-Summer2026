@@ -26,6 +26,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Doordash | Software Engineer, Intern (Summer 2026) - Toronto | Toronto, ON | <a href="https://job-boards.greenhouse.io/doordashcanada/jobs/7263628?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | Munich Re | Engineering Co-op, NA Integrated Analytics (2026 Summer-Toronto) | Toronto, ON | <a href="https://careers.munichre.com/en/job/toronto/engineering-co-op-na-integrated-analytics-2026-summer-toronto/3342/28721049472?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | EA | Technical Artist Co-op (Tech Art - 8-Months - Summer) | Vancouver, BC | <a href="https://jobs.ea.com/en_US/careers/JobDetail/Technical-Artist-Co-op/210832?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | ↳ | Data Analyst Co-op (FC Live - 8 Months - Summer 2026) | Vancouver, BC | <a href="https://jobs.ea.com/en_US/careers/JobDetail/Data-Analyst-Co-op-FC-Live/210870?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |

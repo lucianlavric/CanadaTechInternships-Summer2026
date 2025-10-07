@@ -10646,5 +10646,21 @@
         "date_posted": 1759526486,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759800236,
+        "url": "https://job-boards.greenhouse.io/doordashcanada/jobs/7263628",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Doordash",
+        "title": "Software Engineer, Intern (Summer 2026) - Toronto",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "006929b5-98c7-4527-8faf-a9571cf2fecb",
+        "date_posted": 1759800236,
+        "company_url": "",
+        "is_visible": true
     }
 ]
