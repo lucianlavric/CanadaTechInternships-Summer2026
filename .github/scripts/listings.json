@@ -10971,5 +10971,21 @@
         "date_posted": 1759954116,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759954147,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/UGX-Analyst-Intern/210858",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "Electronic Arts",
+        "title": "UGX Analyst Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "510a3b66-ac3f-460b-94fe-37339fc7c3a6",
+        "date_posted": 1759954147,
+        "company_url": "",
+        "is_visible": true
     }
 ]
