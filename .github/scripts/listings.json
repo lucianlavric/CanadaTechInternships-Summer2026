@@ -10746,5 +10746,22 @@
         "date_posted": 1759952590,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759952618,
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/5668750004",
+        "locations": [
+            "Remote (Within Canada)",
+            "Locations in USA"
+        ],
+        "active": true,
+        "company_name": "Mercury",
+        "title": "Mobile Engineering Intern",
+        "season": "Spring",
+        "source": "AliElrafih",
+        "id": "bc687884-4865-45bd-81df-db2bbe8e353f",
+        "date_posted": 1759952618,
+        "company_url": "",
+        "is_visible": true
     }
 ]
