@@ -10729,5 +10729,22 @@
         "date_posted": 1759952542,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759952590,
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/5669732004",
+        "locations": [
+            "Remote (Within Canada)",
+            "Locations in USA"
+        ],
+        "active": true,
+        "company_name": "Mercury",
+        "title": "Full-Stack Engineering Intern",
+        "season": "Spring",
+        "source": "AliElrafih",
+        "id": "ce3b6509-71df-4cef-a890-427d3b631950",
+        "date_posted": 1759952590,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -18,7 +18,8 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Mercury | Frontend Engineering Intern | Remote (Within Canada)</br>Locations in USA | <a href="https://job-boards.greenhouse.io/mercury/jobs/5668759004?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
+| Mercury | Full-Stack Engineering Intern | Remote (Within Canada)</br>Locations in USA | <a href="https://job-boards.greenhouse.io/mercury/jobs/5669732004?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
+| ↳ | Frontend Engineering Intern | Remote (Within Canada)</br>Locations in USA | <a href="https://job-boards.greenhouse.io/mercury/jobs/5668759004?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
 | ↳ | Engineering Training Intern | Remote (Within Canada)</br>Locations in USA | <a href="https://job-boards.greenhouse.io/mercury/jobs/5669254004?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
 | ↳ | Backend Engineering Intern | Remote (within Canada)</br>Locations in USA | <a href="https://job-boards.greenhouse.io/mercury/jobs/5668745004?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
 | Canada Life | SWE intern | Toronto, ON | <a href="https://jobs.canadalife.com/job/Toronto-Software-Engineer-%2528Student-Postiont%2529-ON/1254010201?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
