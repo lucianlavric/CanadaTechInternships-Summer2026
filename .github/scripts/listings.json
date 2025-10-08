@@ -10859,5 +10859,21 @@
         "date_posted": 1759953143,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759953166,
+        "url": "https://www.bnpparibas.ca/en/jobs/modelling-ai-machine-learning-intern-may-august-2026/",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "BNP Paribas",
+        "title": "Modelling & AI Machine Learning Intern",
+        "season": "Spring",
+        "source": "AliElrafih",
+        "id": "ac379ec2-124d-4a46-8476-147e1f463a40",
+        "date_posted": 1759953166,
+        "company_url": "",
+        "is_visible": true
     }
 ]
