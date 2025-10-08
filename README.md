@@ -26,7 +26,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Epic Games | UI Programmer Intern | Montreal, QC | <a href="https://www.epicgames.com/site/en-US/careers/jobs/5673575004?gh_jid=5673575004&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
+| Epic Games | Programmer Inter | Montreal, QC | <a href="https://www.epicgames.com/site/en-US/careers/jobs/5664170004?gh_jid=5664170004&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
+| ↳ | UI Programmer Intern | Montreal, QC | <a href="https://www.epicgames.com/site/en-US/careers/jobs/5673575004?gh_jid=5673575004&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
 | Electronic Arts | Software Engineer Co-op- 8 month Term | Vancouver, BC | <a href="https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op-Sports-Tech-ATG/210860?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
 | ↳ | Software Engineer Co-op | Vancouver, BC | <a href="https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op-UFC-8-Month-Term/210887?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
 | ↳ | DevOps Software Engineer Co-op | Vancouver, BC | <a href="https://jobs.ea.com/en_US/careers/JobDetail/DevOps-Software-Engineer-Co-op/210931?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |

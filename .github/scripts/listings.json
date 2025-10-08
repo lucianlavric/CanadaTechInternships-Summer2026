@@ -10939,5 +10939,21 @@
         "date_posted": 1759954042,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759954098,
+        "url": "https://www.epicgames.com/site/en-US/careers/jobs/5664170004?gh_jid=5664170004",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "Epic Games",
+        "title": "Programmer Inter",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "2b87d0d4-6025-470f-9076-a8d03bc43f27",
+        "date_posted": 1759954098,
+        "company_url": "",
+        "is_visible": true
     }
 ]
