@@ -26,7 +26,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Electronic Arts | Software Engineer Co-op | Vancouver, BC | <a href="https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op-UFC-8-Month-Term/210887?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
+| Electronic Arts | Software Engineer Co-op- 8 month Term | Vancouver, BC | <a href="https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op-Sports-Tech-ATG/210860?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
+| ↳ | Software Engineer Co-op | Vancouver, BC | <a href="https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op-UFC-8-Month-Term/210887?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
 | ↳ | DevOps Software Engineer Co-op | Vancouver, BC | <a href="https://jobs.ea.com/en_US/careers/JobDetail/DevOps-Software-Engineer-Co-op/210931?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
 | Khan Academy | Software Engineer intern | Remote | <a href="https://job-boards.greenhouse.io/khanacademy/jobs/7258549?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | Doordash | Software Engineer, Intern (Summer 2026) - Toronto | Toronto, ON | <a href="https://job-boards.greenhouse.io/doordashcanada/jobs/7263628?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |

@@ -10843,5 +10843,21 @@
         "date_posted": 1759953048,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759953143,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op-Sports-Tech-ATG/210860",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "Electronic Arts",
+        "title": "Software Engineer Co-op- 8 month Term",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "96f24d86-0b1f-4d72-ab93-af5534246080",
+        "date_posted": 1759953143,
+        "company_url": "",
+        "is_visible": true
     }
 ]
