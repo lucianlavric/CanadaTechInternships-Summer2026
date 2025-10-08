@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Mercury | Backend Engineering Intern | Remote (within Canada)</br>Locations in USA | <a href="https://job-boards.greenhouse.io/mercury/jobs/5668745004?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
 | Canada Life | SWE intern | Toronto, ON | <a href="https://jobs.canadalife.com/job/Toronto-Software-Engineer-%2528Student-Postiont%2529-ON/1254010201?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | Amazon | SWE Intern | Vancouver, BC | <a href="https://31/software-development-engineer-internship-winter-2026-canada?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | Trend | Vulnerability Research Intern | Toronto, ON | <a href="https://trendmicro.wd3.myworkdayjobs.com/en-US/External/job/Toronto/Vulnerability-Research-Intern---Winter-2026_R0008256?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |

@@ -10678,5 +10678,22 @@
         "date_posted": 1759802850,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759952478,
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/5668745004",
+        "locations": [
+            "Remote (within Canada)",
+            "Locations in USA"
+        ],
+        "active": true,
+        "company_name": "Mercury",
+        "title": "Backend Engineering Intern",
+        "season": "Spring",
+        "source": "AliElrafih",
+        "id": "bec6c94f-a1b8-4df1-8909-6a2c32d172f2",
+        "date_posted": 1759952478,
+        "company_url": "",
+        "is_visible": true
     }
 ]
