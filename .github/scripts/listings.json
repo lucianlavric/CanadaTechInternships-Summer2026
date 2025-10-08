@@ -10795,5 +10795,21 @@
         "date_posted": 1759952724,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759952905,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Vancouver-Canada/QA-Automation--Co-Op_R58286",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "Motorola",
+        "title": "QA Automation",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "191e27d4-f13b-4250-baf3-43ddc47c8bfe",
+        "date_posted": 1759952905,
+        "company_url": "",
+        "is_visible": true
     }
 ]
