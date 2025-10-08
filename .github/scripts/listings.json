@@ -10923,5 +10923,21 @@
         "date_posted": 1759953276,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759954042,
+        "url": "https://www.epicgames.com/site/en-US/careers/jobs/5673575004?gh_jid=5673575004",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "Epic Games",
+        "title": "UI Programmer Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "eb2a0550-b19b-490a-9b9b-f9a3402b0856",
+        "date_posted": 1759954042,
+        "company_url": "",
+        "is_visible": true
     }
 ]
