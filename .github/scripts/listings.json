@@ -10875,5 +10875,21 @@
         "date_posted": 1759953166,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759953200,
+        "url": "https://procogia.com/about-us/careers/?gh_jid=4947733008",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "Procogia",
+        "title": "AI Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "7da03141-02e0-4eac-9fef-93e640f4a3cd",
+        "date_posted": 1759953200,
+        "company_url": "",
+        "is_visible": true
     }
 ]
