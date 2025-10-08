@@ -10891,5 +10891,21 @@
         "date_posted": 1759953200,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759953244,
+        "url": "https://carriere.soucy-group.com/en/annonce/4004139-software-programming-intern-j2b-1t8-drummondville",
+        "locations": [
+            "Drummondville, CA"
+        ],
+        "active": true,
+        "company_name": "Soucy",
+        "title": "Software Programming Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "e81f0449-0ef8-4110-8c0c-24c8f0d2b11b",
+        "date_posted": 1759953244,
+        "company_url": "",
+        "is_visible": true
     }
 ]
