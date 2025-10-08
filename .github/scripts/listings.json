@@ -10779,5 +10779,21 @@
         "date_posted": 1759952680,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759952724,
+        "url": "https://recruiting.ultipro.ca/STA5002SRFH/JobBoard/f6efecf3-f002-4502-8b5f-2a336f51e2dd/OpportunityDetail?opportunityId=4aadad5e-a2df-4841-97e6-96c19c8b00b8",
+        "locations": [
+            "Victoria, BC"
+        ],
+        "active": true,
+        "company_name": "Starfish Medical",
+        "title": "Machine Learning Scientist Coop",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "019d6b3d-6daa-4c2d-8f90-4b4687618481",
+        "date_posted": 1759952724,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Starfish Medical | Machine Learning Scientist Coop | Victoria, BC | <a href="https://recruiting.ultipro.ca/STA5002SRFH/JobBoard/f6efecf3-f002-4502-8b5f-2a336f51e2dd/OpportunityDetail?opportunityId=4aadad5e-a2df-4841-97e6-96c19c8b00b8&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
 | Mercury | Mobile Engineering Intern | Remote (Within Canada)</br>Locations in USA | <a href="https://job-boards.greenhouse.io/mercury/jobs/5668750004?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
 | ↳ | Full-Stack Engineering Intern | Remote (Within Canada)</br>Locations in USA | <a href="https://job-boards.greenhouse.io/mercury/jobs/5669732004?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
 | ↳ | Frontend Engineering Intern | Remote (Within Canada)</br>Locations in USA | <a href="https://job-boards.greenhouse.io/mercury/jobs/5668759004?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
