@@ -10907,5 +10907,21 @@
         "date_posted": 1759953244,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759953276,
+        "url": "https://job-boards.greenhouse.io/ada18/jobs/4934188007",
+        "locations": [
+            "Remote(Within Canada)"
+        ],
+        "active": true,
+        "company_name": "Ada",
+        "title": "Software Engineering Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "4fa7169a-942e-47d8-87a3-7d566083af6a",
+        "date_posted": 1759953276,
+        "company_url": "",
+        "is_visible": true
     }
 ]
