@@ -10811,5 +10811,21 @@
         "date_posted": 1759952905,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759953017,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/DevOps-Software-Engineer-Co-op/210931",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "Electronic Arts",
+        "title": "DevOps Software Engineer Co-op",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "a39ae18d-1459-4449-a5e9-49848440f52a",
+        "date_posted": 1759953017,
+        "company_url": "",
+        "is_visible": true
     }
 ]
