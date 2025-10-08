@@ -10712,5 +10712,22 @@
         "date_posted": 1759952516,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759952542,
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/5668759004",
+        "locations": [
+            "Remote (Within Canada)",
+            "Locations in USA"
+        ],
+        "active": true,
+        "company_name": "Mercury",
+        "title": "Frontend Engineering Intern",
+        "season": "Spring",
+        "source": "AliElrafih",
+        "id": "8c7cb9c6-4996-47dc-9f3a-11ebbd2d95bc",
+        "date_posted": 1759952542,
+        "company_url": "",
+        "is_visible": true
     }
 ]
