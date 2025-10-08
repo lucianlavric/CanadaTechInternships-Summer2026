@@ -10763,5 +10763,21 @@
         "date_posted": 1759952618,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759952680,
+        "url": "https://careers.caterpillar.com/en/jobs/r0000327957/software-designer-intern-stagiaire-en-conception-de-logiciels/",
+        "locations": [
+            "Laval, QC"
+        ],
+        "active": true,
+        "company_name": "Caterpillar",
+        "title": "Software Designer Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "9cf8f49c-d097-4767-8a2c-17686cec3639",
+        "date_posted": 1759952680,
+        "company_url": "",
+        "is_visible": true
     }
 ]
