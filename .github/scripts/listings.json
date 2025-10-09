@@ -11227,5 +11227,21 @@
         "date_posted": 1759983819,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759983884,
+        "url": "https://careers.se.com/jobs/98150",
+        "locations": [
+            "Victoria, BC"
+        ],
+        "active": true,
+        "company_name": "Schneider Electric",
+        "title": "Software designer - coop",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "28c11509-9891-4a40-9065-eb6ad1298ccc",
+        "date_posted": 1759983884,
+        "company_url": "",
+        "is_visible": true
     }
 ]
