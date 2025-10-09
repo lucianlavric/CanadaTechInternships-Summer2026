@@ -11035,5 +11035,21 @@
         "date_posted": 1759982921,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759982982,
+        "url": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7965",
+        "locations": [
+            "North Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "Seaspan",
+        "title": "Intern, Data Engineering",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "7b581e31-eb47-4bc3-b276-7104e7d7147f",
+        "date_posted": 1759982982,
+        "company_url": "",
+        "is_visible": true
     }
 ]
