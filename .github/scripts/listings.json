@@ -11115,5 +11115,21 @@
         "date_posted": 1759983390,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759983419,
+        "url": "https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/Student--Information-Technology--Calgary--May-2026-_R-409690",
+        "locations": [
+            "Calgary, AB"
+        ],
+        "active": true,
+        "company_name": "Cenovus",
+        "title": "Information Technology",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "cbe28cca-0896-428a-a2a8-6d61c2d07794",
+        "date_posted": 1759983419,
+        "company_url": "",
+        "is_visible": true
     }
 ]
