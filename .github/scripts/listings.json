@@ -11243,5 +11243,21 @@
         "date_posted": 1759983884,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759983897,
+        "url": "https://job-boards.greenhouse.io/ada18/jobs/4935065007",
+        "locations": [
+            "Remote"
+        ],
+        "active": true,
+        "company_name": "ADA",
+        "title": "SecOps Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "5195144a-e8eb-40e8-88a0-7e032e0a16fa",
+        "date_posted": 1759983897,
+        "company_url": "",
+        "is_visible": true
     }
 ]
