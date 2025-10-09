@@ -11147,5 +11147,21 @@
         "date_posted": 1759983479,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759983594,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1892565/Research-Intern---Future-Agent-Systems",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Research Intern - Future Agent Systems",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "51a5ee7e-ba78-4d15-9423-a6c7991b52ae",
+        "date_posted": 1759983594,
+        "company_url": "",
+        "is_visible": true
     }
 ]
