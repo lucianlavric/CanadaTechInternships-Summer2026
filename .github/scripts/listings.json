@@ -11019,5 +11019,21 @@
         "date_posted": 1759982877,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759982921,
+        "url": "https://job-boards.greenhouse.io/ada18/jobs/4934925007",
+        "locations": [
+            "Remote"
+        ],
+        "active": true,
+        "company_name": "ADA",
+        "title": "DevOps Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "14f5bc97-d980-42b4-acfc-15ee0f9f207e",
+        "date_posted": 1759982921,
+        "company_url": "",
+        "is_visible": true
     }
 ]
