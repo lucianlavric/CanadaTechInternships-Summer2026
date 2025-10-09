@@ -11163,5 +11163,21 @@
         "date_posted": 1759983594,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759983657,
+        "url": "https://jobs.lever.co/super-com/199e1180-916c-4857-893a-fe2cf15f31e7",
+        "locations": [
+            "Remote"
+        ],
+        "active": true,
+        "company_name": "Super.com",
+        "title": "Software Engineering Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "7c991c11-fc66-47ec-9d62-5189b3c1e9cc",
+        "date_posted": 1759983657,
+        "company_url": "",
+        "is_visible": true
     }
 ]

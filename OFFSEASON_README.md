@@ -19,6 +19,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | WindRiver | Engineering Intern | Kanata, ON | <a href="https://jobs.jobvite.com/windriver/job/oKEhxfwW?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
+| Super.com | Software Engineering Intern | Remote | <a href="https://jobs.lever.co/super-com/199e1180-916c-4857-893a-fe2cf15f31e7?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
 | Starfish Medical | Machine Learning Scientist Coop | Victoria, BC | <a href="https://recruiting.ultipro.ca/STA5002SRFH/JobBoard/f6efecf3-f002-4502-8b5f-2a336f51e2dd/OpportunityDetail?opportunityId=4aadad5e-a2df-4841-97e6-96c19c8b00b8&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
 | Soucy | Software Programming Intern | Drummondville, CA | <a href="https://carriere.soucy-group.com/en/annonce/4004139-software-programming-intern-j2b-1t8-drummondville?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
 | Seaspan | Intern, Data Engineering | North Vancouver, BC | <a href="https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7965?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
