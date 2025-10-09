@@ -26,7 +26,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Vertex | Emerging Technology Developer Intern | Remote | <a href="https://vertexinc.wd1.myworkdayjobs.com/VertexInc/job/Remote---PA/Emerging-Technology-Developer-Intern_JR102212?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
+| Vertex | Software Development Intern | Remote | <a href="https://vertexinc.wd1.myworkdayjobs.com/en-US/VertexInc/job/Software-Development-Intern_JR102163-2?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
+| ↳ | Emerging Technology Developer Intern | Remote | <a href="https://vertexinc.wd1.myworkdayjobs.com/VertexInc/job/Remote---PA/Emerging-Technology-Developer-Intern_JR102212?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
 | Epic Games | Programmer Inter | Montreal, QC | <a href="https://www.epicgames.com/site/en-US/careers/jobs/5664170004?gh_jid=5664170004&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
 | ↳ | UI Programmer Intern | Montreal, QC | <a href="https://www.epicgames.com/site/en-US/careers/jobs/5673575004?gh_jid=5673575004&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
 | Electronic Arts | UGX Analyst Intern | Vancouver, BC | <a href="https://jobs.ea.com/en_US/careers/JobDetail/UGX-Analyst-Intern/210858?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |

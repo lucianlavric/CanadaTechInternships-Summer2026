@@ -11003,5 +11003,21 @@
         "date_posted": 1759982809,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759982877,
+        "url": "https://vertexinc.wd1.myworkdayjobs.com/en-US/VertexInc/job/Software-Development-Intern_JR102163-2",
+        "locations": [
+            "Remote"
+        ],
+        "active": true,
+        "company_name": "Vertex",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "d9a3584a-30aa-48fd-a19c-8d88972ddaa5",
+        "date_posted": 1759982877,
+        "company_url": "",
+        "is_visible": true
     }
 ]
