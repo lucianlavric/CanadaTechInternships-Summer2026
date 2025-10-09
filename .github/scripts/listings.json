@@ -10987,5 +10987,21 @@
         "date_posted": 1759954147,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759982809,
+        "url": "https://vertexinc.wd1.myworkdayjobs.com/VertexInc/job/Remote---PA/Emerging-Technology-Developer-Intern_JR102212",
+        "locations": [
+            "Remote"
+        ],
+        "active": true,
+        "company_name": "Vertex",
+        "title": "Emerging Technology Developer Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "0c6a34df-6600-4aa8-bc9a-9a4fdd7e2785",
+        "date_posted": 1759982809,
+        "company_url": "",
+        "is_visible": true
     }
 ]
