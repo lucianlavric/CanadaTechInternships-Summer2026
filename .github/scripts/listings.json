@@ -11067,5 +11067,21 @@
         "date_posted": 1759983123,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759983319,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25043",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Optical Test Coop",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "a57b414a-3eab-4831-a8e5-d88f354d28e8",
+        "date_posted": 1759983319,
+        "company_url": "",
+        "is_visible": true
     }
 ]
