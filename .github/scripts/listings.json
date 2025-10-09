@@ -11211,5 +11211,21 @@
         "date_posted": 1759983722,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759983819,
+        "url": "https://cclfg.cclgroup.com/careers/opportunities/posting/?gnk=job&gni=8a78879e99734e900199c51533ca00d9&gns=linkedin",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Connor, Clark & Lunn",
+        "title": "Intern, Information Security",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "4e3208d0-fd54-4a02-80de-e313afc04547",
+        "date_posted": 1759983819,
+        "company_url": "",
+        "is_visible": true
     }
 ]
