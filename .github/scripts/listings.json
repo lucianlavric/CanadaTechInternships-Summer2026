@@ -11083,5 +11083,21 @@
         "date_posted": 1759983319,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759983352,
+        "url": "https://careers.pcl.com/job/Edmonton-Technology-Analyst-Student-AB/1333000900",
+        "locations": [
+            "Edmonton, AB"
+        ],
+        "active": true,
+        "company_name": "PCL",
+        "title": "Technology Analyst Student",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "204f1187-f08a-455c-b2f5-255e7a68c966",
+        "date_posted": 1759983352,
+        "company_url": "",
+        "is_visible": true
     }
 ]
