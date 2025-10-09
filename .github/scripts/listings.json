@@ -11099,5 +11099,21 @@
         "date_posted": 1759983352,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759983390,
+        "url": "https://hypercare.applytojobs.ca/engineering/42062",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Hypercare Jobs",
+        "title": "Quality Assurance Engineer",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "d0029372-2e61-4c3c-9781-9b1b79c9d86c",
+        "date_posted": 1759983390,
+        "company_url": "",
+        "is_visible": true
     }
 ]
