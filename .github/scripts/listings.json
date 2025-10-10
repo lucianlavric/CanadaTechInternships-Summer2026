@@ -11387,5 +11387,21 @@
         "date_posted": 1760129798,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760129826,
+        "url": "https://job-boards.greenhouse.io/leagueinc/jobs/5675526004",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "League",
+        "title": "Cloud Platform Engineer (Co-op)",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "c15cad54-7cca-4b5c-9a77-182a92e0db6c",
+        "date_posted": 1760129826,
+        "company_url": "",
+        "is_visible": true
     }
 ]
