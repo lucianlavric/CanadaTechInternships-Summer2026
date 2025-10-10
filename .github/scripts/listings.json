@@ -11259,5 +11259,21 @@
         "date_posted": 1759983897,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760129557,
+        "url": "https://jobs.boeing.com/job/-/-/185/87039819648",
+        "locations": [
+            "Richmond, BC"
+        ],
+        "active": true,
+        "company_name": "Boeing",
+        "title": "Data Science Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "b54c3744-f458-490d-97b1-ed0298eee7da",
+        "date_posted": 1760129557,
+        "company_url": "",
+        "is_visible": true
     }
 ]
