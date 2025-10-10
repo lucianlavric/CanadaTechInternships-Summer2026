@@ -11435,5 +11435,21 @@
         "date_posted": 1760129905,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760129946,
+        "url": "https://careers.celestica.com/job/Toronto-Student-Intern%2C-Global-Engineering-ON/1256135501",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Celestica",
+        "title": "Global Engineering",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "8c041786-ed60-45c7-9ce1-352645e6bf12",
+        "date_posted": 1760129946,
+        "company_url": "",
+        "is_visible": true
     }
 ]
