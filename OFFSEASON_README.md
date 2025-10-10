@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Nvidia | Research Scientist Intern, Simulation Technology | Toronto, ON | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Research-Scientist-Intern--Simulation-Technology---2026_JR2005532?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | Index Exchange | Software Engineer – Co-op | Toronto, ON | <a href="https://jobs.gem.com/index-exchange/7201108?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | Boeing | Data Engineering Intern | Richmond, BC | <a href="https://jobs.boeing.com/job/richmond/data-engineering-intern/185/87039819776?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | ↳ | Data Science Business Operations Intern | Richmond, BC | <a href="https://jobs.boeing.com/job/-/-/185/87039819792?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |

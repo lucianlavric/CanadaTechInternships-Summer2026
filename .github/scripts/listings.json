@@ -11355,5 +11355,21 @@
         "date_posted": 1760129720,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760129779,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Research-Scientist-Intern--Simulation-Technology---2026_JR2005532",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Nvidia",
+        "title": "Research Scientist Intern, Simulation Technology",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "189ec634-23f9-4697-ac67-4d7e7de7830e",
+        "date_posted": 1760129779,
+        "company_url": "",
+        "is_visible": true
     }
 ]
