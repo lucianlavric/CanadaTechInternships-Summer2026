@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Index Exchange | Software Engineer – Co-op | Toronto, ON | <a href="https://jobs.gem.com/index-exchange/7201108?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | Boeing | Data Science Business Operations Intern | Richmond, BC | <a href="https://jobs.boeing.com/job/-/-/185/87039819792?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | ↳ | Data Science Intern | Richmond, BC | <a href="https://jobs.boeing.com/job/-/-/185/87039819648?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | WindRiver | Engineering Intern | Kanata, ON | <a href="https://jobs.jobvite.com/windriver/job/oKEhxfwW?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |

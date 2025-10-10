@@ -11307,5 +11307,21 @@
         "date_posted": 1760129617,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760129670,
+        "url": "https://jobs.gem.com/index-exchange/7201108",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Index Exchange",
+        "title": "Software Engineer \u2013 Co-op",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "d20efcff-b90f-4cd0-af45-76c0932bce36",
+        "date_posted": 1760129670,
+        "company_url": "",
+        "is_visible": true
     }
 ]
