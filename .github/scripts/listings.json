@@ -11451,5 +11451,21 @@
         "date_posted": 1760129946,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760130008,
+        "url": "https://careers.manulife.com/global/en/job/MFZMFIUSJR25100432EXTERNALENGLOBAL/Summer-Intern-Co-op-2026-Quantitative-Analyst",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Manulife | John Hancock",
+        "title": "Quantitative Analyst",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "4690799d-77fc-4f63-84cb-fb02c1192844",
+        "date_posted": 1760130008,
+        "company_url": "",
+        "is_visible": true
     }
 ]

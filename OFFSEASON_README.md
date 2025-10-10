@@ -19,6 +19,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Nvidia | Research Scientist Intern, Simulation Technology | Toronto, ON | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Research-Scientist-Intern--Simulation-Technology---2026_JR2005532?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
+| Manulife | John Hancock | Quantitative Analyst | Toronto, ON | <a href="https://careers.manulife.com/global/en/job/MFZMFIUSJR25100432EXTERNALENGLOBAL/Summer-Intern-Co-op-2026-Quantitative-Analyst?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | League | Backend Engineer (Co-op) | Toronto, ON | <a href="https://job-boards.greenhouse.io/leagueinc/jobs/5673440004?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | ↳ | Cloud Platform Engineer (Co-op) | Toronto, ON | <a href="https://job-boards.greenhouse.io/leagueinc/jobs/5675526004?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | Index Exchange | Software Engineer – Co-op | Toronto, ON | <a href="https://jobs.gem.com/index-exchange/7201108?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
