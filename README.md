@@ -26,6 +26,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Epic Games | Tools Programmer Intern | Montreal, QC | <a href="https://www.epicgames.com/site/en-US/careers/jobs/5673407004?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | Chess.com | Engineering internship, Backend | Remote(US) | <a href="https://ats.rippling.com/en-GB/chess/jobs/f199901c-ee5f-4846-97ed-b2252be44a30?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | Vertex | Software Development Intern | Remote | <a href="https://vertexinc.wd1.myworkdayjobs.com/en-US/VertexInc/job/Software-Development-Intern_JR102163-2?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
 | ↳ | Emerging Technology Developer Intern | Remote | <a href="https://vertexinc.wd1.myworkdayjobs.com/VertexInc/job/Remote---PA/Emerging-Technology-Developer-Intern_JR102212?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
