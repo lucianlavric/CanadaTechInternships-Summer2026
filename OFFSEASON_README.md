@@ -18,7 +18,8 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Boeing | Data Science Intern | Richmond, BC | <a href="https://jobs.boeing.com/job/-/-/185/87039819648?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
+| Boeing | Data Science Business Operations Intern | Richmond, BC | <a href="https://jobs.boeing.com/job/-/-/185/87039819792?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
+| ↳ | Data Science Intern | Richmond, BC | <a href="https://jobs.boeing.com/job/-/-/185/87039819648?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | WindRiver | Engineering Intern | Kanata, ON | <a href="https://jobs.jobvite.com/windriver/job/oKEhxfwW?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
 | Super.com | Software Engineering Intern | Remote | <a href="https://jobs.lever.co/super-com/199e1180-916c-4857-893a-fe2cf15f31e7?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
 | Starfish Medical | Machine Learning Scientist Coop | Victoria, BC | <a href="https://recruiting.ultipro.ca/STA5002SRFH/JobBoard/f6efecf3-f002-4502-8b5f-2a336f51e2dd/OpportunityDetail?opportunityId=4aadad5e-a2df-4841-97e6-96c19c8b00b8&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |

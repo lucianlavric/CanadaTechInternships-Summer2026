@@ -11275,5 +11275,21 @@
         "date_posted": 1760129557,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760129588,
+        "url": "https://jobs.boeing.com/job/-/-/185/87039819792",
+        "locations": [
+            "Richmond, BC"
+        ],
+        "active": true,
+        "company_name": "Boeing",
+        "title": "Data Science Business Operations Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "9ec6d944-aa09-4d9d-824b-96a0c1782da9",
+        "date_posted": 1760129588,
+        "company_url": "",
+        "is_visible": true
     }
 ]
