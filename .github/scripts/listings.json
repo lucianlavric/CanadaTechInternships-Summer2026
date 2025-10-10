@@ -11323,5 +11323,21 @@
         "date_posted": 1760129670,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760129693,
+        "url": "https://jobs.boeing.com/job/richmond/data-engineering-intern/185/87039819776",
+        "locations": [
+            "Richmond, BC"
+        ],
+        "active": true,
+        "company_name": "Boeing",
+        "title": "Data Engineering Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "8707411b-3259-4890-a629-3d0e77e8f202",
+        "date_posted": 1760129693,
+        "company_url": "",
+        "is_visible": true
     }
 ]
