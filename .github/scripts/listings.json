@@ -11371,5 +11371,21 @@
         "date_posted": 1760129779,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760129798,
+        "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Software-Test-Automation-Engineer-Co-op-Intern---Winter-2026_R029195",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Ciena",
+        "title": "Software Test Automation Engineer Co-op/Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "64356fc2-731f-4997-a75e-30941eafd4ab",
+        "date_posted": 1760129798,
+        "company_url": "",
+        "is_visible": true
     }
 ]
