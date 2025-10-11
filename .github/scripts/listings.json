@@ -11579,5 +11579,21 @@
         "date_posted": 1760151742,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760152047,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Development-Intern/210855",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "Electronic Arts",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "2ab877ef-64aa-4667-bc2c-9f9e8a06e4f7",
+        "date_posted": 1760152047,
+        "company_url": "",
+        "is_visible": true
     }
 ]
