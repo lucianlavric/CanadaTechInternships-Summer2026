@@ -11499,5 +11499,21 @@
         "date_posted": 1760151382,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760151450,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Toronto-ON-CAN/Intern--Frontend-Software-Developer_25WD92318",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Autodesk",
+        "title": "Frontend Software Developer",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "ff3ae55d-5325-4f1e-bcf1-e83dd2521d68",
+        "date_posted": 1760151450,
+        "company_url": "",
+        "is_visible": true
     }
 ]
