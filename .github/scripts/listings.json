@@ -11644,5 +11644,21 @@
         "date_posted": 1760152261,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760152293,
+        "url": "https://careers-kinaxis.icims.com/jobs/33853/co-op-intern-escalations-bi-and-knowledge/job",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Kinaxis",
+        "title": "Co-op/Intern Escalations BI and Knowledge",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "87800d98-e69a-41d4-bc6e-17dd50c3bb27",
+        "date_posted": 1760152293,
+        "company_url": "",
+        "is_visible": true
     }
 ]
