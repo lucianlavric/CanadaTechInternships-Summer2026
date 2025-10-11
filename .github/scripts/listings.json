@@ -11611,5 +11611,22 @@
         "date_posted": 1760152155,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760152227,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2026-Co-Op---Software-Developer---Virtualization-and-SIL-Integration_JR-202519570",
+        "locations": [
+            "Markham, ON",
+            "Oshawa, ON"
+        ],
+        "active": true,
+        "company_name": "General Motors",
+        "title": "Software Developer \u2013 Virtualization and SIL Integration",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "285bcb38-c364-4c3c-bf7f-f0662b714dda",
+        "date_posted": 1760152227,
+        "company_url": "",
+        "is_visible": true
     }
 ]
