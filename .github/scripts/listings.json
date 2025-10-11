@@ -11595,5 +11595,21 @@
         "date_posted": 1760152047,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760152155,
+        "url": "https://www.ycombinator.com/companies/terminal/jobs/yRmqkb1-data-platform-engineer-co-op-in-person-toronto",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Terminal",
+        "title": "Data Platform Engineer",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "437c0993-5e45-4d67-96f6-14761fb6bc2e",
+        "date_posted": 1760152155,
+        "company_url": "",
+        "is_visible": true
     }
 ]
