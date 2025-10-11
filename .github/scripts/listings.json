@@ -11628,5 +11628,21 @@
         "date_posted": 1760152227,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760152261,
+        "url": "https://www.epicgames.com/site/en-US/careers/jobs/5673409004",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "Epic Games",
+        "title": "Tools Programer",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "c096a203-23ca-49a2-b7b0-89e9dcb4eec1",
+        "date_posted": 1760152261,
+        "company_url": "",
+        "is_visible": true
     }
 ]
