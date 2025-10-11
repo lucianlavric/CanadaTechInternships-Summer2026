@@ -11547,5 +11547,21 @@
         "date_posted": 1760151576,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760151693,
+        "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/Toronto-Ontario-Canada/FPGA-Machine-Learning-Overlay-Engineering-Intern_R01408",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Altera",
+        "title": "FPGA Machine Learning Overlay Engineering Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "36582351-83b5-4670-94e8-2923792963ae",
+        "date_posted": 1760151693,
+        "company_url": "",
+        "is_visible": true
     }
 ]
