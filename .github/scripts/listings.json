@@ -11467,5 +11467,21 @@
         "date_posted": 1760130008,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760151354,
+        "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Performance-Automation-Intern-January-2026--4-8-months-_R029184",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Ciena",
+        "title": "Performance Automation Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "6a9abd2f-f55d-415e-bfd6-3b0c5161cdd2",
+        "date_posted": 1760151354,
+        "company_url": "",
+        "is_visible": true
     }
 ]
