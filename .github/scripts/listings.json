@@ -11563,5 +11563,21 @@
         "date_posted": 1760151693,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760151742,
+        "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Software-Analyst-Intern---C----Python--Git--Docker--8-months_R1010726",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Hitachi",
+        "title": "Software Analyst Intern - C++, Python, Git, Docker",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "34777caf-41fc-4d06-b7a8-172d6a1a1ccc",
+        "date_posted": 1760151742,
+        "company_url": "",
+        "is_visible": true
     }
 ]
