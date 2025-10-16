@@ -11660,5 +11660,22 @@
         "date_posted": 1760152293,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760581982,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Ontario-CAN---Remote/Intern--Machine-Learning-Operations-Engineer_25WD92313-1",
+        "locations": [
+            "Remote",
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "Autodesk",
+        "title": "Machine Learning Operations Engineer",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "af854df5-1ee7-4906-bd20-d2224944815c",
+        "date_posted": 1760581982,
+        "company_url": "",
+        "is_visible": true
     }
 ]
