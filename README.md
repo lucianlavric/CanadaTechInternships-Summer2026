@@ -26,7 +26,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Mercury | Backend Engineering Intern | Remote | <a href="https://job-boards.greenhouse.io/mercury/jobs/5668761004?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
+| Mercury | Engineering Training Intern | Remote | <a href="https://job-boards.greenhouse.io/mercury/jobs/5669255004?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
+| ↳ | Backend Engineering Intern | Remote | <a href="https://job-boards.greenhouse.io/mercury/jobs/5668761004?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | Autodesk | Machine Learning Operations Engineer | Remote</br>Montreal, QC | <a href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Ontario-CAN---Remote/Intern--Machine-Learning-Operations-Engineer_25WD92313-1?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | General Motors | Software Developer – Virtualization and SIL Integration | Markham, ON</br>Oshawa, ON | <a href="https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2026-Co-Op---Software-Developer---Virtualization-and-SIL-Integration_JR-202519570?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | Epic Games | Tools Programmer Intern | Montreal, QC | <a href="https://www.epicgames.com/site/en-US/careers/jobs/5673407004?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |

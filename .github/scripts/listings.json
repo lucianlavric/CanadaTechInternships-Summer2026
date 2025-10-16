@@ -11709,5 +11709,21 @@
         "date_posted": 1760582114,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760582143,
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/5669255004",
+        "locations": [
+            "Remote"
+        ],
+        "active": true,
+        "company_name": "Mercury",
+        "title": "Engineering Training Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "6c57ae2b-6543-4db4-9b84-216912905f70",
+        "date_posted": 1760582143,
+        "company_url": "",
+        "is_visible": true
     }
 ]
