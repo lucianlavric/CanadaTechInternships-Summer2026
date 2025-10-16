@@ -11789,5 +11789,23 @@
         "date_posted": 1760582343,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760582447,
+        "url": "https://jobs.canadalife.com/job/Toronto-Software-Developer-%2528Student-Position%2529-ON/1258838501",
+        "locations": [
+            "Toronto, ON",
+            "London, ON",
+            "Winnipeg, MB"
+        ],
+        "active": true,
+        "company_name": "Canada Life",
+        "title": "Software Developer",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "c576d72e-2c02-486d-86cd-92aeef78df8d",
+        "date_posted": 1760582447,
+        "company_url": "",
+        "is_visible": true
     }
 ]
