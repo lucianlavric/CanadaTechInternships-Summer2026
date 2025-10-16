@@ -11903,5 +11903,21 @@
         "date_posted": 1760599031,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760599069,
+        "url": "https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/Student--AI--Software-Development---Data-Science--Calgary--January-2026-_R-409704-1",
+        "locations": [
+            "Calgary, AB"
+        ],
+        "active": true,
+        "company_name": "Cenovus Energy",
+        "title": "Software Development & Data Science",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "17b3c195-8d5b-4ca4-aa5d-889d2d5aca16",
+        "date_posted": 1760599069,
+        "company_url": "",
+        "is_visible": true
     }
 ]
