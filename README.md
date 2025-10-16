@@ -26,6 +26,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| MongoDB | Software Engineering Intern | Toronto, ON | <a href="https://www.mongodb.com/careers/jobs/7239049?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | Mercury | Full-stack Engineering Intern | Remote | <a href="https://job-boards.greenhouse.io/mercury/jobs/5676309004?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | ↳ | Frontend Engineering Intern | Remote | <a href="https://job-boards.greenhouse.io/mercury/jobs/5669256004?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | ↳ | Engineering Training Intern | Remote | <a href="https://job-boards.greenhouse.io/mercury/jobs/5669255004?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
