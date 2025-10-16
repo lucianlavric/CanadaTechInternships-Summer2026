@@ -11935,5 +11935,21 @@
         "date_posted": 1760599147,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760599174,
+        "url": "https://careers.synopsys.com/job/-/-/44408/87261490544",
+        "locations": [
+            "Remote"
+        ],
+        "active": true,
+        "company_name": "Synopsys",
+        "title": "Software Development and Testing",
+        "season": "Spring",
+        "source": "AliElrafih",
+        "id": "c9f0721d-d186-4d51-ba99-2fcce17ba412",
+        "date_posted": 1760599174,
+        "company_url": "",
+        "is_visible": true
     }
 ]

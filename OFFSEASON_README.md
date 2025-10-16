@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Synopsys | Software Development and Testing | Remote | <a href="https://careers.synopsys.com/job/-/-/44408/87261490544?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | Kinaxis | Intern Developer, Analytics Engine, Computation as a Service | Ottawa, ON | <a href="https://careers-kinaxis.icims.com/jobs/33861/co-op-intern-developer%2c-analytics-engine%2c-computation-as-a-service/job?mobile=false&width=726&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | Interdigital | Transform Optimization for Next Generation Video Coding | Montreal, QC | <a href="https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Montreal-CAD/Intern--Transform-Optimization-for-Next-Generation-Video-Coding_REQ25-1046?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | Electronic Arts | Software Engineer Co-Op | Vancouver, BC | <a href="https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineering-Co-Op/210924?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
