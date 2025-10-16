@@ -26,7 +26,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Mercury | Frontend Engineering Intern | Remote | <a href="https://job-boards.greenhouse.io/mercury/jobs/5669256004?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
+| Mercury | Full-stack Engineering Intern | Remote | <a href="https://job-boards.greenhouse.io/mercury/jobs/5676309004?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
+| ↳ | Frontend Engineering Intern | Remote | <a href="https://job-boards.greenhouse.io/mercury/jobs/5669256004?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | ↳ | Engineering Training Intern | Remote | <a href="https://job-boards.greenhouse.io/mercury/jobs/5669255004?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | ↳ | Backend Engineering Intern | Remote | <a href="https://job-boards.greenhouse.io/mercury/jobs/5668761004?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | Autodesk | Machine Learning Operations Engineer | Remote</br>Montreal, QC | <a href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Ontario-CAN---Remote/Intern--Machine-Learning-Operations-Engineer_25WD92313-1?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |

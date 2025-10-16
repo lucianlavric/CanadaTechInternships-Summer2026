@@ -11741,5 +11741,21 @@
         "date_posted": 1760582156,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760582173,
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/5676309004",
+        "locations": [
+            "Remote"
+        ],
+        "active": true,
+        "company_name": "Mercury",
+        "title": "Full-stack Engineering Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "84bcf726-58eb-4a20-9e89-6d7ed1794cd6",
+        "date_posted": 1760582173,
+        "company_url": "",
+        "is_visible": true
     }
 ]
