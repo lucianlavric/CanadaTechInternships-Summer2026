@@ -11887,5 +11887,21 @@
         "date_posted": 1760598991,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760599031,
+        "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/AI-Agent-Development-Intern_R029245",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Ciena",
+        "title": "AI Agent Development Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "c923390c-91dd-498e-9800-f64359893f60",
+        "date_posted": 1760599031,
+        "company_url": "",
+        "is_visible": true
     }
 ]
