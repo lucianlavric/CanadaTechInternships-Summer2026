@@ -11871,5 +11871,21 @@
         "date_posted": 1760598957,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760598991,
+        "url": "https://careers-kinaxis.icims.com/jobs/33861/co-op-intern-developer%2c-analytics-engine%2c-computation-as-a-service/job?mobile=false&width=726&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Kinaxis",
+        "title": "Intern Developer, Analytics Engine, Computation as a Service",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "aa46901f-11ae-49b0-b1bc-48a25349e424",
+        "date_posted": 1760598991,
+        "company_url": "",
+        "is_visible": true
     }
 ]
