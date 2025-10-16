@@ -11693,5 +11693,21 @@
         "date_posted": 1760582069,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760582114,
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/5668761004",
+        "locations": [
+            "Remote"
+        ],
+        "active": true,
+        "company_name": "Mercury",
+        "title": "Backend Engineering Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "f7f55795-c62e-484c-8763-913e5c7a85bf",
+        "date_posted": 1760582114,
+        "company_url": "",
+        "is_visible": true
     }
 ]
