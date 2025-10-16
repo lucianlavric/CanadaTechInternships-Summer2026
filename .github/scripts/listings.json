@@ -11725,5 +11725,21 @@
         "date_posted": 1760582143,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760582156,
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/5669256004",
+        "locations": [
+            "Remote"
+        ],
+        "active": true,
+        "company_name": "Mercury",
+        "title": "Frontend Engineering Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "496c7724-0ce6-4ce1-92b5-a0da0e2671c1",
+        "date_posted": 1760582156,
+        "company_url": "",
+        "is_visible": true
     }
 ]
