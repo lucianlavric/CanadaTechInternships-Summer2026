@@ -11855,5 +11855,21 @@
         "date_posted": 1760598918,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760598957,
+        "url": "https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Montreal-CAD/Intern--Transform-Optimization-for-Next-Generation-Video-Coding_REQ25-1046",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "Interdigital",
+        "title": "Transform Optimization for Next Generation Video Coding",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "0369da60-efbe-45b1-a999-b9fb6f746b12",
+        "date_posted": 1760598957,
+        "company_url": "",
+        "is_visible": true
     }
 ]
