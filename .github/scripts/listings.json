@@ -11967,5 +11967,21 @@
         "date_posted": 1760599226,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760599280,
+        "url": "https://jobs.pulsenics.com/jobs/5912914-firmware-developer-intern",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Pulsenics",
+        "title": "Firmware Developer Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "6c2da15a-01b1-498f-aab8-785ef54553a4",
+        "date_posted": 1760599280,
+        "company_url": "",
+        "is_visible": true
     }
 ]
