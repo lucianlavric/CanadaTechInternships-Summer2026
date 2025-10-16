@@ -11951,5 +11951,21 @@
         "date_posted": 1760599174,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760599226,
+        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=64712",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "IBM",
+        "title": "Full Stack Developer Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "375f90a1-c1ca-46be-8882-d92608352f7f",
+        "date_posted": 1760599226,
+        "company_url": "",
+        "is_visible": true
     }
 ]
