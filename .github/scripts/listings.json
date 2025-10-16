@@ -11919,5 +11919,21 @@
         "date_posted": 1760599069,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760599147,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineering-Co-Op/210924",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "Electronic Arts",
+        "title": "Software Engineer Co-Op",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "63fd2fc5-cafe-4cf6-bb40-c71cd695381a",
+        "date_posted": 1760599147,
+        "company_url": "",
+        "is_visible": true
     }
 ]
