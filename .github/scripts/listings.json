@@ -11823,5 +11823,21 @@
         "date_posted": 1760582529,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760594731,
+        "url": "https://saputo.wd5.myworkdayjobs.com/Saputo_External_Careers/job/Montral-QC/Intern--Business-Intelligence_JR58816",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "Saputo",
+        "title": "Business Intelligence Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "1f6fa095-339d-4653-9c0d-e005d68ec0e0",
+        "date_posted": 1760594731,
+        "company_url": "",
+        "is_visible": true
     }
 ]
