@@ -11677,5 +11677,21 @@
         "date_posted": 1760581982,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760582069,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25003391",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Texas Instruments",
+        "title": "Software Engineering Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "bd9ad0eb-b78f-49b3-831b-55c580cb4f4e",
+        "date_posted": 1760582069,
+        "company_url": "",
+        "is_visible": true
     }
 ]
