@@ -11807,5 +11807,21 @@
         "date_posted": 1760582447,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760582529,
+        "url": "https://jobdetails.nestle.com/job/North-York-Applications-Web-Developer-Intern-ON/1258794601",
+        "locations": [
+            "North York, ON"
+        ],
+        "active": true,
+        "company_name": "Nestle",
+        "title": "Applications Web Developer Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "824d4d4c-8957-43a2-83c7-a166fda1097b",
+        "date_posted": 1760582529,
+        "company_url": "",
+        "is_visible": true
     }
 ]
