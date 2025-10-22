@@ -12047,5 +12047,21 @@
         "date_posted": 1761099981,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761101650,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/8168699002",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Lyft",
+        "title": "Software Engineer Intern (Machine Learning)",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "98340159-d8b4-4c81-ba31-c365d5c7ab97",
+        "date_posted": 1761101650,
+        "company_url": "",
+        "is_visible": true
     }
 ]
