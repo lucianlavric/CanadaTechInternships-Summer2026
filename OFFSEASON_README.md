@@ -19,6 +19,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Canada Life | Software Developer (Student Position) | London, ON | <a href="https://londontechjobs.ca/job.aspx?jid=b814d7e5-322a-4e16-a578-a97dd066bd9a&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
+| Arctic Wolf | Winter 2026 Developer Co-op | Waterloo, ON | <a href="https://www1.communitech.ca/companies/arctic-wolf/jobs/60830313-winter-2026-developer-co-op#content?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | Synopsys | Software Development and Testing | Remote | <a href="https://careers.synopsys.com/job/-/-/44408/87261490544?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | Pulsenics | Firmware Developer Intern | Toronto, ON | <a href="https://jobs.pulsenics.com/jobs/5912914-firmware-developer-intern?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | OpusClip | AI PM Intern | Vancouver, BC | <a href="https://jobs.ashbyhq.com/opusclip/10737cdc-a0de-4184-b146-116d78965324?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
