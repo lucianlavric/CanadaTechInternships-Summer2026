@@ -12015,5 +12015,21 @@
         "date_posted": 1761099756,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761099879,
+        "url": "https://londontechjobs.ca/job.aspx?jid=b814d7e5-322a-4e16-a578-a97dd066bd9a",
+        "locations": [
+            "London, ON"
+        ],
+        "active": true,
+        "company_name": "Canada Life",
+        "title": "Software Developer (Student Position)",
+        "season": "Winter",
+        "source": "lucianlavric",
+        "id": "73934093-7fab-4926-934c-c289d27da23a",
+        "date_posted": 1761099879,
+        "company_url": "",
+        "is_visible": true
     }
 ]
