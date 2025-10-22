@@ -11999,5 +11999,21 @@
         "date_posted": 1760599332,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761099756,
+        "url": "https://www.linkedin.com/jobs/search/?currentJobId=4318156765&f_TPR=r10000&geoId=101174742&keywords=coop&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true",
+        "locations": [
+            "Burnaby, BC"
+        ],
+        "active": true,
+        "company_name": "2K",
+        "title": "Software Test Intern",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "f4c28209-fb0c-47be-97f3-2ad2a8ff9499",
+        "date_posted": 1761099756,
+        "company_url": "",
+        "is_visible": true
     }
 ]
