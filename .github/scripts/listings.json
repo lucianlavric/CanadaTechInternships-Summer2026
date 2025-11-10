@@ -12143,5 +12143,21 @@
         "date_posted": 1762798407,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762798457,
+        "url": "https://trimble.eightfold.ai/careers/job/171837368471?domain=trimble.com&hl=en",
+        "locations": [
+            "Richmond Hill, ON"
+        ],
+        "active": true,
+        "company_name": "Trimble",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "640fbe2e-ba69-4752-8aa0-3539b4986865",
+        "date_posted": 1762798457,
+        "company_url": "",
+        "is_visible": true
     }
 ]
