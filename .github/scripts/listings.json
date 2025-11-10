@@ -12223,5 +12223,21 @@
         "date_posted": 1762799448,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762799472,
+        "url": "https://jobs.aon.com/jobs/94623",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "AON",
+        "title": "Early Careers: Intern, Health Analytics - 8 months",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "d7d6a518-6f08-413e-943d-82bd4ef45696",
+        "date_posted": 1762799472,
+        "company_url": "",
+        "is_visible": true
     }
 ]
