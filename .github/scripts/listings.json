@@ -12159,5 +12159,21 @@
         "date_posted": 1762798457,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762798513,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Ottawa/Product-Engineer-Intern_R257831",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "ADI",
+        "title": "Product Engineer Intern",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "6fc71893-337c-43cd-9385-c50f19d837c3",
+        "date_posted": 1762798513,
+        "company_url": "",
+        "is_visible": true
     }
 ]
