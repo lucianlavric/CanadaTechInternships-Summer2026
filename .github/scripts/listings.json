@@ -12127,5 +12127,21 @@
         "date_posted": 1762798354,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762798407,
+        "url": "https://careers.rivianvw.tech/rivian-vw-group-technology/jobs/27405",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "Rivian",
+        "title": "Software Engineering Intern - Applications, Infotainment & Mobile - Summer 2026",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "ebe60b3b-e911-4bc0-b308-ed39bc9e04d3",
+        "date_posted": 1762798407,
+        "company_url": "",
+        "is_visible": true
     }
 ]
