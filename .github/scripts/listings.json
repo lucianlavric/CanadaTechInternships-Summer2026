@@ -12111,5 +12111,21 @@
         "date_posted": 1762798329,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762798354,
+        "url": "https://jobs.lever.co/nimblerx/0e03bf8c-ef8d-4bcf-8395-9f1782af7cb7",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Nimble",
+        "title": "Software Engineer Intern - Summer Session (Summer 2026)",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "ff68a04d-371b-43c8-b8c2-54351de57228",
+        "date_posted": 1762798354,
+        "company_url": "",
+        "is_visible": true
     }
 ]
