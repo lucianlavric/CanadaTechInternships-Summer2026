@@ -12175,5 +12175,21 @@
         "date_posted": 1762798513,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762798549,
+        "url": "https://job-boards.greenhouse.io/transcarent/jobs/5702344004",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "Transcarent and Accolade",
+        "title": "Full Stack Software Engineer INTERN",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "12cbfe48-7361-4fbd-91c2-eeb7cc1dbc39",
+        "date_posted": 1762798549,
+        "company_url": "",
+        "is_visible": true
     }
 ]
