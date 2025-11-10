@@ -12095,5 +12095,21 @@
         "date_posted": 1762798277,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762798329,
+        "url": "https://careers.thomsonreuters.com/us/en/job/THTTRUUSJREQ195821EXTERNALENUS/Research-Engineer-Intern",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Thomson Reuters",
+        "title": "Research Engineer Intern",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "1cc2e15e-b7b4-4bb7-a984-1ddcee9dea03",
+        "date_posted": 1762798329,
+        "company_url": "",
+        "is_visible": true
     }
 ]
