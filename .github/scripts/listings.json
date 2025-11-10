@@ -12191,5 +12191,21 @@
         "date_posted": 1762798549,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762799278,
+        "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-CA/crowdstrikecareers/job/USA---Remote/Intelligence-Intern---Summer-2026--Remote-_R25397",
+        "locations": [
+            "Remote"
+        ],
+        "active": true,
+        "company_name": "CrowdStrike",
+        "title": "Intelligence Intern - Summer 2026 (Remote)",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "bd14888b-4a4b-4cc2-b122-7831e06678f8",
+        "date_posted": 1762799278,
+        "company_url": "",
+        "is_visible": true
     }
 ]
