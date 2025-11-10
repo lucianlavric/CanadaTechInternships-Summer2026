@@ -12063,5 +12063,21 @@
         "date_posted": 1761101650,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762798248,
+        "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Brampton-Ontario-CA/Quality-Co-op-Student--Winter---Summer-Term-_R00206839",
+        "locations": [
+            "Brampton, ON"
+        ],
+        "active": true,
+        "company_name": "Magna",
+        "title": "Quality Co-op Student (Winter & Summer Term)",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "f4f2b87e-5bcb-41b8-bea9-56566feaee98",
+        "date_posted": 1762798248,
+        "company_url": "",
+        "is_visible": true
     }
 ]
