@@ -12207,5 +12207,21 @@
         "date_posted": 1762799278,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762799448,
+        "url": "https://careers.celestica.com/job/Toronto-Student-Intern%2C-Customer-Data-Analyst-ON/1265129101",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Celestica",
+        "title": "Student Intern, Customer Data Analyst",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "d0155833-1b11-4225-bdb1-5450175ee1c8",
+        "date_posted": 1762799448,
+        "company_url": "",
+        "is_visible": true
     }
 ]
