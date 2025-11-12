@@ -12239,5 +12239,21 @@
         "date_posted": 1762799472,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762919450,
+        "url": "https://jobs.dayforcehcm.com/en-US/upp/ExternalCANDIDATEPORTAL/jobs/1632",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "UPP",
+        "title": "Intern Analyst, Portfolio Construction (May 2026 - August 2026)",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "0b3e73db-2bb6-4818-b6cd-627f72c2b857",
+        "date_posted": 1762919450,
+        "company_url": "",
+        "is_visible": true
     }
 ]
