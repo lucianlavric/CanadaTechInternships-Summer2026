@@ -12287,5 +12287,21 @@
         "date_posted": 1762919502,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762919569,
+        "url": "https://careers.activision.com/job/R026335/2026-Canada-Summer-Internship-Tech-Design-Sledgehammer-Games",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Activision",
+        "title": "2026 Canada Summer Internship - Tech Design - Sledgehammer Games",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "b1cdeccc-2084-45a9-a551-9f89e8edcd89",
+        "date_posted": 1762919569,
+        "company_url": "",
+        "is_visible": true
     }
 ]
