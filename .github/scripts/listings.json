@@ -12271,5 +12271,21 @@
         "date_posted": 1762919482,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762919502,
+        "url": "https://careers.celestica.com/job/Toronto-Student-Intern%2C-Analytics-Centre-of-Excellence-ON/1266663901",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Celestica",
+        "title": "Student Intern, Analytics Centre of Excellence",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "696d6b01-417a-4cf4-a22b-cb8c4074143f",
+        "date_posted": 1762919502,
+        "company_url": "",
+        "is_visible": true
     }
 ]
