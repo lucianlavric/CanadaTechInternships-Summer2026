@@ -12319,5 +12319,21 @@
         "date_posted": 1762919599,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762919641,
+        "url": "https://jobs.smartrecruiters.com/Acumatica/744000093040936-intern-developer",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "Acumatica",
+        "title": "Intern Developer",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "41400a99-69a6-4baa-ac08-a67a34a5eb64",
+        "date_posted": 1762919641,
+        "company_url": "",
+        "is_visible": true
     }
 ]
