@@ -12255,5 +12255,21 @@
         "date_posted": 1762919450,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762919482,
+        "url": "https://careers.spglobal.com/jobs/322658",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "S&P Global",
+        "title": "Ratings Analytical Intern - Americas",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "2bca1767-a8ca-413c-b1a2-92680edd59ae",
+        "date_posted": 1762919482,
+        "company_url": "",
+        "is_visible": true
     }
 ]
