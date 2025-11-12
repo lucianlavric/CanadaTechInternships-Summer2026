@@ -12303,5 +12303,21 @@
         "date_posted": 1762919569,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762919599,
+        "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Product---Data-Engineering--May-2026---16-months-_6581",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Ontario Teachers' Pension Plan",
+        "title": "Intern - Product & Data Engineering (May 2026 - 16 months)",
+        "season": "Summer",
+        "source": "lucianlavric",
+        "id": "68e4484f-d9ae-4568-9dc4-65fa8cebe99b",
+        "date_posted": 1762919599,
+        "company_url": "",
+        "is_visible": true
     }
 ]
