@@ -12415,5 +12415,21 @@
         "date_posted": 1763054244,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763054552,
+        "url": "https://interac.wd3.myworkdayjobs.com/en-US/Interac/job/Toronto/Product-Intern--Payments-_REQ-1993",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Interac",
+        "title": "Product Intern (Payments)",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "a18edc80-5125-4214-9ae3-021744f381bc",
+        "date_posted": 1763054552,
+        "company_url": "",
+        "is_visible": true
     }
 ]
