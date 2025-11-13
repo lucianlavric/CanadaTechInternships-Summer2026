@@ -12897,5 +12897,21 @@
         "date_posted": 1763056993,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763057018,
+        "url": "https://recruiting.ultipro.com/BRO5000/JobBoard/42a8b925-69e8-46f8-a4b2-a6abdb2f913b/OpportunityDetail?opportunityId=a3ab58c4-45a6-4057-ab06-dccf9e5f29d8",
+        "locations": [
+            "Gatineau, QC"
+        ],
+        "active": true,
+        "company_name": "Evolugen",
+        "title": "Student, Data and Analytics",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "10df908c-c2b3-422e-acff-016523a18316",
+        "date_posted": 1763057018,
+        "company_url": "",
+        "is_visible": true
     }
 ]
