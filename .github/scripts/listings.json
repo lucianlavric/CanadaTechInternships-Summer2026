@@ -12801,5 +12801,21 @@
         "date_posted": 1763056691,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763056729,
+        "url": "https://jobs.revvity.com/en/job/ontario/full-stack-ai-developer-intern/20539/88285859392",
+        "locations": [
+            "Remote"
+        ],
+        "active": true,
+        "company_name": "Revvity",
+        "title": "Full-Stack AI Developer Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "3c3d13f2-0415-43fe-a5f5-582033a14ed4",
+        "date_posted": 1763056729,
+        "company_url": "",
+        "is_visible": true
     }
 ]
