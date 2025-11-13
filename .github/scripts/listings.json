@@ -12977,5 +12977,21 @@
         "date_posted": 1763057461,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763057521,
+        "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-916-Data-Analyst-Intern_118631",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "CAE",
+        "title": "Data Analyst Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "003953ae-bfb4-49ee-b8b6-fd3c88a79ebb",
+        "date_posted": 1763057521,
+        "company_url": "",
+        "is_visible": true
     }
 ]
