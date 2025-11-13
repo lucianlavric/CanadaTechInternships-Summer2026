@@ -12881,5 +12881,21 @@
         "date_posted": 1763056914,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763056993,
+        "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/en-US/Enterprise_External_Careers_Site/job/Oakville-ON/Customer-Analytics-Student--4-months----Winter-2026_JR152870",
+        "locations": [
+            "Oakville, ON"
+        ],
+        "active": true,
+        "company_name": "Canadian Tire",
+        "title": "Customer Analytics Student",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "6de0993d-406d-475b-9ee0-dd6e8c3c0655",
+        "date_posted": 1763056993,
+        "company_url": "",
+        "is_visible": true
     }
 ]
