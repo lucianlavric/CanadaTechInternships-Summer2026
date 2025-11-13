@@ -12608,5 +12608,21 @@
         "date_posted": 1763055876,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763055894,
+        "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/HR-Automation---AI-Intern--4-8-months-_R1010936",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Hitachi",
+        "title": "HR Automation & AI Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "a5a42566-292f-4844-928f-b1adab202a99",
+        "date_posted": 1763055894,
+        "company_url": "",
+        "is_visible": true
     }
 ]
