@@ -12785,5 +12785,21 @@
         "date_posted": 1763056566,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763056691,
+        "url": "https://international-spscommerce.icims.com/jobs/9886/software-engineer-intern/job?mobile=false&width=945&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
+        "locations": [
+            "Brampton, ON"
+        ],
+        "active": true,
+        "company_name": "SPS",
+        "title": "Software Engineer Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "be7fe50a-abba-4025-9603-595fa63383b7",
+        "date_posted": 1763056691,
+        "company_url": "",
+        "is_visible": true
     }
 ]
