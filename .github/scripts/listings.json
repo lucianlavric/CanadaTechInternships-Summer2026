@@ -12479,5 +12479,21 @@
         "date_posted": 1763055253,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763055286,
+        "url": "https://cclfg.cclgroup.com/careers/opportunities/posting/?gnk=job&gni=8a78879e99cae880019a11c0e90d2dce",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "CCL Financial Group",
+        "title": "Quantitative Equity Research, Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "1d2005d4-3462-407b-a669-c7cb20556bbc",
+        "date_posted": 1763055286,
+        "company_url": "",
+        "is_visible": true
     }
 ]
