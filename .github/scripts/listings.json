@@ -12704,5 +12704,21 @@
         "date_posted": 1763056447,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763056474,
+        "url": "https://jobs.lever.co/bhvr/01e3de60-1449-451d-b052-07af81fef3f2",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "bE Behaviour",
+        "title": "Programmer - Internship",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "ba4f0b5e-bf9e-4b26-a688-1915b9f1c76d",
+        "date_posted": 1763056474,
+        "company_url": "",
+        "is_visible": true
     }
 ]
