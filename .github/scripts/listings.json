@@ -12335,5 +12335,21 @@
         "date_posted": 1762919641,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763054072,
+        "url": "https://jobs.dayforcehcm.com/en-US/mydayforce/alljobs/jobs/89018",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Dayforce",
+        "title": "Cybersecurity Product Manager Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "8b01463d-ebcd-464b-9b95-809f9d62a0eb",
+        "date_posted": 1763054072,
+        "company_url": "",
+        "is_visible": true
     }
 ]
