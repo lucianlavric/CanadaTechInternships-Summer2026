@@ -12817,5 +12817,21 @@
         "date_posted": 1763056729,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763056756,
+        "url": "https://careers.manulife.com/global/en/job/MFZMFIUSJR25110669EXTERNALENGLOBAL/Summer-Intern-Co-op-2026-Software-Engineering",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Manulife",
+        "title": "Software Engineering",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "244df89b-691a-4acc-ae2f-a2ee77585ff6",
+        "date_posted": 1763056756,
+        "company_url": "",
+        "is_visible": true
     }
 ]
