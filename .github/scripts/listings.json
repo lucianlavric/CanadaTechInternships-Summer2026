@@ -12511,5 +12511,21 @@
         "date_posted": 1763055490,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763055553,
+        "url": "https://careers.thalesgroup.com/global/en/job/TGPTGWGLOBALR0305966EXTERNALENGLOBAL/Intern-Cybersecurity-Engagement-and-Outreach",
+        "locations": [
+            "Fredricton, NB"
+        ],
+        "active": true,
+        "company_name": "Thales",
+        "title": "Intern - Cybersecurity Engagement and Outreach",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "5731537c-5f17-4882-aacb-eaeaba0685e5",
+        "date_posted": 1763055553,
+        "company_url": "",
+        "is_visible": true
     }
 ]

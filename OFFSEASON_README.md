@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Thales | Intern - Cybersecurity Engagement and Outreach | Fredricton, NB | <a href="https://careers.thalesgroup.com/global/en/job/TGPTGWGLOBALR0305966EXTERNALENGLOBAL/Intern-Cybersecurity-Engagement-and-Outreach?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | OpusClip | AI PM Intern | Vancouver, BC | <a href="https://jobs.ashbyhq.com/opusclip/5875cb24-d27e-4f79-bc2d-a664f5f02298?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | Interac | Threat Management Intern | Toronto, ON | <a href="https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Threat-Management-Intern_REQ-1986?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | ↳ | Product Intern (Payments) | Toronto, ON | <a href="https://interac.wd3.myworkdayjobs.com/en-US/Interac/job/Toronto/Product-Intern--Payments-_REQ-1993?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
