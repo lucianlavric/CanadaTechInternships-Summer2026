@@ -12753,5 +12753,21 @@
         "date_posted": 1763056513,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763056546,
+        "url": "https://careers-kinaxis.icims.com/jobs/33937/co-op-intern-information-security/job?mobile=false&width=720&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
+        "locations": [
+            "Remote"
+        ],
+        "active": true,
+        "company_name": "Kinaxis",
+        "title": "Co-op/Intern Information Security",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "c71fa4fe-77c2-4697-be96-52c5159c42b4",
+        "date_posted": 1763056546,
+        "company_url": "",
+        "is_visible": true
     }
 ]
