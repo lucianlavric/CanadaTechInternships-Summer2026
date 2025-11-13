@@ -12640,5 +12640,21 @@
         "date_posted": 1763056061,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763056085,
+        "url": "https://cgi.njoyn.com/corp/xweb/xweb.asp?CLID=21001&page=jobdetails&JobID=J1125-0235&lang=1",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "CGI",
+        "title": "AWS Developer",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "2f5178f8-d0bf-4fc9-8707-ed13057e08b4",
+        "date_posted": 1763056085,
+        "company_url": "",
+        "is_visible": true
     }
 ]
