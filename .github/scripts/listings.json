@@ -12720,5 +12720,22 @@
         "date_posted": 1763056474,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763056495,
+        "url": "https://bird.wd3.myworkdayjobs.com/BirdConstructionCareers/job/Mississauga-ON/Technical-Analyst-Student--January-2026--8-12-month-term-_JR-8006",
+        "locations": [
+            "Mississauga, ON",
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "Bird",
+        "title": "Technical Analyst Student",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "72a0edfd-acb2-4319-8b21-340ee193aa0f",
+        "date_posted": 1763056495,
+        "company_url": "",
+        "is_visible": true
     }
 ]
