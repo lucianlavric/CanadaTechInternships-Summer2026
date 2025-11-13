@@ -12447,5 +12447,21 @@
         "date_posted": 1763054581,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763055226,
+        "url": "https://www.bhvr.com/poste/product-management-coordinator-internship-winter-2026/",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Behaviour Interactive",
+        "title": "Product Management Coordinator",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "3b8ca223-bb59-41e6-876d-b18a9780b6c9",
+        "date_posted": 1763055226,
+        "company_url": "",
+        "is_visible": true
     }
 ]
