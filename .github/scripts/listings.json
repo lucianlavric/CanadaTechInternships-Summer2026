@@ -12367,5 +12367,21 @@
         "date_posted": 1763054129,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763054170,
+        "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Photonics-Program-Management-Co-op---Winter-2026_R029343",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Ciena",
+        "title": "Photonics Program Management Co-op",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "9fbb7b88-797a-464f-b869-8780a88d579d",
+        "date_posted": 1763054170,
+        "company_url": "",
+        "is_visible": true
     }
 ]
