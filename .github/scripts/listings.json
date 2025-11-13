@@ -12913,5 +12913,21 @@
         "date_posted": 1763057018,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763057037,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000089509024-data-science-intern-summer-2026-",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Visa",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "210983c4-042f-45e1-9b54-30ac83965395",
+        "date_posted": 1763057037,
+        "company_url": "",
+        "is_visible": true
     }
 ]

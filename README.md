@@ -26,6 +26,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Visa | Data Science Intern | Toronto, ON | <a href="https://jobs.smartrecruiters.com/Visa/744000089509024-data-science-intern-summer-2026-?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | SOTI | Associate Product Manager Intern | Mississauga, ON | <a href="https://soti.wd3.myworkdayjobs.com/en-US/soti-next-gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern---SOTI-Connect--May-2026-12-Months-_R09451?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | Marvell | Firmware Engineering Intern | Ottawa, ON | <a href="https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Ottawa-Canada/Firmware-Engineering-Intern---Bachelor-s-Degree--Summer-2026-_2502464-1?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | Manulife | Software Engineering | Toronto, ON | <a href="https://careers.manulife.com/global/en/job/MFZMFIUSJR25110669EXTERNALENGLOBAL/Summer-Intern-Co-op-2026-Software-Engineering?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
