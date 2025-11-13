@@ -12945,5 +12945,21 @@
         "date_posted": 1763057076,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763057423,
+        "url": "https://interac.wd3.myworkdayjobs.com/en-US/Interac/job/Toronto/Business-Analyst-Intern_REQ-1997",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Interac",
+        "title": "Business Analyst",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "91cc1ca2-db75-4415-b4b1-a7bc98a0ee4a",
+        "date_posted": 1763057423,
+        "company_url": "",
+        "is_visible": true
     }
 ]
