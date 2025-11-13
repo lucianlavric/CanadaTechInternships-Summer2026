@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Wenco | Software Development Co-op | Richmond, BC | <a href="https://jobs.dayforcehcm.com/en-US/wenco/CANDIDATEPORTAL/jobs/2576?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | Thales | Intern - Cybersecurity Engagement and Outreach | Fredricton, NB | <a href="https://careers.thalesgroup.com/global/en/job/TGPTGWGLOBALR0305966EXTERNALENGLOBAL/Intern-Cybersecurity-Engagement-and-Outreach?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | SAP | Agile Test Developer | Vancouver, BC | <a href="https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Agile-Test-Developer-Vancouver-Brit-V6B-1A9/1264704101?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | Qualcomm | Deep Learning Research Internship | Markham, ON | <a href="https://careers.qualcomm.com/careers/job/446715341239?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |

@@ -12624,5 +12624,21 @@
         "date_posted": 1763055894,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763056061,
+        "url": "https://jobs.dayforcehcm.com/en-US/wenco/CANDIDATEPORTAL/jobs/2576",
+        "locations": [
+            "Richmond, BC"
+        ],
+        "active": true,
+        "company_name": "Wenco",
+        "title": "Software Development Co-op",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "66354f30-851a-41c9-b95a-b535701d0906",
+        "date_posted": 1763056061,
+        "company_url": "",
+        "is_visible": true
     }
 ]
