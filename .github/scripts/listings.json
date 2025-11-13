@@ -12672,5 +12672,21 @@
         "date_posted": 1763056339,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763056393,
+        "url": "https://jobs.teck.com/job/Vancouver-Power-Platform-Developer-Co-op-Brit/52839-en_US",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "Teck",
+        "title": "Power Platform Developer Co-op",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "c2782ee2-89b1-4294-a6f5-5964e9e363d1",
+        "date_posted": 1763056393,
+        "company_url": "",
+        "is_visible": true
     }
 ]
