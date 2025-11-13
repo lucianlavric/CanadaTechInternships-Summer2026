@@ -12865,5 +12865,21 @@
         "date_posted": 1763056802,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763056914,
+        "url": "https://careers.se.com/jobs/101398",
+        "locations": [
+            "Victoria, BC"
+        ],
+        "active": true,
+        "company_name": "Schneider Electric",
+        "title": "Embedded firmware designer co-op",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "4ba5ab5e-7403-4cf2-a7df-ee1d68828606",
+        "date_posted": 1763056914,
+        "company_url": "",
+        "is_visible": true
     }
 ]
