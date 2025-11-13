@@ -12576,5 +12576,21 @@
         "date_posted": 1763055699,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763055738,
+        "url": "https://jobs.lincolnelectric.com/job/Waterloo-Software-Engineering-Student-Intern-ON-ON-N2L-5V4/1264710501",
+        "locations": [
+            "Waterloo, ON"
+        ],
+        "active": true,
+        "company_name": "Lincoln Electric Careers",
+        "title": "Software Engineering Student Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "d3eaef06-68aa-417b-abb2-17f3b71cd62e",
+        "date_posted": 1763055738,
+        "company_url": "",
+        "is_visible": true
     }
 ]
