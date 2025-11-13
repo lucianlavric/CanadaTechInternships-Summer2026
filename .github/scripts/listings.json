@@ -12737,5 +12737,21 @@
         "date_posted": 1763056495,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763056513,
+        "url": "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Student-Intern---Analyst--Market-Insights--Winter-Term-_R-5534",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "TMX",
+        "title": "Student Intern - Analyst, Market Insights",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "1a78a7d0-9dae-4111-a668-89a027b153e9",
+        "date_posted": 1763056513,
+        "company_url": "",
+        "is_visible": true
     }
 ]
