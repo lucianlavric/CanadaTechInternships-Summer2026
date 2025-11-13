@@ -12399,5 +12399,21 @@
         "date_posted": 1763054215,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763054244,
+        "url": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Product-Management-Intern--Verified-_REQ-1979",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Interac",
+        "title": "Product Management Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "b1fc7757-c1b2-4f84-8e41-1a3374cbc5ff",
+        "date_posted": 1763054244,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -19,6 +19,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | OpusClip | AI PM Intern | Vancouver, BC | <a href="https://jobs.ashbyhq.com/opusclip/5875cb24-d27e-4f79-bc2d-a664f5f02298?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
+| Interac | Product Management Intern | Toronto, ON | <a href="https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Product-Management-Intern--Verified-_REQ-1979?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | Dayforce | Cybersecurity Product Manager Intern | Toronto, ON | <a href="https://jobs.dayforcehcm.com/en-US/mydayforce/alljobs/jobs/89018?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | Ciena | Photonics Program Management Co-op | Ottawa, ON | <a href="https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Photonics-Program-Management-Co-op---Winter-2026_R029343?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | Canada Life | Software Developer (Student Position) | London, ON | <a href="https://londontechjobs.ca/job.aspx?jid=b814d7e5-322a-4e16-a578-a97dd066bd9a&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
