@@ -12961,5 +12961,21 @@
         "date_posted": 1763057423,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763057461,
+        "url": "https://edzt.fa.em4.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/31889",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "Fujitsu",
+        "title": "Data Science Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "b2ec3020-20ad-4e85-acc3-b9b133db7fa5",
+        "date_posted": 1763057461,
+        "company_url": "",
+        "is_visible": true
     }
 ]
