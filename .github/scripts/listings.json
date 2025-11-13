@@ -12431,5 +12431,21 @@
         "date_posted": 1763054552,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763054581,
+        "url": "https://jobs.dayforcehcm.com/en-US/mydayforce/alljobs/jobs/87319",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Dayforce",
+        "title": "Project Manager Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "d52cc08f-59ec-4d8a-99ea-3449f39b1362",
+        "date_posted": 1763054581,
+        "company_url": "",
+        "is_visible": true
     }
 ]
