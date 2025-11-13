@@ -12688,5 +12688,21 @@
         "date_posted": 1763056393,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763056447,
+        "url": "https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000092072741-ai-in-biomedicine-research-intern",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "UHN",
+        "title": "AI in Biomedicine - Research Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "bccfd7a9-30a4-401f-8f22-4e1b98760d44",
+        "date_posted": 1763056447,
+        "company_url": "",
+        "is_visible": true
     }
 ]
