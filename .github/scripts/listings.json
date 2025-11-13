@@ -12543,5 +12543,21 @@
         "date_posted": 1763055589,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763055618,
+        "url": "https://careers.qualcomm.com/careers/job/446715341239",
+        "locations": [
+            "Markham, ON"
+        ],
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "Deep Learning Research Internship",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "aaab2865-ea60-472b-aaae-2e724701f344",
+        "date_posted": 1763055618,
+        "company_url": "",
+        "is_visible": true
     }
 ]
