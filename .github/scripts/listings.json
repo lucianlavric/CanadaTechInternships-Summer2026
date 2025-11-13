@@ -12769,5 +12769,21 @@
         "date_posted": 1763056546,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763056566,
+        "url": "https://interac.wd3.myworkdayjobs.com/en-US/Interac/job/Toronto/Software-Developer-Intern--e-Transfer-_REQ-2005",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Interac",
+        "title": "Software Developer Intern (e-Transfer)",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "7e1a2acb-7d7e-43c9-ad42-05a9ee71827a",
+        "date_posted": 1763056566,
+        "company_url": "",
+        "is_visible": true
     }
 ]
