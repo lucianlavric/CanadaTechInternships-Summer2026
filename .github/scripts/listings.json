@@ -12833,5 +12833,21 @@
         "date_posted": 1763056756,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763056779,
+        "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Ottawa-Canada/Firmware-Engineering-Intern---Bachelor-s-Degree--Summer-2026-_2502464-1",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Marvell",
+        "title": "Firmware Engineering Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "4e3cb66c-7a33-4c79-95cd-c655bb8984f7",
+        "date_posted": 1763056779,
+        "company_url": "",
+        "is_visible": true
     }
 ]
