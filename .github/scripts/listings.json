@@ -12929,5 +12929,21 @@
         "date_posted": 1763057037,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763057076,
+        "url": "https://hcpd.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Careers/job/6452",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Irving",
+        "title": "Data Modelling Co-op",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "4ea3f2b8-1f34-4721-86d5-0a5816a2248f",
+        "date_posted": 1763057076,
+        "company_url": "",
+        "is_visible": true
     }
 ]
