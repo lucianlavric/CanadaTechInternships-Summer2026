@@ -12351,5 +12351,21 @@
         "date_posted": 1763054072,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763054129,
+        "url": "https://jobs.ashbyhq.com/opusclip/5875cb24-d27e-4f79-bc2d-a664f5f02298",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "OpusClip",
+        "title": "AI PM Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "8b95f0ba-c429-4f14-83f8-04c1155fe331",
+        "date_posted": 1763054129,
+        "company_url": "",
+        "is_visible": true
     }
 ]
