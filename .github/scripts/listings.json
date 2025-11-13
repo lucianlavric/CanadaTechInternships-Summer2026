@@ -12495,5 +12495,21 @@
         "date_posted": 1763055286,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763055490,
+        "url": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Threat-Management-Intern_REQ-1986",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Interac",
+        "title": "Threat Management Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "28851a41-b178-46a4-ae39-ad7418f33acc",
+        "date_posted": 1763055490,
+        "company_url": "",
+        "is_visible": true
     }
 ]
