@@ -12463,5 +12463,21 @@
         "date_posted": 1763055226,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763055253,
+        "url": "https://careers.hootsuite.com/job/?gh_jid=7382362",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Hootsuite",
+        "title": "Product Management Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "fa9e6903-1d61-4458-ac19-12294f377ae6",
+        "date_posted": 1763055253,
+        "company_url": "",
+        "is_visible": true
     }
 ]
