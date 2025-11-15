@@ -13139,5 +13139,21 @@
         "date_posted": 1763170060,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763170087,
+        "url": "https://careers.rivianvw.tech/rivian-vw-group-technology/jobs/27480",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "Rivian and Volkswagen Group",
+        "title": "Software Engineering Intern, Vehicle Controls",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "2ed1439c-d786-40ed-8be6-a375502771cb",
+        "date_posted": 1763170087,
+        "company_url": "",
+        "is_visible": true
     }
 ]
