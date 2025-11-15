@@ -26,6 +26,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Type One Energy | Computational Physics | Vancouver, BC | <a href="https://typeoneenergy.teamtailor.com/jobs/6760982-summer-internship-computational-physics?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Citi | Technology- Application Development, Summer Analyst | Mississauga, ON | <a href="https://jobs.citi.com/job/-/-/287/88356984032?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Visa | Data Science Intern | Toronto, ON | <a href="https://jobs.smartrecruiters.com/Visa/744000089509024-data-science-intern-summer-2026-?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | SOTI | Associate Product Manager Intern | Mississauga, ON | <a href="https://soti.wd3.myworkdayjobs.com/en-US/soti-next-gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern---SOTI-Connect--May-2026-12-Months-_R09451?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
