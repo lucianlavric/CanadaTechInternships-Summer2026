@@ -13187,5 +13187,21 @@
         "date_posted": 1763170134,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763170155,
+        "url": "https://fortive.eightfold.ai/careers/job/893391961083",
+        "locations": [
+            "Remote"
+        ],
+        "active": true,
+        "company_name": "Fortive",
+        "title": "AI/Data Analyst Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "ebe6b4ca-6de1-49cd-9c1c-4d09a9230f8b",
+        "date_posted": 1763170155,
+        "company_url": "",
+        "is_visible": true
     }
 ]
