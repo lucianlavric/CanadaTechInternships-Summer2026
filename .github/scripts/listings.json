@@ -13091,5 +13091,21 @@
         "date_posted": 1763169979,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763170003,
+        "url": "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Montreal---1190-av-des-Canadiens-de-Montreal/Student-Intern---Python-C---Developer----Winter-Term_R-5437",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "TMX",
+        "title": "Python/C++ Developer",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "86b58ba8-ae03-4d53-a2b2-7687026f18da",
+        "date_posted": 1763170003,
+        "company_url": "",
+        "is_visible": true
     }
 ]
