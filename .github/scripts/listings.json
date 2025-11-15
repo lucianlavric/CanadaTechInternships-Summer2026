@@ -13203,5 +13203,21 @@
         "date_posted": 1763170155,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763170175,
+        "url": "https://www.avanade.com/en/career/job-details/R00296784",
+        "locations": [
+            "Halifax, NS"
+        ],
+        "active": true,
+        "company_name": "Avanade",
+        "title": "Intern, Data Engineering Hubs",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "67af6c71-54c4-4a54-853e-973f2b7b9cee",
+        "date_posted": 1763170175,
+        "company_url": "",
+        "is_visible": true
     }
 ]
