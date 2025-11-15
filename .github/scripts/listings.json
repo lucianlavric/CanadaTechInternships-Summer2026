@@ -13155,5 +13155,21 @@
         "date_posted": 1763170087,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763170107,
+        "url": "https://careers.rivianvw.tech/rivian-vw-group-technology/jobs/27485",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "Rivian and Volkswagen Group",
+        "title": "Data Engineering Intern, AI & Analytics",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "ece7654c-dc9b-4d38-80c5-0d31312c37b2",
+        "date_posted": 1763170107,
+        "company_url": "",
+        "is_visible": true
     }
 ]
