@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Hootsuite | Software Development | Toronto, ON</br>Calgary, AB</br>Vancouver, BC | <a href="https://careers.hootsuite.com/job/?gh_jid=7387060&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Ciena | Software developer | Remote | <a href="https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Quebec/Stagiaire-en-dveloppement-logiciel---COOP-Software-developer_R029439?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Wenco | Software Development Co-op | Richmond, BC | <a href="https://jobs.dayforcehcm.com/en-US/wenco/CANDIDATEPORTAL/jobs/2576?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | UHN | AI in Biomedicine - Research Intern | Toronto, ON | <a href="https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000092072741-ai-in-biomedicine-research-intern?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |

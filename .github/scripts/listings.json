@@ -13025,5 +13025,23 @@
         "date_posted": 1763169768,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763169805,
+        "url": "https://careers.hootsuite.com/job/?gh_jid=7387060",
+        "locations": [
+            "Toronto, ON",
+            "Calgary, AB",
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "Hootsuite",
+        "title": "Software Development",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "94d542ca-0726-4c8f-b9d2-6f8b57820ec4",
+        "date_posted": 1763169805,
+        "company_url": "",
+        "is_visible": true
     }
 ]
