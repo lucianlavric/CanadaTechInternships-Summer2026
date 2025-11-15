@@ -13043,5 +13043,21 @@
         "date_posted": 1763169805,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763169842,
+        "url": "https://careers.amgen.com/en/job/-/-/87/88349986640",
+        "locations": [
+            "Burnaby, ON"
+        ],
+        "active": true,
+        "company_name": "AMGEN",
+        "title": "Software Engineer \u2013 Large Molecule Discovery - Technology",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "8a350459-2c0f-4fb4-afbb-dccff41ba1ea",
+        "date_posted": 1763169842,
+        "company_url": "",
+        "is_visible": true
     }
 ]
