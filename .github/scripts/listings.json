@@ -13171,5 +13171,21 @@
         "date_posted": 1763170107,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763170134,
+        "url": "https://careers.rivianvw.tech/rivian-vw-group-technology/jobs/27487",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "Rivian and Volkswagen Group",
+        "title": "Software Engineering Intern, Embedded Platforms",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "485749c8-808c-4e69-9ceb-ddafd458b143",
+        "date_posted": 1763170134,
+        "company_url": "",
+        "is_visible": true
     }
 ]
