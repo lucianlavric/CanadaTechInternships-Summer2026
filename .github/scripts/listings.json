@@ -13123,5 +13123,21 @@
         "date_posted": 1763170034,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763170060,
+        "url": "https://careers.rivianvw.tech/rivian-vw-group-technology/jobs/27486",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "Rivian and Volkswagen Group",
+        "title": "Software Engineering Intern, Connected Systems",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "b4a0bbef-dfaa-42f6-8dce-3faa06340531",
+        "date_posted": 1763170060,
+        "company_url": "",
+        "is_visible": true
     }
 ]
