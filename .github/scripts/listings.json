@@ -12993,5 +12993,21 @@
         "date_posted": 1763057521,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763169709,
+        "url": "https://jobs.citi.com/job/-/-/287/88356984032",
+        "locations": [
+            "Mississauga, ON"
+        ],
+        "active": true,
+        "company_name": "Citi",
+        "title": "Technology- Application Development, Summer Analyst",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "41a10999-7ff8-43de-8400-c8b9cc0072ab",
+        "date_posted": 1763169709,
+        "company_url": "",
+        "is_visible": true
     }
 ]
