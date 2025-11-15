@@ -13009,5 +13009,21 @@
         "date_posted": 1763169709,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763169768,
+        "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Quebec/Stagiaire-en-dveloppement-logiciel---COOP-Software-developer_R029439",
+        "locations": [
+            "Remote"
+        ],
+        "active": true,
+        "company_name": "Ciena",
+        "title": "Software developer",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "51021e37-43e2-45bf-9fca-594ba5f4a49c",
+        "date_posted": 1763169768,
+        "company_url": "",
+        "is_visible": true
     }
 ]

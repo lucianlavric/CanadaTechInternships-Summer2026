@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Ciena | Software developer | Remote | <a href="https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Quebec/Stagiaire-en-dveloppement-logiciel---COOP-Software-developer_R029439?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Wenco | Software Development Co-op | Richmond, BC | <a href="https://jobs.dayforcehcm.com/en-US/wenco/CANDIDATEPORTAL/jobs/2576?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | UHN | AI in Biomedicine - Research Intern | Toronto, ON | <a href="https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000092072741-ai-in-biomedicine-research-intern?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | TMX | Student Intern - Analyst, Market Insights | Toronto, ON | <a href="https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Student-Intern---Analyst--Market-Insights--Winter-Term-_R-5534?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
