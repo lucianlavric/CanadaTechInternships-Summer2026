@@ -13107,5 +13107,21 @@
         "date_posted": 1763170003,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763170034,
+        "url": "https://careers.rivianvw.tech/rivian-vw-group-technology/jobs/27482",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "Rivian and Volkswagen Group",
+        "title": "Software Automation Engineering Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "d3ca35d5-bea5-45f4-9f75-16f9fc46ba5a",
+        "date_posted": 1763170034,
+        "company_url": "",
+        "is_visible": true
     }
 ]
