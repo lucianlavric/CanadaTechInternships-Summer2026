@@ -13284,5 +13284,21 @@
         "date_posted": 1763340214,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763340260,
+        "url": "https://huaweicanada.recruitee.com/o/co-op-research-engineer-ai-computing-system-1",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "Huawei",
+        "title": "Co-op Research Engineer - AI Computing System",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "96a75e38-6f18-4726-9b69-456e2c67c9da",
+        "date_posted": 1763340260,
+        "company_url": "",
+        "is_visible": true
     }
 ]
