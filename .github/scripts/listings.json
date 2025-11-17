@@ -13316,5 +13316,21 @@
         "date_posted": 1763340300,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763340329,
+        "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer-Co-op-Intern_20251811",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Lumentum",
+        "title": "Embedded Software Engineer Co-op/Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "80a55a9d-9e40-4147-ae39-928049b73053",
+        "date_posted": 1763340329,
+        "company_url": "",
+        "is_visible": true
     }
 ]

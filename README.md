@@ -26,6 +26,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Lumentum | Embedded Software Engineer Co-op/Intern | Ottawa, ON | <a href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer-Co-op-Intern_20251811?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | Type One Energy | Computational Physics | Vancouver, BC | <a href="https://typeoneenergy.teamtailor.com/jobs/6760982-summer-internship-computational-physics?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Rivian and Volkswagen Group | Software Engineering Intern, Embedded Platforms | Vancouver, BC | <a href="https://careers.rivianvw.tech/rivian-vw-group-technology/jobs/27487?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | ↳ | Data Engineering Intern, AI & Analytics | Vancouver, BC | <a href="https://careers.rivianvw.tech/rivian-vw-group-technology/jobs/27485?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
