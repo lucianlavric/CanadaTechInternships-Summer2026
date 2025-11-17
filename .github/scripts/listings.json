@@ -13252,5 +13252,21 @@
         "date_posted": 1763340167,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763340187,
+        "url": "https://jobs.lever.co/telesat/2ef70d3f-5b0f-4604-afa7-1bb9b9a3022c",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Telesat",
+        "title": "Embedded Software Engineering",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "c05d0c5e-dd90-4c23-b31f-73f41d50da23",
+        "date_posted": 1763340187,
+        "company_url": "",
+        "is_visible": true
     }
 ]
