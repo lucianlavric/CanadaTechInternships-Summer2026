@@ -13332,5 +13332,21 @@
         "date_posted": 1763340329,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763340379,
+        "url": "https://job-boards.greenhouse.io/diligentcorporation/jobs/5703326004",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "Diligent",
+        "title": "Software Engineering Intern - Platform AI",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "9259e58f-3442-4cca-9d5c-b76e6a983b47",
+        "date_posted": 1763340379,
+        "company_url": "",
+        "is_visible": true
     }
 ]
