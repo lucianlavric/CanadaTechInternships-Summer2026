@@ -13445,5 +13445,21 @@
         "date_posted": 1763515855,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763515933,
+        "url": "https://huaweicanada.recruitee.com/o/co-op-software-engineer-distributed-and-parallel-computing",
+        "locations": [
+            "Markham, ON"
+        ],
+        "active": true,
+        "company_name": "Huawei",
+        "title": "Co-op Software Engineer - Distributed and Parallel Computing",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "920a8d7c-770e-41aa-9f7c-70d5987a56c2",
+        "date_posted": 1763515933,
+        "company_url": "",
+        "is_visible": true
     }
 ]

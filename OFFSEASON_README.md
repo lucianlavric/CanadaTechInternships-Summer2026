@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Huawei | Co-op Software Engineer - Distributed and Parallel Computing | Markham, ON | <a href="https://huaweicanada.recruitee.com/o/co-op-software-engineer-distributed-and-parallel-computing?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Boston Scientific | R&D Systems Engineering Intern | Montreal, QC | <a href="https://bostonscientific.eightfold.ai/careers/job/563602809583514?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | ↳ | R&D Systems Engineering Intern | Montreal, QC | <a href="https://bostonscientific.eightfold.ai/careers/job/563602809367608?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | ATB | Entrepreneurial Fullstack Developer | Calgary, AB | <a href="https://careers.atb.com/careers/job/1125899907690389?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
