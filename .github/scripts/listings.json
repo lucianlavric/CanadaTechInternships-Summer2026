@@ -13429,5 +13429,21 @@
         "date_posted": 1763515818,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763515855,
+        "url": "https://careers.atb.com/careers/job/1125899907690389",
+        "locations": [
+            "Calgary, AB"
+        ],
+        "active": true,
+        "company_name": "ATB",
+        "title": "Entrepreneurial Fullstack Developer",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "d2b757b0-d79e-4869-9b26-72e7eb5475d9",
+        "date_posted": 1763515855,
+        "company_url": "",
+        "is_visible": true
     }
 ]
