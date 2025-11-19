@@ -13413,5 +13413,21 @@
         "date_posted": 1763515750,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763515818,
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602809583514",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "Boston Scientific",
+        "title": "R&D Systems Engineering Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "1f40736f-687f-4e3e-9401-1c940457531c",
+        "date_posted": 1763515818,
+        "company_url": "",
+        "is_visible": true
     }
 ]
