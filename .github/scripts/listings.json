@@ -13381,5 +13381,21 @@
         "date_posted": 1763437124,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763515673,
+        "url": "https://cn360.csod.com/ux/ats/careersite/1/home/requisition/16294?c=cn360&sq=req16294",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "CN",
+        "title": "Intern, AI & Data Science",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "62cc1b38-6ffd-47df-8bc2-3b9f0ed562f5",
+        "date_posted": 1763515673,
+        "company_url": "",
+        "is_visible": true
     }
 ]
