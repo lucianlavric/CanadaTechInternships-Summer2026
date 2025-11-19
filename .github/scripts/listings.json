@@ -13477,5 +13477,21 @@
         "date_posted": 1763515967,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763516001,
+        "url": "https://jobs.lever.co/telesat/c250d197-a279-439e-b767-8636bdc2edb2",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Telesat",
+        "title": "User Terminal Engineering Co-op",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "3b244854-6b80-4aad-b7f2-17ae69518943",
+        "date_posted": 1763516001,
+        "company_url": "",
+        "is_visible": true
     }
 ]
