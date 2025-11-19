@@ -13461,5 +13461,21 @@
         "date_posted": 1763515933,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763515967,
+        "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Quality-Assurance---Intern_R1011016",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Hitachi",
+        "title": "Quality Assurance - Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "1d41d6ec-8884-46d1-8e26-1600eb255ea6",
+        "date_posted": 1763515967,
+        "company_url": "",
+        "is_visible": true
     }
 ]
