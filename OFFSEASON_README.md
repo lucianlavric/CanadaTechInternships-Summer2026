@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Boston Scientific | R&D Systems Engineering Intern | Montreal, QC | <a href="https://bostonscientific.eightfold.ai/careers/job/563602809367608?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Ampliwork | Applied AI Intern | Montreal, QC | <a href="https://ats.rippling.com/en-CA/ampliwork-inc/jobs/518393fa-721a-41f9-b8a2-fa6d40c3a139?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Telesat | Embedded Software Engineering | Ottawa, ON | <a href="https://jobs.lever.co/telesat/2ef70d3f-5b0f-4604-afa7-1bb9b9a3022c?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | TD | Data Engineer Intern | Toronto, ON | <a href="https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-Intern-Co-op--WINTER-2026-_R_1434776?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
