@@ -13669,5 +13669,21 @@
         "date_posted": 1763600777,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763608185,
+        "url": "https://jobs.teck.com/job/Vancouver-Engineering-Systems-Co-op-Brit/52928-en_US",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "Teck",
+        "title": "Engineering Systems Co-op",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "a900610c-d6ce-4fae-825a-3c1a7f1f5a12",
+        "date_posted": 1763608185,
+        "company_url": "",
+        "is_visible": true
     }
 ]
