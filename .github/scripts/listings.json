@@ -13493,5 +13493,21 @@
         "date_posted": 1763516001,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763600211,
+        "url": "https://careers.lululemon.com/en_US/careers/JobDetail/Analyst-Intern-Global-Planning-Contract-June-August-2026/55191",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "Lululemon",
+        "title": "Analyst Intern - Global Planning",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "165c6ab6-1a3c-4fa6-964c-a3a0f3df324c",
+        "date_posted": 1763600211,
+        "company_url": "",
+        "is_visible": true
     }
 ]
