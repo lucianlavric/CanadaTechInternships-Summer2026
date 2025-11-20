@@ -13637,5 +13637,21 @@
         "date_posted": 1763600703,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763600746,
+        "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/COOP-Intern-Optical-System-Engineer_R029481",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Ciena",
+        "title": "Optical System Engineer",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "0dd0efd5-5b78-4c38-9e48-93bc1bbb2559",
+        "date_posted": 1763600746,
+        "company_url": "",
+        "is_visible": true
     }
 ]
