@@ -13509,5 +13509,21 @@
         "date_posted": 1763600211,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763600242,
+        "url": "https://jobs.rbc.com/ca/en/job/RBCAA0088R0000147686EXTERNALENCA/2026-Winter-GRM-AI-Innovation-Business-Analyst-Intern-4-Months",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "RBC",
+        "title": "GRM, AI Innovation - Business Analyst Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "2b694278-78a1-4f2e-8526-7cbfe9844645",
+        "date_posted": 1763600242,
+        "company_url": "",
+        "is_visible": true
     }
 ]
