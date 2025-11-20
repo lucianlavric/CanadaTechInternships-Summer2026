@@ -13685,5 +13685,24 @@
         "date_posted": 1763608185,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763608313,
+        "url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2000876EXTERNALENGLOBAL/D-veloppeur-logiciels-I-stagiaire-Canada-Software-Developer-I-Co-op-Canada",
+        "locations": [
+            "Ottawa, ON",
+            "Kanata, ON",
+            "Calgary, AB",
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "Cisco",
+        "title": "Software Developer I (Co-op)",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "022e81bc-5c76-4ff5-880d-48f8c6697bf3",
+        "date_posted": 1763608313,
+        "company_url": "",
+        "is_visible": true
     }
 ]
