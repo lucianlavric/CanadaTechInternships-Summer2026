@@ -13653,5 +13653,21 @@
         "date_posted": 1763600746,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763600777,
+        "url": "https://careers.celestica.com/job/Toronto-Student-Intern%2C-Data-Warehouse-Developer-ON/1268672101",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Celestia",
+        "title": "Data Warehouse Developer",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "5dff6b04-c35e-48f9-b337-7eb1ceeeb4c6",
+        "date_posted": 1763600777,
+        "company_url": "",
+        "is_visible": true
     }
 ]
