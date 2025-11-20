@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Revvity | Marketing Front-End AI Co-op | Remote | <a href="https://jobs.revvity.com/en/job/-/-/20539/88537464848?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | RBC | GRM, AI Innovation - Business Analyst Intern | Toronto, ON | <a href="https://jobs.rbc.com/ca/en/job/RBCAA0088R0000147686EXTERNALENCA/2026-Winter-GRM-AI-Innovation-Business-Analyst-Intern-4-Months?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Deep Genomics | Software Engineering Intern | Toronto, ON | <a href="https://jobs.lever.co/deepgenomics/977896a0-afd8-4c6b-9f54-338ed03763d8?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Telesat | User Terminal Engineering Co-op | Ottawa, ON | <a href="https://jobs.lever.co/telesat/c250d197-a279-439e-b767-8636bdc2edb2?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |

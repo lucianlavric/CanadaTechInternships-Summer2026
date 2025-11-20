@@ -13557,5 +13557,21 @@
         "date_posted": 1763600319,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763600380,
+        "url": "https://jobs.revvity.com/en/job/-/-/20539/88537464848",
+        "locations": [
+            "Remote"
+        ],
+        "active": true,
+        "company_name": "Revvity",
+        "title": "Marketing Front-End AI Co-op",
+        "season": "Spring",
+        "source": "AliElrafih",
+        "id": "e0b271ef-4e27-469f-b013-a654173517a9",
+        "date_posted": 1763600380,
+        "company_url": "",
+        "is_visible": true
     }
 ]
