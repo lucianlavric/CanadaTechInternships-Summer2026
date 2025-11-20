@@ -13605,5 +13605,21 @@
         "date_posted": 1763600603,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763600679,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Gatineau-Canada/Software-Engineer-Co-op_R57325",
+        "locations": [
+            "Gatineau, QC"
+        ],
+        "active": true,
+        "company_name": "Motorola",
+        "title": "Software Engineer Co-op",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "0f7bccc2-5fa3-4907-8916-8d5c3eede1af",
+        "date_posted": 1763600679,
+        "company_url": "",
+        "is_visible": true
     }
 ]
