@@ -13621,5 +13621,21 @@
         "date_posted": 1763600679,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763600703,
+        "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Software-Platform-Test-Engineer-Co-op---Winter-2026_R029476",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Ciena",
+        "title": "Software Platform Test Engineer Co-op",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "fa4eda21-24f3-4bce-9d8d-948142c86f86",
+        "date_posted": 1763600703,
+        "company_url": "",
+        "is_visible": true
     }
 ]
