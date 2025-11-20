@@ -13525,5 +13525,21 @@
         "date_posted": 1763600242,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763600276,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Vancouver-Canada/Data-Analyst-Intern--Hybrid-----Summer-2026-Internship-_R59571",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "Motorola",
+        "title": "Data Analyst Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "e39f614f-1139-4a6c-ae34-7bd32ac2acfe",
+        "date_posted": 1763600276,
+        "company_url": "",
+        "is_visible": true
     }
 ]
