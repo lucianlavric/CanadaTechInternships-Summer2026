@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Thomson Reuters | Software Engineer AI Intern | Toronto, ON | <a href="https://careers.thomsonreuters.com/us/en/job/THTTRUUSJREQ194965EXTERNALENUS/Software-Engineer-AI-Intern?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Teck | Engineering Systems Co-op | Vancouver, BC | <a href="https://jobs.teck.com/job/Vancouver-Engineering-Systems-Co-op-Brit/52928-en_US?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Revvity | Marketing Front-End AI Co-op | Remote | <a href="https://jobs.revvity.com/en/job/-/-/20539/88537464848?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | RBC | GRM, AI Innovation - Business Analyst Intern | Toronto, ON | <a href="https://jobs.rbc.com/ca/en/job/RBCAA0088R0000147686EXTERNALENCA/2026-Winter-GRM-AI-Innovation-Business-Analyst-Intern-4-Months?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |

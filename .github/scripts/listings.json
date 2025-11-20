@@ -13704,5 +13704,21 @@
         "date_posted": 1763608313,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763608360,
+        "url": "https://careers.thomsonreuters.com/us/en/job/THTTRUUSJREQ194965EXTERNALENUS/Software-Engineer-AI-Intern",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Thomson Reuters",
+        "title": "Software Engineer AI Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "49089ee8-5698-42b9-8cce-82aad9eb15da",
+        "date_posted": 1763608360,
+        "company_url": "",
+        "is_visible": true
     }
 ]
