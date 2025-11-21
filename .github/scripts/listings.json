@@ -13800,5 +13800,21 @@
         "date_posted": 1763713857,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763713887,
+        "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/Toronto-Ontario-Canada/Undergraduate-Intern_R01543",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Altera",
+        "title": "Undergraduate Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "abc7eadf-694e-4f07-82fd-56e89711d68d",
+        "date_posted": 1763713887,
+        "company_url": "",
+        "is_visible": true
     }
 ]
