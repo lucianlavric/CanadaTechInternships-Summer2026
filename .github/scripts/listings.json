@@ -13848,5 +13848,21 @@
         "date_posted": 1763713969,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763714017,
+        "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Software-Engineering-Intern_R028411",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Ciena",
+        "title": "Software Engineering Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "3a00eaab-bd5e-4aa7-87e1-07b937241d7c",
+        "date_posted": 1763714017,
+        "company_url": "",
+        "is_visible": true
     }
 ]
