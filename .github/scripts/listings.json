@@ -13720,5 +13720,21 @@
         "date_posted": 1763608360,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763713681,
+        "url": "https://recruiting.ultipro.ca/CAR5001CARS/JobBoard/048eb299-c116-4fad-8152-4015b53361bb/OpportunityDetail?opportunityId=2c48ae55-9793-4f14-9020-bcaa843693f6",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Osler",
+        "title": "Junior Web Developer Co-Op",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "99196ba1-bc2f-4774-8997-045ff62b768b",
+        "date_posted": 1763713681,
+        "company_url": "",
+        "is_visible": true
     }
 ]
