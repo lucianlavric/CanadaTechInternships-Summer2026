@@ -13864,5 +13864,21 @@
         "date_posted": 1763714017,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763714041,
+        "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Development-Engine---Security-Engineering-Co-Op--Winter-2026-_R029505-1",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Ciena",
+        "title": "Development Engine \u2013 Security Engineering Co-Op",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "2ad1fd39-de89-415b-a929-fe6e801b548c",
+        "date_posted": 1763714041,
+        "company_url": "",
+        "is_visible": true
     }
 ]
