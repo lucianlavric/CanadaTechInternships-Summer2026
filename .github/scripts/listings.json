@@ -13752,5 +13752,21 @@
         "date_posted": 1763713711,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763713792,
+        "url": "https://altera.wd1.myworkdayjobs.com/en-US/Altera/job/FPGA-Design-Verification-Intern_R01631",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Altera",
+        "title": "FPGA Design Verification Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "5b4ad8b5-efbc-4932-9f41-f86320108fec",
+        "date_posted": 1763713792,
+        "company_url": "",
+        "is_visible": true
     }
 ]
