@@ -13816,5 +13816,21 @@
         "date_posted": 1763713887,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763713928,
+        "url": "https://jobs.teck.com/job/Vancouver-Cyber-Risk-Analyst-Co-op-Brit/52984-en_US",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "Teck",
+        "title": "Cyber Risk Analyst Co-op",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "6698b504-9b7f-4a20-86cd-22fddbd30a98",
+        "date_posted": 1763713928,
+        "company_url": "",
+        "is_visible": true
     }
 ]
