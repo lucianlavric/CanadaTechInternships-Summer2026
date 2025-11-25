@@ -19,6 +19,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Packetlabs Ltd | Associate Ethical Hacker | Remote | <a href="https://ats.rippling.com/en-CA/packetlabs/jobs/7e2ac395-7a19-4a2c-bee8-f23993217e6b?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
+| ARUP | Digital AI Intern | Toronto, ON | <a href="https://jobs.arup.com/jobs/digital-ai-intern-january-april-2026-30589?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | Teck | Cyber Risk Analyst Co-op | Vancouver, BC | <a href="https://jobs.teck.com/job/Vancouver-Cyber-Risk-Analyst-Co-op-Brit/52984-en_US?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
 | Osler | Junior Web Developer Co-Op | Toronto, ON | <a href="https://recruiting.ultipro.ca/CAR5001CARS/JobBoard/048eb299-c116-4fad-8152-4015b53361bb/OpportunityDetail?opportunityId=2c48ae55-9793-4f14-9020-bcaa843693f6&utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
 | Hitachi | Software Analyst Intern | Toronto, ON | <a href="https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Software-Analyst---Intern_R1010497-1?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |

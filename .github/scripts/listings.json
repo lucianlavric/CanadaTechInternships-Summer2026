@@ -13912,5 +13912,21 @@
         "date_posted": 1764043749,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764043768,
+        "url": "https://jobs.arup.com/jobs/digital-ai-intern-january-april-2026-30589",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "ARUP",
+        "title": "Digital AI Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "9d876d99-0287-470e-be73-05c2bd0ad8b5",
+        "date_posted": 1764043768,
+        "company_url": "",
+        "is_visible": true
     }
 ]
