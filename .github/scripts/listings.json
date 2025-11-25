@@ -13880,5 +13880,21 @@
         "date_posted": 1763714041,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764043707,
+        "url": "https://careers.hpe.com/us/en/job/1193428/Wireless-Driver-Development-Intern---Summer-2026----Stagiaire-D%25C3%25A9veloppement-de-Pilote-Sans-Fil---%25C3%2589t%25C3%25A9-2026",
+        "locations": [
+            "St. Laurent, QC"
+        ],
+        "active": true,
+        "company_name": "HPE",
+        "title": "Wireless Driver Development Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "74eede3d-45c7-496e-900b-8f12b31bc7a6",
+        "date_posted": 1764043707,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -26,6 +26,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| HPE | Wireless Driver Development Intern | St. Laurent, QC | <a href="https://careers.hpe.com/us/en/job/1193428/Wireless-Driver-Development-Intern---Summer-2026----Stagiaire-D%25C3%25A9veloppement-de-Pilote-Sans-Fil---%25C3%2589t%25C3%25A9-2026?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | Robinhood | Vulnerability Management Intern | Toronto, ON | <a href="https://job-boards.greenhouse.io/robinhood/jobs/7161070?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
 | Motorola | Data Analyst Intern | Vancouver, BC | <a href="https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Vancouver-Canada/Data-Analyst-Intern--Hybrid-----Summer-2026-Internship-_R59571?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Lululemon | Analyst Intern - Global Planning | Vancouver, BC | <a href="https://careers.lululemon.com/en_US/careers/JobDetail/Analyst-Intern-Global-Planning-Contract-June-August-2026/55191?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
