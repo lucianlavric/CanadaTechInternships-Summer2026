@@ -13896,5 +13896,21 @@
         "date_posted": 1764043707,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764043749,
+        "url": "https://ats.rippling.com/en-CA/packetlabs/jobs/7e2ac395-7a19-4a2c-bee8-f23993217e6b",
+        "locations": [
+            "Remote"
+        ],
+        "active": true,
+        "company_name": "Packetlabs Ltd",
+        "title": "Associate Ethical Hacker",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "fad485e8-1b30-4072-b21f-ecfde02043e1",
+        "date_posted": 1764043749,
+        "company_url": "",
+        "is_visible": true
     }
 ]
