@@ -14265,5 +14265,22 @@
         "date_posted": 1764733583,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764735154,
+        "url": "https://jobs.lever.co/thinkingbox/c0e43e03-25cf-4b2b-8394-d37326dcf509",
+        "locations": [
+            "Vancouver, BC",
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Thinking Box",
+        "title": "Junior Front End Developer",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "a7f7d5f4-27d9-4440-b3ac-6e513b4c7bac",
+        "date_posted": 1764735154,
+        "company_url": "",
+        "is_visible": true
     }
 ]
