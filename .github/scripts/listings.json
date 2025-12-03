@@ -14233,5 +14233,21 @@
         "date_posted": 1764733387,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764733564,
+        "url": "https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/8023",
+        "locations": [
+            "Winnipeg, MB"
+        ],
+        "active": true,
+        "company_name": "StandardAero",
+        "title": "Computer Engineering Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "237de02e-3b2c-420c-824a-fb33c5baf215",
+        "date_posted": 1764733564,
+        "company_url": "",
+        "is_visible": true
     }
 ]
