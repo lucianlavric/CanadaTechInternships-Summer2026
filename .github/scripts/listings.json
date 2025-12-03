@@ -14089,5 +14089,21 @@
         "date_posted": 1764732626,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764732661,
+        "url": "https://careers.sonymusic.com/jobs/8305656002",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Sony Music",
+        "title": "Analytics and Insights",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "48280ca7-f55b-44e0-a8b5-c6558a065f53",
+        "date_posted": 1764732661,
+        "company_url": "",
+        "is_visible": true
     }
 ]
