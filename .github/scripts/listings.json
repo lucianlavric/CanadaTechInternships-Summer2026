@@ -14379,5 +14379,21 @@
         "date_posted": 1764735451,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764735482,
+        "url": "https://jobs.gem.com/groq/am9icG9zdDpU9zjWGJuQ98PV8wi1nIiY",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Groq",
+        "title": "Developer Growth Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "dec4dc9b-3315-4096-84f4-af1a216c3ede",
+        "date_posted": 1764735482,
+        "company_url": "",
+        "is_visible": true
     }
 ]
