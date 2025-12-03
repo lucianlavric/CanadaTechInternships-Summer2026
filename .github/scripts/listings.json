@@ -14592,5 +14592,21 @@
         "date_posted": 1764736016,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764736035,
+        "url": "https://cn360.csod.com/ux/ats/careersite/1/home/requisition/16224?c=cn360&sq=req16224",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "CN",
+        "title": "Intern, AI and Data - Procurement & Supply Management Performance",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "165a601f-5298-4f1e-b679-7b8af285afd7",
+        "date_posted": 1764736035,
+        "company_url": "",
+        "is_visible": true
     }
 ]
