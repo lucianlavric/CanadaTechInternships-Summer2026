@@ -14560,5 +14560,21 @@
         "date_posted": 1764735965,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764735995,
+        "url": "https://cn360.csod.com/ux/ats/careersite/1/home/requisition/16391?c=cn360&sq=req16391",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "CN",
+        "title": "Intern, Operational Technology (GIS Technologies)",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "e5806b00-a248-40c6-baa4-37e7198dcd9f",
+        "date_posted": 1764735995,
+        "company_url": "",
+        "is_visible": true
     }
 ]
