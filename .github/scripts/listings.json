@@ -14495,5 +14495,21 @@
         "date_posted": 1764735761,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764735803,
+        "url": "https://jobs.ericsson.com/careers/job/563121773319968",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Ericsson",
+        "title": "RAN Reliability System",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "5614971a-bbe0-4047-8b6d-64996741daef",
+        "date_posted": 1764735803,
+        "company_url": "",
+        "is_visible": true
     }
 ]
