@@ -14463,5 +14463,21 @@
         "date_posted": 1764735625,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764735720,
+        "url": "https://foresters.wd3.myworkdayjobs.com/ForestersFinancialCareers/job/Toronto/Software-Engineer-Co-op-Student_R-2070",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Foresters, Financial",
+        "title": "Software Engineer Co-op Student",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "6d66a83e-b746-45a1-9538-e639e7bf076e",
+        "date_posted": 1764735720,
+        "company_url": "",
+        "is_visible": true
     }
 ]
