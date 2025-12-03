@@ -14330,5 +14330,22 @@
         "date_posted": 1764735293,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764735322,
+        "url": "https://careers.hootsuite.com/job/?gh_jid=7426820",
+        "locations": [
+            "Toronto, ON",
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "Hootsuite",
+        "title": "Co-op/Intern, DevOps",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "50777639-df36-441b-a1a7-bfbcae8aeb7c",
+        "date_posted": 1764735322,
+        "company_url": "",
+        "is_visible": true
     }
 ]
