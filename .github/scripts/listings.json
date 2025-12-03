@@ -14105,5 +14105,21 @@
         "date_posted": 1764732661,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764732721,
+        "url": "https://wisk.wd108.myworkdayjobs.com/en-US/Wisk_Careers/job/Montreal/Stagiaire--Autonomie-et-tests-logiciels---Autonomy-and-Software-Test-intern_JR100390",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "Wisk",
+        "title": "Autonomy and Software Test intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "0e0b4689-8d75-444d-bdb8-c3c440b72f05",
+        "date_posted": 1764732721,
+        "company_url": "",
+        "is_visible": true
     }
 ]
