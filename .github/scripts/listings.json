@@ -14443,5 +14443,25 @@
         "date_posted": 1764735592,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764735625,
+        "url": "https://rbcborealis.com/program-applications/summer-2026-ml-researcher-internship/",
+        "locations": [
+            "Toronto, ON",
+            "Vancouver, BC",
+            "Montreal, QC",
+            "Waterloo, ON",
+            "Calgary, AB"
+        ],
+        "active": true,
+        "company_name": "RBC",
+        "title": "Machine Learning Researcher Internship",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "b39bf747-feeb-4d83-b377-ad78b6b5ea54",
+        "date_posted": 1764735625,
+        "company_url": "",
+        "is_visible": true
     }
 ]
