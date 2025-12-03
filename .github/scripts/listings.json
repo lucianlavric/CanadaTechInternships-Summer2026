@@ -14427,5 +14427,21 @@
         "date_posted": 1764735576,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764735592,
+        "url": "https://jobs.gem.com/groq/am9icG9zdDomnofqBf5ndlaFDrthIEvk",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Groq",
+        "title": "Silicon Validation Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "d292ceef-550e-4070-96b2-b7f71a03d434",
+        "date_posted": 1764735592,
+        "company_url": "",
+        "is_visible": true
     }
 ]
