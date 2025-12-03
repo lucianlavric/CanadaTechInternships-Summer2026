@@ -14363,5 +14363,21 @@
         "date_posted": 1764735406,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764735451,
+        "url": "https://livenation.wd503.myworkdayjobs.com/en-US/TMExternalSite/job/Toronto-ON-CA/Platform-Engineer-Internship_JR-85016-2",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Ticketmaster",
+        "title": "Platform Engineer Internship",
+        "season": "Spring",
+        "source": "AliElrafih",
+        "id": "7cbcf572-1b1f-492c-a562-b81cef792a77",
+        "date_posted": 1764735451,
+        "company_url": "",
+        "is_visible": true
     }
 ]
