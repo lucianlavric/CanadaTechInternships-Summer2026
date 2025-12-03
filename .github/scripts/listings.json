@@ -14411,5 +14411,21 @@
         "date_posted": 1764735551,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764735576,
+        "url": "https://jobs.gem.com/groq/am9icG9zdDp_XOGxqslxtt1lMvXQdLX3",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Groq",
+        "title": "ASIC Formal Verification Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "c429a5f3-e6ae-479a-bbb0-c36d4ede239b",
+        "date_posted": 1764735576,
+        "company_url": "",
+        "is_visible": true
     }
 ]
