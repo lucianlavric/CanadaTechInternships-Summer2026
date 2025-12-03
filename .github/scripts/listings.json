@@ -14479,5 +14479,21 @@
         "date_posted": 1764735720,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764735761,
+        "url": "https://jobs.lincolnelectric.com/job/Waterloo-Software-QA-Specialist-Intern-ON-ON-N2L-5V4/1270798301/",
+        "locations": [
+            "Waterloo, ON"
+        ],
+        "active": true,
+        "company_name": "Lincoln Electric",
+        "title": "Software QA Specialist Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "0326bd35-8a36-48c9-adfd-6dafa2bad837",
+        "date_posted": 1764735761,
+        "company_url": "",
+        "is_visible": true
     }
 ]
