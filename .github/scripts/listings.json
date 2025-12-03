@@ -14314,5 +14314,21 @@
         "date_posted": 1764735199,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764735293,
+        "url": "https://trench.csod.com/ux/ats/careersite/1/home/requisition/1444?c=trench&sq=req1444",
+        "locations": [
+            "Pickering, ON"
+        ],
+        "active": true,
+        "company_name": "Trench",
+        "title": "AI & ML Developer Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "64dfe81c-dbd1-42cf-b55e-155a05eeb7fb",
+        "date_posted": 1764735293,
+        "company_url": "",
+        "is_visible": true
     }
 ]
