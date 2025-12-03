@@ -14201,5 +14201,21 @@
         "date_posted": 1764732939,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764733296,
+        "url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2003137EXTERNALENGLOBAL/Software-Developer-Intern-I-Canada",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Cisco",
+        "title": "Software Developer (Intern) I",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "6445363a-03cf-4611-8dce-8b4a719967ad",
+        "date_posted": 1764733296,
+        "company_url": "",
+        "is_visible": true
     }
 ]
