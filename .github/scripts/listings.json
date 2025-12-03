@@ -14282,5 +14282,21 @@
         "date_posted": 1764735154,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764735176,
+        "url": "https://cn360.csod.com/ux/ats/careersite/1/home/requisition/16232?c=cn360&sq=req16232",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "CN",
+        "title": "Intern, Operational Technology (Intermodal Solutions)",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "498f0d76-dea2-4613-8bf3-13f67a54c20a",
+        "date_posted": 1764735176,
+        "company_url": "",
+        "is_visible": true
     }
 ]
