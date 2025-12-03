@@ -14511,5 +14511,22 @@
         "date_posted": 1764735803,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764735916,
+        "url": "https://canadiansolar.wd5.myworkdayjobs.com/CanadianSolar/job/Kitchener-ON/IT-Infrastructure-Co-Op_10000852",
+        "locations": [
+            "Kitchener, ON",
+            "Guelph, ON"
+        ],
+        "active": true,
+        "company_name": "Canadian Solar",
+        "title": "IT Infrastructure Co-Op",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "959d024c-0f10-451d-8739-b3fe53f72e35",
+        "date_posted": 1764735916,
+        "company_url": "",
+        "is_visible": true
     }
 ]
