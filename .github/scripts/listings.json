@@ -13960,5 +13960,22 @@
         "date_posted": 1764732142,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764732172,
+        "url": "https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Edmonton/Student--Derivates-Operations--Summer-2026-_JR100720",
+        "locations": [
+            "Edmonton, AB",
+            "Calgary, AB"
+        ],
+        "active": true,
+        "company_name": "AimCo",
+        "title": "Derivatives Operations",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "6f9c350e-6d41-4948-90f7-dcddc1fcd347",
+        "date_posted": 1764732172,
+        "company_url": "",
+        "is_visible": true
     }
 ]
