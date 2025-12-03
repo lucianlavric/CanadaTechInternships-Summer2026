@@ -18,6 +18,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| BGIS | Spatial Data | Markham, ON | <a href="https://fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/fr-CA/sites/CX_1/job/227813?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 02 |
 | SAP | Full Stack Developer, Cloud Development | Montreal, QC | <a href="https://jobs.sap.com/job/Montreal-SAP-iXp-Intern-Full-Stack-Developer%2C-Cloud-Development-Queb-H3B-0B3/1270004401?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | Packetlabs Ltd | Associate Ethical Hacker | Remote | <a href="https://ats.rippling.com/en-CA/packetlabs/jobs/7e2ac395-7a19-4a2c-bee8-f23993217e6b?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | ARUP | Digital AI Intern | Toronto, ON | <a href="https://jobs.arup.com/jobs/digital-ai-intern-january-april-2026-30589?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
