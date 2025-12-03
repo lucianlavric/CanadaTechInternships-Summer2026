@@ -14298,5 +14298,21 @@
         "date_posted": 1764735176,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764735199,
+        "url": "https://careers.amd.com/careers-home/jobs/73039",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "AMD",
+        "title": "AI Solutions Tech Marketing Intern/Co-op",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "f0a67fb4-6bbb-44ac-a54b-03507ba26bf9",
+        "date_posted": 1764735199,
+        "company_url": "",
+        "is_visible": true
     }
 ]
