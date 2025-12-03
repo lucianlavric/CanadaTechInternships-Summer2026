@@ -14217,5 +14217,21 @@
         "date_posted": 1764733296,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764733387,
+        "url": "https://careers.worksafebc.com/?offerid=4794",
+        "locations": [
+            "BC"
+        ],
+        "active": true,
+        "company_name": "Cegid",
+        "title": "Cybersecurity SOC Analyst",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "4af1b5a8-2835-4c0c-9284-8e4b75d173e7",
+        "date_posted": 1764733387,
+        "company_url": "",
+        "is_visible": true
     }
 ]
