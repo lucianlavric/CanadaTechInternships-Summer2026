@@ -14025,5 +14025,21 @@
         "date_posted": 1764732307,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764732366,
+        "url": "https://career17.sapsf.com/career?career_ns=job_listing&company=investorsgP&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=13805",
+        "locations": [
+            "Manitoba"
+        ],
+        "active": true,
+        "company_name": "IGM Financial",
+        "title": "Data Office",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "cab693c9-b3b5-4a41-9774-999176247549",
+        "date_posted": 1764732366,
+        "company_url": "",
+        "is_visible": true
     }
 ]
