@@ -13977,5 +13977,21 @@
         "date_posted": 1764732172,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764732238,
+        "url": "https://www.bnpparibas.ca/en/jobs/intern-market-risk-analyst-summer-2026/",
+        "locations": [
+            "Montreal QC"
+        ],
+        "active": true,
+        "company_name": "BNP Paribas",
+        "title": "Market Risk Analyst",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "0b22fbfd-ff22-4403-883e-8cecccd648a2",
+        "date_posted": 1764732238,
+        "company_url": "",
+        "is_visible": true
     }
 ]
