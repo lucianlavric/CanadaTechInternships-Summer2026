@@ -14576,5 +14576,21 @@
         "date_posted": 1764735995,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764736016,
+        "url": "https://cn360.csod.com/ux/ats/careersite/1/home/requisition/16299?c=cn360&sq=req16299",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "CN",
+        "title": "Intern, Data Engineer (Solution Integration)",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "cfd5e564-d8bb-4132-ac17-a49928ea9cd0",
+        "date_posted": 1764736016,
+        "company_url": "",
+        "is_visible": true
     }
 ]
