@@ -14121,5 +14121,21 @@
         "date_posted": 1764732721,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764732775,
+        "url": "https://wisk.wd108.myworkdayjobs.com/en-US/Wisk_Careers/job/Montreal/Stagiaire---Ingnierie-d-intgration-de-systmes-de-contrle---Control-System-Integration-Engineering-Intern_JR100392",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "Wisk",
+        "title": "Control System Integration Engineering Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "109e4c2c-4e5e-4c17-be1d-9c2217e35b86",
+        "date_posted": 1764732775,
+        "company_url": "",
+        "is_visible": true
     }
 ]
