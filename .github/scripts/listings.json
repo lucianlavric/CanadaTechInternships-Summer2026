@@ -14041,5 +14041,21 @@
         "date_posted": 1764732366,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764732495,
+        "url": "https://careers.oeb.ca/job/Toronto-Co-op-Student%2C-Performance-Analytics-&-Reporting-ON-M4P-1E4/1290542447",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Ontario Energy Board",
+        "title": "Performance Analytics & Reporting",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "df9016ad-d5d7-445e-b405-5dfd67a7110c",
+        "date_posted": 1764732495,
+        "company_url": "",
+        "is_visible": true
     }
 ]
