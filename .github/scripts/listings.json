@@ -14528,5 +14528,21 @@
         "date_posted": 1764735916,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764735946,
+        "url": "https://ia.ca/en/carrieres/job/JR10024554",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "iA Financial Group",
+        "title": "Analyst, Quality Assurance Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "b7904188-75cd-4deb-8517-90eadbd1eb3e",
+        "date_posted": 1764735946,
+        "company_url": "",
+        "is_visible": true
     }
 ]
