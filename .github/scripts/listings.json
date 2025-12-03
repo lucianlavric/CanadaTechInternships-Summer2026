@@ -14073,5 +14073,21 @@
         "date_posted": 1764732555,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764732626,
+        "url": "https://cn360.csod.com/ux/ats/careersite/1/home/requisition/16401?c=cn360&sq=req16401",
+        "locations": [
+            "Brampton, ON"
+        ],
+        "active": true,
+        "company_name": "CN",
+        "title": "Business Analyst Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "fabd2f33-c487-4a0b-8a37-95de4d92adb0",
+        "date_posted": 1764732626,
+        "company_url": "",
+        "is_visible": true
     }
 ]
