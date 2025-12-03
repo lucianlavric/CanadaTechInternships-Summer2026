@@ -14137,5 +14137,21 @@
         "date_posted": 1764732775,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764732840,
+        "url": "https://careers.qualcomm.com/careers/job/446715696771",
+        "locations": [
+            "Markham, ON"
+        ],
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "Automotive Engineering Internship",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "68dcda28-aad5-448b-9ce6-73e1588e589f",
+        "date_posted": 1764732840,
+        "company_url": "",
+        "is_visible": true
     }
 ]
