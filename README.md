@@ -26,6 +26,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Moody's | Data Analyst Intern | Toronto, ON | <a href="https://careers.moodys.com/summer-intern/job/11370?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 02 |
 | BNP Paribas | Market Risk Analyst | Montreal QC | <a href="https://www.bnpparibas.ca/en/jobs/intern-market-risk-analyst-summer-2026/?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 02 |
 | BMO | Quantitative Analyst | Toronto, ON | <a href="https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Quantitative-Analyst---Summer-2026--Co-op-Internship----4-Months_R250030327?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 02 |
 | AimCo | Derivatives Operations | Edmonton, AB</br>Calgary, AB | <a href="https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Edmonton/Student--Derivates-Operations--Summer-2026-_JR100720?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 02 |

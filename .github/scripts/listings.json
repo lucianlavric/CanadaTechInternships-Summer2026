@@ -13993,5 +13993,21 @@
         "date_posted": 1764732238,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764732286,
+        "url": "https://careers.moodys.com/summer-intern/job/11370",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Moody's",
+        "title": "Data Analyst Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "2b2c95d8-c805-41f4-aa8c-ffb6f355580a",
+        "date_posted": 1764732286,
+        "company_url": "",
+        "is_visible": true
     }
 ]
