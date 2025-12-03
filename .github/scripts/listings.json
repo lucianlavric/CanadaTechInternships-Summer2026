@@ -14395,5 +14395,21 @@
         "date_posted": 1764735482,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764735551,
+        "url": "https://jobs.gem.com/groq/am9icG9zdDqXrgQdpuYlK_dzmFt5yz1e",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Groq",
+        "title": "ASIC Design Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "0c4a1e5c-9671-4e9b-82f6-ed8760fd6f13",
+        "date_posted": 1764735551,
+        "company_url": "",
+        "is_visible": true
     }
 ]
