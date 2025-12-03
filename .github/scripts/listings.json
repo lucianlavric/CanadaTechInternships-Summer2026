@@ -14608,5 +14608,22 @@
         "date_posted": 1764736035,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764736058,
+        "url": "https://cn360.csod.com/ux/ats/careersite/1/home/requisition/16319?c=cn360&sq=req16319",
+        "locations": [
+            "Toronto, ON",
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "CN",
+        "title": "Intern, Operational Technology (Onboard & Network Technology)",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "e15a0e60-59d4-47a4-a0a6-9711fc17c230",
+        "date_posted": 1764736058,
+        "company_url": "",
+        "is_visible": true
     }
 ]
