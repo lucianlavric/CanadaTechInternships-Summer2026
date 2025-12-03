@@ -14057,5 +14057,21 @@
         "date_posted": 1764732495,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764732555,
+        "url": "https://jobs.dayforcehcm.com/en-US/upp/EXTERNALCANDIDATEPORTAL/jobs/1657?preview=true",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "University Pension Plan",
+        "title": "Data & Technology Analyst",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "8ef5055a-187f-4400-8ff8-d2a19c3d7c2b",
+        "date_posted": 1764732555,
+        "company_url": "",
+        "is_visible": true
     }
 ]
