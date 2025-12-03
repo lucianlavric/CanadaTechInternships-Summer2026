@@ -14347,5 +14347,21 @@
         "date_posted": 1764735322,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764735406,
+        "url": "https://rakuten.wd1.myworkdayjobs.com/Kobo/job/Toronto-Canada/DevOps-Engineer--12-Month-Co-op-_1030261",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Rakuten",
+        "title": "DevOps Engineer",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "989efb6b-8afd-476a-9bb1-b153d4f05643",
+        "date_posted": 1764735406,
+        "company_url": "",
+        "is_visible": true
     }
 ]
