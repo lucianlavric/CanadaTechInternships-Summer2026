@@ -14185,5 +14185,21 @@
         "date_posted": 1764732898,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764732939,
+        "url": "https://careers.spartancontrols.com/job/Calgary-Co-opIntern-Student-Engineering-Practice-AB-T2A-7V2/597767117",
+        "locations": [
+            "Calgary, AB"
+        ],
+        "active": true,
+        "company_name": "Spartan Controls",
+        "title": "Intern Student - Engineering Practice",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "355918e6-c0bb-49f1-9cee-eb624955c48f",
+        "date_posted": 1764732939,
+        "company_url": "",
+        "is_visible": true
     }
 ]
