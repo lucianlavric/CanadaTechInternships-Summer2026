@@ -14153,5 +14153,21 @@
         "date_posted": 1764732840,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764732870,
+        "url": "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Montral---1190-av-des-Canadiens-de-Montral/Student-Intern--DevOps_R-5449",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "TMX",
+        "title": "Student Intern, DevOps",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "8f16b9a5-3235-4d5d-b110-0a6e94a27766",
+        "date_posted": 1764732870,
+        "company_url": "",
+        "is_visible": true
     }
 ]
