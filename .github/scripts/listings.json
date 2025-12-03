@@ -13944,5 +13944,21 @@
         "date_posted": 1764043793,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1764732142,
+        "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Quantitative-Analyst---Summer-2026--Co-op-Internship----4-Months_R250030327",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "BMO",
+        "title": "Quantitative Analyst",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "e1c4aded-0f6e-468f-a2a1-92d6273f172c",
+        "date_posted": 1764732142,
+        "company_url": "",
+        "is_visible": true
     }
 ]
