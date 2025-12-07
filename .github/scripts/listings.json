@@ -14787,5 +14787,21 @@
         "date_posted": 1765081166,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1765081192,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Software-Engineering-Intern--Omniverse-Replicator---Summer-2026_JR2008720",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Nividia",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "c6db00f5-34fe-4f87-9a8f-2a7e42f64c80",
+        "date_posted": 1765081192,
+        "company_url": "",
+        "is_visible": true
     }
 ]
