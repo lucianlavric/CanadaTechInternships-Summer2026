@@ -14755,5 +14755,21 @@
         "date_posted": 1765081109,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1765081134,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23811",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "7e7a479c-6503-4f29-adc4-2b9ed8e3d23b",
+        "date_posted": 1765081134,
+        "company_url": "",
+        "is_visible": true
     }
 ]
