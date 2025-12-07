@@ -14739,5 +14739,21 @@
         "date_posted": 1765080980,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1765081109,
+        "url": "https://careers-kinaxis.icims.com/jobs/33863/co-op-intern-ai-%26-hr-process-excellence/job?mobile=false&width=726&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
+        "locations": [
+            "Remote"
+        ],
+        "active": true,
+        "company_name": "Kinaxis",
+        "title": "Intern AI & HR Process Excellence",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "a5e467d5-e05a-4d68-9d02-ec08d50204b9",
+        "date_posted": 1765081109,
+        "company_url": "",
+        "is_visible": true
     }
 ]
