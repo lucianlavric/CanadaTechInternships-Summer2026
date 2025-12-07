@@ -14625,5 +14625,21 @@
         "date_posted": 1764736058,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1765080487,
+        "url": "https://orthofix.wd1.myworkdayjobs.com/en-US/External_Careers/job/Toronto/Intern---Canada_OFX25627",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Orthofix",
+        "title": "Data Scientist",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "060e556f-3373-4bbc-a258-a6339cadc799",
+        "date_posted": 1765080487,
+        "company_url": "",
+        "is_visible": true
     }
 ]
