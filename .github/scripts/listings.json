@@ -14690,5 +14690,22 @@
         "date_posted": 1765080666,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1765080706,
+        "url": "https://genesys.wd1.myworkdayjobs.com/Genesys/job/Ontario-Canada/Software-Developer-Intern--Analytics--3mos-_JR109156",
+        "locations": [
+            "Ontario",
+            "British Colombia"
+        ],
+        "active": true,
+        "company_name": "Genesys",
+        "title": "Software Developer Intern, Analytics",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "32c14bba-437e-4fff-b541-97acd82634cf",
+        "date_posted": 1765080706,
+        "company_url": "",
+        "is_visible": true
     }
 ]
