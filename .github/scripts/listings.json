@@ -14867,5 +14867,21 @@
         "date_posted": 1765081402,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1765081412,
+        "url": "https://ehif.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25031",
+        "locations": [
+            "St Johns, NL"
+        ],
+        "active": true,
+        "company_name": "Wood",
+        "title": "Data Engineering/Computer Science Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "24186f65-20d9-4343-85a7-ed1aa5f2b011",
+        "date_posted": 1765081412,
+        "company_url": "",
+        "is_visible": true
     }
 ]
