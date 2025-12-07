@@ -14641,5 +14641,22 @@
         "date_posted": 1765080487,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1765080517,
+        "url": "https://bird.wd3.myworkdayjobs.com/BirdConstructionCareers/job/Mississauga-ON/Student-Data-Analyst_JR-8078",
+        "locations": [
+            "Mississauga, ON",
+            "Calgary, AB"
+        ],
+        "active": true,
+        "company_name": "Bird",
+        "title": "Student Data Analyst",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "9937fe19-a561-4965-a21e-d7efe69be3f3",
+        "date_posted": 1765080517,
+        "company_url": "",
+        "is_visible": true
     }
 ]
