@@ -14899,5 +14899,21 @@
         "date_posted": 1765081426,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1765081437,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28098",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Nokia",
+        "title": "IP Routing Customer Application Engineer Co-op/Intern",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "1a49f328-c38d-4a4a-b27a-9543960c0152",
+        "date_posted": 1765081437,
+        "company_url": "",
+        "is_visible": true
     }
 ]
