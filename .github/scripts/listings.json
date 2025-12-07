@@ -14851,5 +14851,21 @@
         "date_posted": 1765081367,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1765081402,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28026",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Cyber Security Dome Test Eng Student",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "272885f6-e8c0-4b62-bbe8-3b44f06159a0",
+        "date_posted": 1765081402,
+        "company_url": "",
+        "is_visible": true
     }
 ]
