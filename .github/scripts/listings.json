@@ -14835,5 +14835,21 @@
         "date_posted": 1765081312,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1765081367,
+        "url": "https://wisk.wd108.myworkdayjobs.com/en-US/Wisk_Careers/job/Montreal/Stagiaire---Simulation-en-temps-rel---Real-Time-Simulation-Intern_JR100396",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "active": true,
+        "company_name": "Wisk",
+        "title": "Real-Time Simulation Intern",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "d1bf00a1-fb99-4778-a496-034c44ecf53e",
+        "date_posted": 1765081367,
+        "company_url": "",
+        "is_visible": true
     }
 ]
