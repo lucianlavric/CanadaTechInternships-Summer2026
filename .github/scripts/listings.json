@@ -14803,5 +14803,21 @@
         "date_posted": 1765081192,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1765081240,
+        "url": "https://www.amazon.jobs/en/jobs/3136815/robotics-software-development-engineer-intern-2026-toronto",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Software Development Engineer Intern- Robotics",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "93cc19bc-6e0f-4f83-9e09-5bb23261dbc9",
+        "date_posted": 1765081240,
+        "company_url": "",
+        "is_visible": true
     }
 ]
