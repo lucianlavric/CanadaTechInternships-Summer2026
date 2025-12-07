@@ -14707,5 +14707,21 @@
         "date_posted": 1765080706,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1765080790,
+        "url": "https://typeoneenergy.teamtailor.com/jobs/6891302-summer-internship-computational-physicist",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "active": true,
+        "company_name": "Type One Energy",
+        "title": "Computational Physicist",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "81260dc3-0cc3-440b-94b7-152dd2806fff",
+        "date_posted": 1765080790,
+        "company_url": "",
+        "is_visible": true
     }
 ]
