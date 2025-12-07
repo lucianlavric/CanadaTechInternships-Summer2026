@@ -14723,5 +14723,21 @@
         "date_posted": 1765080790,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1765080980,
+        "url": "https://careers.unitedhealthgroup.com/job/22711067/software-development-co-op-canada-richmond-bc-richmond-ca/",
+        "locations": [
+            "Richmond, BC"
+        ],
+        "active": true,
+        "company_name": "United Health Group",
+        "title": "Software Development Co-op",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "daa6760d-44ae-4af0-85e2-5bb2f04d6f99",
+        "date_posted": 1765080980,
+        "company_url": "",
+        "is_visible": true
     }
 ]
