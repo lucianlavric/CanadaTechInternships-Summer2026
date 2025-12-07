@@ -14819,5 +14819,21 @@
         "date_posted": 1765081240,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1765081312,
+        "url": "https://careers.spartancontrols.com/job/Calgary-Co-opIntern-Student-Data-&-Software-Specialist-AB-T2A-7V2/597780717",
+        "locations": [
+            "Calgary, AB"
+        ],
+        "active": true,
+        "company_name": "Spartan Controls",
+        "title": "Data & Software Specialist",
+        "season": "Summer",
+        "source": "AliElrafih",
+        "id": "a99d89fd-9054-4e73-84a6-0bcc5531348b",
+        "date_posted": 1765081312,
+        "company_url": "",
+        "is_visible": true
     }
 ]
