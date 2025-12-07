@@ -14658,5 +14658,21 @@
         "date_posted": 1765080517,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1765080562,
+        "url": "https://careers.zebra.com/careers/job/343636481729",
+        "locations": [
+            "Saint-Laurent, QC"
+        ],
+        "active": true,
+        "company_name": "Zebra",
+        "title": "Software Developer",
+        "season": "Winter",
+        "source": "AliElrafih",
+        "id": "3a7381fd-2320-4978-b137-8c1ef6d6cd59",
+        "date_posted": 1765080562,
+        "company_url": "",
+        "is_visible": true
     }
 ]
