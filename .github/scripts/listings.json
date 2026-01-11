@@ -12594,12 +12594,12 @@
         "is_visible": true
     },
     {
-        "date_updated": 1763055876,
+        "date_updated": 1768173553,
         "url": "https://www.amazon.jobs/en/jobs/3121430/software-dev-engineer-intern-ai-summer-2026-amazon-devices-services-canada",
         "locations": [
             "Toronto, ON"
         ],
-        "active": true,
+        "active": false,
         "company_name": "Amazon",
         "title": "Software Dev Engineer Intern - AI",
         "season": "Summer",
