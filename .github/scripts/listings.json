@@ -11133,12 +11133,12 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759983479,
+        "date_updated": 1768173541,
         "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Junior-Cloud-Engineer--Summer-2026-Co-op-Internship----16-Months-_R250025607-1",
         "locations": [
             "Toronto, ON"
         ],
-        "active": true,
+        "active": false,
         "company_name": "BMO",
         "title": "Junior Cloud Engineer",
         "season": "Summer",
