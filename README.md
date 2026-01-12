@@ -26,6 +26,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| SAP Canada | SAP i Xp Intern - Associate Full Stack Developer | Quebec, CA | <a href="https://jobs.sap.com/job/Montreal-SAP-iXp-Intern-Associate-Full-Stack-Developer-Queb-H3B-0B3/1274860001/?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 11 |
 | Spartan Controls | Data & Software Specialist | Calgary, AB | <a href="https://careers.spartancontrols.com/job/Calgary-Co-opIntern-Student-Data-&-Software-Specialist-AB-T2A-7V2/597780717?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 06 |
 | Nokia | IP Routing Customer Application Engineer Co-op/Intern | Ottawa, ON | <a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28098?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 06 |
 | ↳ | Cyber Security Dome Test Eng Student | Ottawa, ON | <a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28026?utm_source=lukainternshiplist"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 06 |
