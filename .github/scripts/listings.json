@@ -1,22 +1,6 @@
 [
     {
         "source": "scraper",
-        "company_name": "Absolute Software",
-        "id": "dc4429f0-bc6e-44d5-9a69-29c8698579e5",
-        "title": "Intern - Software Development",
-        "active": true,
-        "date_updated": 1768314004,
-        "is_visible": true,
-        "date_posted": 1768314004,
-        "url": "https://jobs.jobvite.com/absolute/job/oiUYyfws",
-        "locations": [
-            "Canada"
-        ],
-        "season": "Summer",
-        "company_url": ""
-    },
-    {
-        "source": "scraper",
         "company_name": "SAP Canada",
         "id": "fb5f4ddc-ec0e-451d-b831-23f02c0b52ce",
         "title": "SAP i Xp Intern - Customer Innovation Services - Software Developer",
