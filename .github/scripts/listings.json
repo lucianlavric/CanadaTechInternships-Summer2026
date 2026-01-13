@@ -1,6 +1,105 @@
 [
     {
         "source": "scraper",
+        "company_name": "Bell Canada",
+        "id": "14894ca7-8d10-48f4-912d-ff91a8ace97b",
+        "title": "Software Engineering Intern - Bell Canada",
+        "active": true,
+        "date_updated": 1768314005,
+        "is_visible": true,
+        "date_posted": 1768314005,
+        "url": "https://jobs.bell.ca/ca/en/home",
+        "locations": [
+            "Next Slide    Client Executive, BB",
+            "Client Executive, BB"
+        ],
+        "season": "Summer",
+        "company_url": ""
+    },
+    {
+        "source": "scraper",
+        "company_name": "Notion Canada",
+        "id": "b74271b9-65eb-4f37-9798-962d967200ee",
+        "title": "Software Engineer Intern (Summer 2026)San Francisco, California; New York, New York",
+        "active": true,
+        "date_updated": 1768314004,
+        "is_visible": true,
+        "date_posted": 1768314004,
+        "url": "https://jobs.ashbyhq.com/notion/23ac2477-0008-4bed-b1c1-81f90a32e9e6",
+        "locations": [
+            "Canada"
+        ],
+        "season": "Summer",
+        "company_url": ""
+    },
+    {
+        "source": "scraper",
+        "company_name": "Absolute Software",
+        "id": "dc4429f0-bc6e-44d5-9a69-29c8698579e5",
+        "title": "Intern - Software Development",
+        "active": true,
+        "date_updated": 1768314004,
+        "is_visible": true,
+        "date_posted": 1768314004,
+        "url": "https://jobs.jobvite.com/absolute/job/oiUYyfws",
+        "locations": [
+            "Canada"
+        ],
+        "season": "Summer",
+        "company_url": ""
+    },
+    {
+        "source": "scraper",
+        "company_name": "SAP Canada",
+        "id": "fb5f4ddc-ec0e-451d-b831-23f02c0b52ce",
+        "title": "SAP i Xp Intern - Customer Innovation Services - Software Developer",
+        "active": true,
+        "date_updated": 1768314003,
+        "is_visible": true,
+        "date_posted": 1768314003,
+        "url": "https://jobs.sap.com/job/Montreal-SAP-iXp-Intern-Customer-Innovation-Services-Software-Developer-Queb-H3B-0B3/1282204201/",
+        "locations": [
+            "Quebec, CA"
+        ],
+        "season": "Summer",
+        "company_url": ""
+    },
+    {
+        "source": "scraper",
+        "company_name": "Cohere",
+        "id": "f53b3fb4-443d-4dab-be77-584d3a407773",
+        "title": "Software Engineer, Internal Infrastructure (Europe & UK)Infrastructure \u2022 United Kingdom; Europe; London \u2022 Full time \u2022 Remote",
+        "active": true,
+        "date_updated": 1768314003,
+        "is_visible": true,
+        "date_posted": 1768314003,
+        "url": "https://jobs.ashbyhq.com/cohere/4dd749aa-a675-4430-98fb-6701c8e14ab6",
+        "locations": [
+            "Toronto",
+            "London",
+            "Hybrid"
+        ],
+        "season": "Summer",
+        "company_url": ""
+    },
+    {
+        "source": "scraper",
+        "company_name": "Visier",
+        "id": "e1ae50cb-431e-439b-95b0-7803901cc375",
+        "title": "Data Model Co-op (May to December 2026)New Vancouver, BC, Canada",
+        "active": true,
+        "date_updated": 1768314003,
+        "is_visible": true,
+        "date_posted": 1768314003,
+        "url": "https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4627561006",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "season": "Summer",
+        "company_url": ""
+    },
+    {
+        "source": "scraper",
         "company_name": "SAP Canada",
         "id": "fe9ab85b-1e21-45ac-aaff-176d42ad2a6d",
         "title": "SAP i Xp Intern - Associate Full Stack Developer",
