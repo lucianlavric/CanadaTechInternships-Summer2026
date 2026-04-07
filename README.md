@@ -1,3 +1,5 @@
+# CURRENTLY NOT BEING MAINTAINED ANYMORE. LOOKING FOR CONTRIBUTERS TO KEEP THIS ALIVE. Email me at lucianlavric2005@gmail.com if you're interested!
+
 # Canada-Tech-Internships-Summer-2026
 
 ## **(For off-season internships, please see the [Off-Season README](./OFFSEASON_README.md).)** 
