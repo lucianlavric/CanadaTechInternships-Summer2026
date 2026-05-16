@@ -6,6 +6,10 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 🙏 **Contribute by submitting an [issue](https://github.com/lucianlavric/CanadaTechInternships-Summer2026/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
+## Related Canadian student job resources
+
+- [Hanzilla Jobs](https://jobs.hanzilla.co/internships/) - a free, daily-updated Canadian student and recent-grad job board covering internships, co-ops, new-grad, junior, and entry-level roles across tech, finance, engineering, business, sciences, and more.
+
 ---
 
 ## The List 🚴🏔
