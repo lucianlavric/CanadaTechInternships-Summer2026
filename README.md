@@ -14,6 +14,10 @@ This list is maintained collaboratively by Luka and Ali!
 
 This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJobs/Summer2024-Internships).
 
+### Related Canadian student job resources
+
+- [Hanzilla Jobs](https://jobs.hanzilla.co/internships/) - free daily-updated Canadian student and recent-grad jobs board for internships, co-ops, new-grad, junior, and entry-level roles across tech, engineering, finance, business, sciences, arts, and other fields.
+
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flucianlavric%2FCanadaTechInternships-Summer2026&labelColor=%23697689&countColor=%23d9e3f0&style=flat-square&labelStyle=upper)
 
 ---
